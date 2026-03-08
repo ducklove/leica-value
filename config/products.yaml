@@ -1,0 +1,501 @@
+categories:
+- id: m-digital-bodies
+  name_ko: M 디지털 바디
+  name_en: M Digital Bodies
+  subcategories:
+  - id: flagship
+    name_ko: 플래그십
+    name_en: Flagship
+    sort_order: 1
+  - id: midrange
+    name_ko: 중급기
+    name_en: Midrange
+    sort_order: 2
+  - id: classic
+    name_ko: 클래식 디지털
+    name_en: Classic Digital
+    sort_order: 3
+  products:
+  - id: leica-m11-p
+    name_ko: 라이카 M11-P
+    name_en: Leica M11-P
+    release_year: 2023
+    subcategory: flagship
+    query: Leica M11-P body -half case -thumb support -grip -strap -summicron -summilux
+    category_id: '31388'
+    min_price: 6000
+    max_price: 11000
+  - id: leica-m11
+    name_ko: 라이카 M11
+    name_en: Leica M11
+    release_year: 2022
+    subcategory: flagship
+    query: Leica M11 body -M11-P -half case -thumb support -grip -strap -summicron -summilux
+    category_id: '31388'
+    min_price: 4500
+    max_price: 9000
+  - id: leica-m10-r
+    name_ko: 라이카 M10-R
+    name_en: Leica M10-R
+    release_year: 2020
+    subcategory: flagship
+    query: Leica M10-R body -half case -thumb support -grip -strap -summicron -summilux
+    category_id: '31388'
+    min_price: 3500
+    max_price: 7000
+  - id: leica-m10
+    name_ko: 라이카 M10
+    name_en: Leica M10
+    release_year: 2017
+    subcategory: midrange
+    query: Leica M10 body -M10-R -M10-P -half case -thumb support -grip -strap -summicron -summilux
+    category_id: '31388'
+    min_price: 2800
+    max_price: 5500
+  - id: leica-m-typ-240
+    name_ko: 라이카 M (Typ 240)
+    name_en: Leica M (Typ 240)
+    release_year: 2012
+    subcategory: classic
+    query: Leica M typ 240 body -type 262 -typ 262 -M-P 240 -half case -grip
+    category_id: '31388'
+    min_price: 1800
+    max_price: 4000
+  - id: leica-m9
+    name_ko: 라이카 M9
+    name_en: Leica M9
+    release_year: 2009
+    subcategory: classic
+    query: Leica M9 body -half case -grip -summicron -summilux
+    category_id: '31388'
+    min_price: 1500
+    max_price: 3500
+  - id: leica-m-edition-60
+    name_ko: 라이카 M Edition 60
+    name_en: Leica M Edition 60
+    release_year: 2014
+    subcategory: flagship
+    query: Leica M Edition 60 -manual -book -brochure -summilux
+    category_id: '31388'
+    min_price: 12000
+    max_price: 26000
+    is_rare: true
+    rarity_tier: A
+    rarity_sort: 30
+    rarity_price_hint: 12,000–20,000+
+    rarity_note: 렌즈 세트와 풀박스 여부에 크게 좌우됩니다.
+- id: q-series
+  name_ko: Q 시리즈
+  name_en: Q Series
+  subcategories:
+  - id: flagship
+    name_ko: 플래그십
+    name_en: Flagship
+    sort_order: 1
+  - id: midrange
+    name_ko: 중급기
+    name_en: Midrange
+    sort_order: 2
+  - id: compact
+    name_ko: 컴팩트
+    name_en: Compact
+    sort_order: 3
+  products:
+  - id: leica-q3-43
+    name_ko: 라이카 Q3 43
+    name_en: Leica Q3 43
+    release_year: 2024
+    subcategory: flagship
+    query: Leica Q3 43 camera -half case -grip -hood -book
+    category_id: '31388'
+    min_price: 5500
+    max_price: 8500
+  - id: leica-q3
+    name_ko: 라이카 Q3
+    name_en: Leica Q3
+    release_year: 2023
+    subcategory: flagship
+    query: Leica Q3 camera -Q3 43 -half case -grip -hood -book
+    category_id: '31388'
+    min_price: 4500
+    max_price: 8000
+  - id: leica-q2
+    name_ko: 라이카 Q2
+    name_en: Leica Q2
+    release_year: 2019
+    subcategory: midrange
+    query: Leica Q2 camera -Q2 Reporter -half case -grip -hood -book
+    category_id: '31388'
+    min_price: 2800
+    max_price: 5500
+  - id: leica-q
+    name_ko: 라이카 Q (Typ 116)
+    name_en: Leica Q (Typ 116)
+    release_year: 2015
+    subcategory: midrange
+    query: Leica Q typ 116 camera -Q2 -Q3 -half case -grip -hood -book
+    category_id: '31388'
+    min_price: 1800
+    max_price: 3500
+  - id: leica-d-lux-8
+    name_ko: 라이카 D-Lux 8
+    name_en: Leica D-Lux 8
+    release_year: 2024
+    subcategory: compact
+    query: Leica D-Lux 8 camera -case -grip -hood
+    category_id: '31388'
+    min_price: 1400
+    max_price: 2200
+  - id: leica-d-lux-7
+    name_ko: 라이카 D-Lux 7
+    name_en: Leica D-Lux 7
+    release_year: 2018
+    subcategory: compact
+    query: Leica D-Lux 7 camera -case -grip -hood
+    category_id: '31388'
+    min_price: 800
+    max_price: 1600
+- id: sl-bodies
+  name_ko: SL 바디
+  name_en: SL Bodies
+  subcategories:
+  - id: flagship
+    name_ko: 플래그십
+    name_en: Flagship
+    sort_order: 1
+  - id: midrange
+    name_ko: 중급기
+    name_en: Midrange
+    sort_order: 2
+  - id: entry
+    name_ko: 엔트리
+    name_en: Entry
+    sort_order: 3
+  products:
+  - id: leica-sl3
+    name_ko: 라이카 SL3
+    name_en: Leica SL3
+    release_year: 2024
+    subcategory: flagship
+    query: Leica SL3 body -summicron -vario -half case -grip
+    category_id: '31388'
+    min_price: 4500
+    max_price: 8000
+  - id: leica-sl2
+    name_ko: 라이카 SL2
+    name_en: Leica SL2
+    release_year: 2019
+    subcategory: flagship
+    query: Leica SL2 body -SL2-S -summicron -vario -half case -grip
+    category_id: '31388'
+    min_price: 3000
+    max_price: 6000
+  - id: leica-sl2-s
+    name_ko: 라이카 SL2-S
+    name_en: Leica SL2-S
+    release_year: 2020
+    subcategory: midrange
+    query: Leica SL2-S body -summicron -vario -half case -grip
+    category_id: '31388'
+    min_price: 2500
+    max_price: 4500
+  - id: leica-sl-typ-601
+    name_ko: 라이카 SL (Typ 601)
+    name_en: Leica SL (Typ 601)
+    release_year: 2015
+    subcategory: entry
+    query: Leica SL typ 601 body -SL2 -SL3 -summicron -vario -grip
+    category_id: '31388'
+    min_price: 1200
+    max_price: 2500
+  - id: leica-cl
+    name_ko: 라이카 CL
+    name_en: Leica CL
+    release_year: 2017
+    subcategory: entry
+    query: Leica CL body -TL2 -summicron -vario
+    category_id: '31388'
+    min_price: 1500
+    max_price: 3000
+- id: film-cameras
+  name_ko: 필름 카메라
+  name_en: Film Cameras
+  subcategories:
+  - id: rangefinder
+    name_ko: 레인지파인더
+    name_en: Rangefinder
+    sort_order: 1
+  - id: slr
+    name_ko: SLR
+    name_en: SLR
+    sort_order: 2
+  - id: compact
+    name_ko: 컴팩트
+    name_en: Compact
+    sort_order: 3
+  products:
+  - id: leica-mp
+    name_ko: 라이카 MP
+    name_en: Leica MP
+    release_year: 2003
+    subcategory: rangefinder
+    query: Leica MP body -half case -grip -summicron -summilux
+    category_id: '3323'
+    min_price: 3500
+    max_price: 7000
+  - id: leica-m-a
+    name_ko: 라이카 M-A
+    name_en: Leica M-A
+    release_year: 2014
+    subcategory: rangefinder
+    query: Leica M-A body -M A -half case -grip -summicron -summilux
+    category_id: '3323'
+    min_price: 3000
+    max_price: 6500
+  - id: leica-m7
+    name_ko: 라이카 M7
+    name_en: Leica M7
+    release_year: 2002
+    subcategory: rangefinder
+    query: Leica M7 body -half case -grip -summicron -summilux
+    category_id: '3323'
+    min_price: 1800
+    max_price: 4000
+  - id: leica-m6-ttl
+    name_ko: 라이카 M6 TTL
+    name_en: Leica M6 TTL
+    release_year: 1998
+    subcategory: rangefinder
+    query: Leica M6 TTL body -0.58 -0.72 -0.85 -half case -grip -summicron -summilux
+    category_id: '3323'
+    min_price: 2500
+    max_price: 5500
+  - id: leica-m6
+    name_ko: 라이카 M6
+    name_en: Leica M6
+    release_year: 1984
+    subcategory: rangefinder
+    query: Leica M6 body -TTL -half case -grip -summicron -summilux
+    category_id: '3323'
+    min_price: 2200
+    max_price: 4500
+  - id: leica-r8
+    name_ko: 라이카 R8
+    name_en: Leica R8
+    release_year: 1996
+    subcategory: slr
+    query: Leica R8 body -summicron -summilux -elmarit -motor
+    category_id: '3323'
+    min_price: 700
+    max_price: 1800
+  - id: leica-r9
+    name_ko: 라이카 R9
+    name_en: Leica R9
+    release_year: 2002
+    subcategory: slr
+    query: Leica R9 body -summicron -summilux -elmarit -motor
+    category_id: '3323'
+    min_price: 900
+    max_price: 2200
+  - id: leica-minilux
+    name_ko: 라이카 Minilux
+    name_en: Leica Minilux
+    release_year: 1995
+    subcategory: compact
+    query: Leica Minilux camera -case -manual -battery
+    category_id: '3323'
+    min_price: 1200
+    max_price: 2600
+  - id: leica-mp-hammertone
+    name_ko: 라이카 MP Hammertone
+    name_en: Leica MP Hammertone
+    release_year: 2003
+    subcategory: rangefinder
+    query: Leica MP Hammertone -manual -book -brochure -summicron -summilux
+    category_id: '3323'
+    min_price: 9000
+    max_price: 18000
+    is_rare: true
+    rarity_tier: A
+    rarity_sort: 30
+    rarity_price_hint: 9,000–16,000+
+    rarity_note: 특수 마감과 상태, 박스 여부에 민감합니다.
+- id: m-lenses
+  name_ko: M 렌즈
+  name_en: M Lenses
+  subcategories:
+  - id: wide
+    name_ko: 광각
+    name_en: Wide
+    sort_order: 1
+  - id: normal
+    name_ko: 표준
+    name_en: Normal
+    sort_order: 2
+  - id: tele
+    name_ko: 망원
+    name_en: Tele
+    sort_order: 3
+  products:
+  - id: elmarit-m-28-f28-asph
+    name_ko: Elmarit-M 28mm f/2.8 ASPH
+    name_en: Leica Elmarit-M 28mm f/2.8 ASPH
+    focal_length_min: 28
+    subcategory: wide
+    query: Leica Elmarit-M 28mm f/2.8 ASPH -hood -cap -finder
+    category_id: '78997'
+    min_price: 1400
+    max_price: 2600
+  - id: summicron-m-28-f2-asph
+    name_ko: Summicron-M 28mm f/2 ASPH
+    name_en: Leica Summicron-M 28mm f/2 ASPH
+    focal_length_min: 28
+    subcategory: wide
+    query: Leica Summicron-M 28mm f/2 ASPH -hood -cap -finder
+    category_id: '78997'
+    min_price: 1800
+    max_price: 3500
+  - id: summicron-m-35-f2-asph
+    name_ko: Summicron-M 35mm f/2 ASPH
+    name_en: Leica Summicron-M 35mm f/2 ASPH
+    focal_length_min: 35
+    subcategory: wide
+    query: Leica Summicron-M 35mm f/2 ASPH -hood -cap -finder
+    category_id: '78997'
+    min_price: 1800
+    max_price: 3200
+  - id: summilux-m-35-f14-fle
+    name_ko: Summilux-M 35mm f/1.4 FLE
+    name_en: Leica Summilux-M 35mm f/1.4 FLE
+    focal_length_min: 35
+    subcategory: wide
+    query: Leica Summilux-M 35mm f/1.4 FLE -hood -cap -finder
+    category_id: '78997'
+    min_price: 2800
+    max_price: 5000
+  - id: summicron-m-50-f2
+    name_ko: Summicron-M 50mm f/2
+    name_en: Leica Summicron-M 50mm f/2
+    focal_length_min: 50
+    subcategory: normal
+    query: Leica Summicron-M 50mm f/2 -hood -cap
+    category_id: '78997'
+    min_price: 1200
+    max_price: 2400
+  - id: summilux-m-50-f14-asph
+    name_ko: Summilux-M 50mm f/1.4 ASPH
+    name_en: Leica Summilux-M 50mm f/1.4 ASPH
+    focal_length_min: 50
+    subcategory: normal
+    query: Leica Summilux-M 50mm f/1.4 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2500
+    max_price: 4500
+  - id: noctilux-m-50-f095-asph
+    name_ko: Noctilux-M 50mm f/0.95 ASPH
+    name_en: Leica Noctilux-M 50mm f/0.95 ASPH
+    focal_length_min: 50
+    subcategory: normal
+    query: Leica Noctilux-M 50mm f/0.95 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 7000
+    max_price: 12000
+    is_rare: true
+    rarity_tier: B
+    rarity_sort: 20
+    rarity_price_hint: 7,500–10,500+
+    rarity_note: 상징성이 높아 상태와 풀세트 여부에 따라 편차가 큽니다.
+  - id: apo-summicron-m-50-f2-asph
+    name_ko: APO-Summicron-M 50mm f/2 ASPH
+    name_en: Leica APO-Summicron-M 50mm f/2 ASPH
+    focal_length_min: 50
+    subcategory: normal
+    query: Leica APO-Summicron-M 50mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 5000
+    max_price: 9000
+  - id: apo-summicron-m-90-f2-asph
+    name_ko: APO-Summicron-M 90mm f/2 ASPH
+    name_en: Leica APO-Summicron-M 90mm f/2 ASPH
+    focal_length_min: 90
+    subcategory: tele
+    query: Leica APO-Summicron-M 90mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2200
+    max_price: 4500
+- id: sl-lenses
+  name_ko: SL 렌즈
+  name_en: SL Lenses
+  subcategories:
+  - id: zoom
+    name_ko: 줌 렌즈
+    name_en: Zoom
+    sort_order: 1
+  - id: prime
+    name_ko: 단초점
+    name_en: Prime
+    sort_order: 2
+  products:
+  - id: vario-elmarit-sl-24-70-f28-asph
+    name_ko: Vario-Elmarit-SL 24-70mm f/2.8 ASPH
+    name_en: Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH
+    focal_length_min: 24
+    subcategory: zoom
+    query: Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2300
+    max_price: 3800
+  - id: vario-elmarit-sl-24-90-f28-4-asph
+    name_ko: Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH
+    name_en: Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH
+    focal_length_min: 24
+    subcategory: zoom
+    query: Leica Vario-Elmarit-SL 24-90mm f/2.8-4 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 1800
+    max_price: 3500
+  - id: vario-elmarit-sl-90-280-f28-4
+    name_ko: APO-Vario-Elmarit-SL 90-280mm f/2.8-4
+    name_en: Leica APO-Vario-Elmarit-SL 90-280mm f/2.8-4
+    focal_length_min: 90
+    subcategory: zoom
+    query: Leica APO-Vario-Elmarit-SL 90-280mm f/2.8-4 -hood -cap
+    category_id: '78997'
+    min_price: 2600
+    max_price: 4800
+  - id: apo-summicron-sl-35-f2-asph
+    name_ko: APO-Summicron-SL 35mm f/2 ASPH
+    name_en: Leica APO-Summicron-SL 35mm f/2 ASPH
+    focal_length_min: 35
+    subcategory: prime
+    query: Leica APO-Summicron-SL 35mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2500
+    max_price: 4200
+  - id: apo-summicron-sl-50-f2-asph
+    name_ko: APO-Summicron-SL 50mm f/2 ASPH
+    name_en: Leica APO-Summicron-SL 50mm f/2 ASPH
+    focal_length_min: 50
+    subcategory: prime
+    query: Leica APO-Summicron-SL 50mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2600
+    max_price: 4200
+  - id: apo-summicron-sl-75-f2-asph
+    name_ko: APO-Summicron-SL 75mm f/2 ASPH
+    name_en: Leica APO-Summicron-SL 75mm f/2 ASPH
+    focal_length_min: 75
+    subcategory: prime
+    query: Leica APO-Summicron-SL 75mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2600
+    max_price: 4200
+  - id: apo-summicron-sl-90-f2-asph
+    name_ko: APO-Summicron-SL 90mm f/2 ASPH
+    name_en: Leica APO-Summicron-SL 90mm f/2 ASPH
+    focal_length_min: 90
+    subcategory: prime
+    query: Leica APO-Summicron-SL 90mm f/2 ASPH -hood -cap
+    category_id: '78997'
+    min_price: 2600
+    max_price: 4200

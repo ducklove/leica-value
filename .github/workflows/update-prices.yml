@@ -1,0 +1,50 @@
+name: Update Leica Prices
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 09:00 KST (00:00 UTC)
+  workflow_dispatch:       # 수동 트리거
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch eBay prices
+        env:
+          EBAY_CLIENT_ID: ${{ secrets.EBAY_CLIENT_ID }}
+          EBAY_CLIENT_SECRET: ${{ secrets.EBAY_CLIENT_SECRET }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/fetch_prices.py
+
+      - name: Validate public site build
+        run: python scripts/build_static_site.py --output dist --publish-root
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ index.html 404.html robots.txt sitemap.xml .nojekyll products/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "📊 Update price data $(date -u +%Y-%m-%d)"
+            git push || (git pull --rebase -X ours && git push) || echo "Push skipped due to conflict"
+          fi
