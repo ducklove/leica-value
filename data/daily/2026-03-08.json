@@ -122,14 +122,14 @@
    "count_filtered": 5
   },
   "leica-d-lux-7": {
-   "median": 1380.0,
-   "mean": 1396.96,
-   "min": 1179.99,
+   "median": 1361.04,
+   "mean": 1384.61,
+   "min": 1150.0,
    "max": 1646.19,
-   "q1": 1295.0,
-   "q3": 1498.99,
-   "count": 19,
-   "count_filtered": 19
+   "q1": 1293.51,
+   "q3": 1478.99,
+   "count": 20,
+   "count_filtered": 20
   },
   "leica-sl3": {
    "median": null,
@@ -180,6 +180,66 @@
    "q3": 2598.0,
    "count": 6,
    "count_filtered": 6
+  },
+  "leica-i-model-a": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-ii": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-iiia": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-iiic": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-iiif": {
+   "median": 1652.33,
+   "mean": 1652.33,
+   "min": 1601.35,
+   "max": 1703.31,
+   "q1": 1601.35,
+   "q3": 1703.31,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "leica-iiig": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
   },
   "leica-mp": {
    "median": null,
@@ -312,14 +372,14 @@
    "count_filtered": 1
   },
   "summicron-m-50-f2": {
-   "median": 1658.57,
-   "mean": 1683.0,
+   "median": 1665.07,
+   "mean": 1685.27,
    "min": 1282.0,
    "max": 2334.06,
    "q1": 1499.99,
    "q3": 1856.56,
-   "count": 99,
-   "count_filtered": 98
+   "count": 98,
+   "count_filtered": 97
   },
   "summilux-m-50-f14-asph": {
    "median": 3647.49,
@@ -352,14 +412,14 @@
    "count_filtered": 6
   },
   "apo-summicron-m-90-f2-asph": {
-   "median": 3194.0,
-   "mean": 3287.45,
+   "median": 3484.35,
+   "mean": 3396.0,
    "min": 2322.44,
    "max": 5044.75,
-   "q1": 2580.61,
-   "q3": 3621.55,
-   "count": 16,
-   "count_filtered": 16
+   "q1": 2733.18,
+   "q3": 3950.12,
+   "count": 24,
+   "count_filtered": 24
   },
   "vario-elmarit-sl-24-70-f28-asph": {
    "median": 2471.0,

@@ -330,14 +330,14 @@
      "name_en": "Leica D-Lux 7",
      "subcategory": "compact",
      "release_year": 2018,
-     "median": 1380.0,
-     "mean": 1396.96,
-     "min": 1179.99,
+     "median": 1361.04,
+     "mean": 1384.61,
+     "min": 1150.0,
      "max": 1646.19,
-     "q1": 1295.0,
-     "q3": 1498.99,
-     "count": 19,
-     "count_filtered": 19,
+     "q1": 1293.51,
+     "q3": 1478.99,
+     "count": 20,
+     "count_filtered": 20,
      "samples": [
       {
        "title": "Leica D-Lux 7 Camera, DC Vario-Summilux f1.7-2.8/10.9-34mm Asph - Fast Ship",
@@ -537,25 +537,144 @@
    "name_en": "Film Cameras",
    "subcategories": [
     {
+     "id": "barnack",
+     "name_ko": "바르낙",
+     "name_en": "Barnack",
+     "sort_order": 1
+    },
+    {
      "id": "rangefinder",
      "name_ko": "레인지파인더",
      "name_en": "Rangefinder",
-     "sort_order": 1
+     "sort_order": 2
     },
     {
      "id": "slr",
      "name_ko": "SLR",
      "name_en": "SLR",
-     "sort_order": 2
+     "sort_order": 3
     },
     {
      "id": "compact",
      "name_ko": "컴팩트",
      "name_en": "Compact",
-     "sort_order": 3
+     "sort_order": 4
     }
    ],
    "products": [
+    {
+     "id": "leica-i-model-a",
+     "name_ko": "라이카 I (Model A)",
+     "name_en": "Leica I (Model A)",
+     "subcategory": "barnack",
+     "release_year": 1925,
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
+    },
+    {
+     "id": "leica-ii",
+     "name_ko": "라이카 II",
+     "name_en": "Leica II",
+     "subcategory": "barnack",
+     "release_year": 1932,
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
+    },
+    {
+     "id": "leica-iiia",
+     "name_ko": "라이카 IIIa",
+     "name_en": "Leica IIIa",
+     "subcategory": "barnack",
+     "release_year": 1935,
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
+    },
+    {
+     "id": "leica-iiic",
+     "name_ko": "라이카 IIIc",
+     "name_en": "Leica IIIc",
+     "subcategory": "barnack",
+     "release_year": 1940,
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
+    },
+    {
+     "id": "leica-iiif",
+     "name_ko": "라이카 IIIf",
+     "name_en": "Leica IIIf",
+     "subcategory": "barnack",
+     "release_year": 1950,
+     "median": 1652.33,
+     "mean": 1652.33,
+     "min": 1601.35,
+     "max": 1703.31,
+     "q1": 1601.35,
+     "q3": 1703.31,
+     "count": 2,
+     "count_filtered": 2,
+     "samples": [
+      {
+       "title": "Rare Leica IIIF Rangefinder S/N526xxx Leica Rangefinder Film Camera with Flat Di",
+       "price": 1601.35,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/E8kAAeSwvShpJ4gz/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/127527278443?_skw=Leica+IIIf+rangefinder+camera+-replica+-miniature+-book+-manual+-guide+-lens+-filter+-panasonic+-voigtlander+-canon&hash=item1db137d76b:g:E8kAAeSwvShpJ4gz"
+      },
+      {
+       "title": "Flat Dial Leica IIIF Rangefinder 35mm Film Camera, Serial No. 540XXX Q8326",
+       "price": 1703.31,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/DuIAAeSwXfdpJ4jX/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/127527278407?_skw=Leica+IIIf+rangefinder+camera+-replica+-miniature+-book+-manual+-guide+-lens+-filter+-panasonic+-voigtlander+-canon&hash=item1db137d747:g:DuIAAeSwXfdpJ4jX"
+      }
+     ]
+    },
+    {
+     "id": "leica-iiig",
+     "name_ko": "라이카 IIIg",
+     "name_en": "Leica IIIg",
+     "subcategory": "barnack",
+     "release_year": 1957,
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
+    },
     {
      "id": "leica-mp",
      "name_ko": "라이카 MP",
@@ -918,23 +1037,15 @@
      "name_en": "Leica Summicron-M 50mm f/2",
      "subcategory": "normal",
      "focal_length_min": 50,
-     "median": 1658.57,
-     "mean": 1683.0,
+     "median": 1665.07,
+     "mean": 1685.27,
      "min": 1282.0,
      "max": 2334.06,
      "q1": 1499.99,
      "q3": 1856.56,
-     "count": 99,
-     "count_filtered": 98,
+     "count": 98,
+     "count_filtered": 97,
      "samples": [
-      {
-       "title": "Leitz Wetzlar Leica summicron-m 50mm f/2 rigid V2 #2235683 LAST BATCH",
-       "price": 1652.08,
-       "currency": "USD",
-       "condition": "Tweedehands",
-       "image": "https://i.ebayimg.com/images/g/XAwAAeSwO8ZpeTo2/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/306772019855?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item476d098a8f:g:XAwAAeSwO8ZpeTo2"
-      },
       {
        "title": "Leica NAH-SUMMICRON-M 2,0/50 Objectif Standard - 50mm F/2.0 -",
        "price": 1665.07,
@@ -966,6 +1077,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/Kd8AAeSwG1Jpk1J6/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/147156991989?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item22433d7ff5:g:Kd8AAeSwG1Jpk1J6"
+      },
+      {
+       "title": "Leica Summicron-M 50mm f/2.0 E39 - SNr: 3655547",
+       "price": 1671.83,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/lPMAAeSw6~tppsQn/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127715856163?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item1dbc754f23:g:lPMAAeSw6~tppsQn"
       }
      ]
     },
@@ -1151,30 +1270,30 @@
      "name_en": "Leica APO-Summicron-M 90mm f/2 ASPH",
      "subcategory": "tele",
      "focal_length_min": 90,
-     "median": 3194.0,
-     "mean": 3287.45,
+     "median": 3484.35,
+     "mean": 3396.0,
      "min": 2322.44,
      "max": 5044.75,
-     "q1": 2580.61,
-     "q3": 3621.55,
-     "count": 16,
-     "count_filtered": 16,
+     "q1": 2733.18,
+     "q3": 3950.12,
+     "count": 24,
+     "count_filtered": 24,
      "samples": [
       {
-       "title": "Leica 90mm f2 Apo Summicron-M Asph, Black 3894219",
-       "price": 3087.0,
+       "title": "LEICA 90MM F2 APO-SUMMICRON-M ASPH 6-BIT + BOX 11632 #5292",
+       "price": 3450.0,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/PVYAAeSw6u9ougLf/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/236308205251?_skw=Leica+APO-Summicron-M+90mm+f%2F2+ASPH+-hood+-cap&hash=item3705110ec3:g:PVYAAeSw6u9ougLf"
+       "image": "https://i.ebayimg.com/images/g/YwQAAeSwrclpoaet/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/146646861349?_skw=Leica+APO-Summicron-M+90mm+f%2F2+ASPH+-hood+-cap&hash=item2224d58625:g:YwQAAeSwrclpoaet"
       },
       {
-       "title": "Leica 90mm f2 Apo Summicron-M Asph, 4721887",
-       "price": 3301.0,
+       "title": "Leica 90mm f2 APO-Summicron-M Asph, Black, Boxed 4614027",
+       "price": 3518.7,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/GIQAAeSw1f9osetv/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/286791559189?_skw=Leica+APO-Summicron-M+90mm+f%2F2+ASPH+-hood+-cap&hash=item42c61be815:g:GIQAAeSw1f9osetv"
+       "image": "https://i.ebayimg.com/images/g/SEEAAeSwr7BougMP/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/236308205186?_skw=Leica+APO-Summicron-M+90mm+f%2F2+ASPH+-hood+-cap&hash=item3705110e82:g:SEEAAeSwr7BougMP"
       },
       {
        "title": "Leica 90mm f2 Apo Summicron-M Asph 3875691",

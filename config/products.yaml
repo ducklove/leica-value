@@ -221,19 +221,77 @@ categories:
   name_ko: 필름 카메라
   name_en: Film Cameras
   subcategories:
+  - id: barnack
+    name_ko: 바르낙
+    name_en: Barnack
+    sort_order: 1
   - id: rangefinder
     name_ko: 레인지파인더
     name_en: Rangefinder
-    sort_order: 1
+    sort_order: 2
   - id: slr
     name_ko: SLR
     name_en: SLR
-    sort_order: 2
+    sort_order: 3
   - id: compact
     name_ko: 컴팩트
     name_en: Compact
-    sort_order: 3
+    sort_order: 4
   products:
+  - id: leica-i-model-a
+    name_ko: 라이카 I (Model A)
+    name_en: Leica I (Model A)
+    release_year: 1925
+    subcategory: barnack
+    query: Leica I Model A camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 1800
+    max_price: 7000
+  - id: leica-ii
+    name_ko: 라이카 II
+    name_en: Leica II
+    release_year: 1932
+    subcategory: barnack
+    query: Leica II rangefinder camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 500
+    max_price: 2200
+  - id: leica-iiia
+    name_ko: 라이카 IIIa
+    name_en: Leica IIIa
+    release_year: 1935
+    subcategory: barnack
+    query: Leica IIIa rangefinder camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 700
+    max_price: 2600
+  - id: leica-iiic
+    name_ko: 라이카 IIIc
+    name_en: Leica IIIc
+    release_year: 1940
+    subcategory: barnack
+    query: Leica IIIc rangefinder camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 700
+    max_price: 2400
+  - id: leica-iiif
+    name_ko: 라이카 IIIf
+    name_en: Leica IIIf
+    release_year: 1950
+    subcategory: barnack
+    query: Leica IIIf rangefinder camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 800
+    max_price: 2600
+  - id: leica-iiig
+    name_ko: 라이카 IIIg
+    name_en: Leica IIIg
+    release_year: 1957
+    subcategory: barnack
+    query: Leica IIIg rangefinder camera -replica -miniature -book -manual -guide -lens -filter -panasonic -voigtlander -canon
+    category_id: '3323'
+    min_price: 1800
+    max_price: 5500
   - id: leica-mp
     name_ko: 라이카 MP
     name_en: Leica MP

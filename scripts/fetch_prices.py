@@ -83,6 +83,12 @@ CAMERA_BODY_EXCLUDE_PATTERNS = [
     " noctilux ",
     " apo-summicron ",
     " vario-elmarit ",
+    " panasonic ",
+    " lumix ",
+    " voigtlander ",
+    " canon ",
+    " olympus ",
+    " fujifilm ",
     " sigma ",
     " tamron ",
     " tokina ",
@@ -290,6 +296,9 @@ def filter_items_with_rules(items: list[dict], product: dict) -> list[dict]:
     ]
 
     if not filtered:
+        if product.get("subcategory") == "barnack":
+            log.warning("  Rule filter removed all items for Barnack model, keeping empty set")
+            return []
         log.warning("  Rule filter removed all items, keeping original set")
         return items
 
