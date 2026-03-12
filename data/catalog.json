@@ -1,5 +1,5 @@
 {
- "updated": "2026-03-11",
+ "updated": "2026-03-12",
  "categories": [
   {
    "id": "m-digital-bodies",
@@ -133,18 +133,18 @@
      "rarity_sort": 30,
      "rarity_price_hint": "12,000–20,000+",
      "rarity_note": "렌즈 세트와 풀박스 여부에 크게 좌우됩니다.",
-     "median": 16086.19,
-     "mean": 16106.62,
-     "min": 14254.1,
+     "median": 16051.62,
+     "mean": 16081.68,
+     "min": 14223.48,
      "max": 18000.0,
-     "q1": 14486.24,
-     "q3": 17727.0,
+     "q1": 14455.11,
+     "q3": 17708.25,
      "count": 4,
      "count_filtered": 4,
      "samples": [
       {
        "title": "LEICA M EDITION \"LEICA 60\" ZERO SERIES + BOX 10779 #5512",
-       "price": 17454.0,
+       "price": 17416.5,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/EdoAAeSwT1ho8mak/s-l1600.jpg",
@@ -160,7 +160,7 @@
       },
       {
        "title": "Leica M60 Edition + M 35 mm 1.4 137/600 10779 Photo-Görlitz purchase + sale",
-       "price": 14254.1,
+       "price": 14223.48,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/GN0AAOSwk1Bn2Alj/s-l1600.jpg",
@@ -168,7 +168,7 @@
       },
       {
        "title": "Leica M60 Edition + M 35 mm 1.4 51/600 10779 MINT PHOTO-GÖRLITZ PURCHASE",
-       "price": 14718.38,
+       "price": 14686.75,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/rJIAAOSwxVNnikdX/s-l1600.jpg",
@@ -274,11 +274,11 @@
      "subcategory": "compact",
      "release_year": 2024,
      "median": 1955.28,
-     "mean": 1971.14,
+     "mean": 1970.12,
      "min": 1749.99,
-     "max": 2191.63,
+     "max": 2188.53,
      "q1": 1849.99,
-     "q3": 2124.64,
+     "q3": 2121.62,
      "count": 6,
      "count_filtered": 6,
      "samples": [
@@ -308,7 +308,7 @@
       },
       {
        "title": "Leica D-Lux 8 Compact Digital Camera: Black - 19191 -VM 8596- BB",
-       "price": 2124.64,
+       "price": 2121.62,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/520AAeSw8VZprZPD/s-l1600.jpg",
@@ -316,7 +316,7 @@
       },
       {
        "title": "Used Leica D-Lux 8 Camera 19191",
-       "price": 2191.63,
+       "price": 2188.53,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/3gsAAeSwntRpXN3g/s-l1600.jpg",
@@ -330,15 +330,31 @@
      "name_en": "Leica D-Lux 7",
      "subcategory": "compact",
      "release_year": 2018,
-     "median": 1349.99,
-     "mean": 1378.92,
+     "median": 1338.74,
+     "mean": 1364.32,
      "min": 1150.0,
      "max": 1646.19,
-     "q1": 1293.51,
-     "q3": 1478.99,
-     "count": 21,
-     "count_filtered": 21,
+     "q1": 1261.98,
+     "q3": 1458.99,
+     "count": 23,
+     "count_filtered": 23,
      "samples": [
+      {
+       "title": "Leica D-Lux 7 Digital Camera - Black",
+       "price": 1311.35,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/MrcAAeSwvZ5pp0M~/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/376809546537?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item57bb996329:g:MrcAAeSwvZ5pp0M~"
+      },
+      {
+       "title": "Leica D-Lux 7 Digital Camera 17MP",
+       "price": 1313.96,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/LiMAAeSwAHNpqx3a/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/336466857435?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item4e56fccddb:g:LiMAAeSwAHNpqx3a"
+      },
       {
        "title": "Leica D-Lux 7 Camera, DC Vario-Summilux f1.7-2.8/10.9-34mm Asph - Fast Ship",
        "price": 1338.74,
@@ -362,22 +378,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ciwAAeSwkshpsCl4/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/358310017501?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item536cf0f9dd:g:ciwAAeSwkshpsCl4"
-      },
-      {
-       "title": "Leica D-Lux 7 Digital Camera 17MP",
-       "price": 1350.86,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/LiMAAeSwAHNpqx3a/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/336466857435?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item4e56fccddb:g:LiMAAeSwAHNpqx3a"
-      },
-      {
-       "title": "[Mint] Leica D-LUX 7 17.0MP Compact Digital Camera Black w/Box Tested",
-       "price": 1380.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/4kIAAeSwJnBonKYx/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/357454666507?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item5339f55b0b:g:4kIAAeSwJnBonKYx"
       }
      ]
     }
@@ -478,14 +478,14 @@
      "name_en": "Leica CL",
      "subcategory": "entry",
      "release_year": 2017,
-     "median": 2424.99,
-     "mean": 2469.66,
+     "median": 2450.98,
+     "mean": 2547.98,
      "min": 2120.0,
-     "max": 2899.99,
+     "max": 3017.86,
      "q1": 2350.0,
-     "q3": 2598.0,
-     "count": 6,
-     "count_filtered": 6,
+     "q3": 2899.99,
+     "count": 7,
+     "count_filtered": 7,
      "samples": [
       {
        "title": "[ Near Mint ] Leica CL Mirrorless 24.2MP Digital Camera Body Silver Type 7323",
@@ -858,11 +858,11 @@
      "subcategory": "wide",
      "focal_length_min": 28,
      "median": 2099.0,
-     "mean": 2238.14,
+     "mean": 2232.83,
      "min": 2079.0,
-     "max": 2536.41,
+     "max": 2520.48,
      "q1": 2079.0,
-     "q3": 2536.41,
+     "q3": 2520.48,
      "count": 3,
      "count_filtered": 3,
      "samples": [
@@ -884,11 +884,11 @@
       },
       {
        "title": "Leica Elmarit M 28mm F/2.8 ASPH E39 6bit 11606 Lens in Black 995967",
-       "price": 2536.41,
+       "price": 2520.48,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/GHoAAeSwX1ZpsKTJ/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/306776636639?_skw=Leica+Elmarit-M+28mm+f%2F2.8+ASPH+-hood+-cap+-finder&hash=item476d4ffcdf:g:GHoAAeSwX1ZpsKTJ"
+       "image": "https://i.ebayimg.com/images/g/6SwAAeSwUotpsPao/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/306776636639?_skw=Leica+Elmarit-M+28mm+f%2F2.8+ASPH+-hood+-cap+-finder&hash=item476d4ffcdf:g:6SwAAeSwUotpsPao"
       }
      ]
     },
@@ -899,11 +899,11 @@
      "subcategory": "wide",
      "focal_length_min": 28,
      "median": 2799.99,
-     "mean": 2823.83,
-     "min": 2303.1,
+     "mean": 2822.64,
+     "min": 2299.85,
      "max": 3384.74,
-     "q1": 2592.0,
-     "q3": 3154.35,
+     "q1": 2588.33,
+     "q3": 3149.89,
      "count": 11,
      "count_filtered": 11,
      "samples": [
@@ -941,7 +941,7 @@
       },
       {
        "title": "[Almost Unused] Leica Leitz Summicron M 28mm f/2 E46 ASPH Lens 11604 From JAPAN",
-       "price": 3154.35,
+       "price": 3149.89,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/hzAAAeSwzdNphXl4/s-l1600.jpg",
@@ -955,30 +955,30 @@
      "name_en": "Leica Summicron-M 35mm f/2 ASPH",
      "subcategory": "wide",
      "focal_length_min": 35,
-     "median": 2450.0,
-     "mean": 2489.96,
+     "median": 2499.99,
+     "mean": 2514.83,
      "min": 1890.0,
-     "max": 3395.92,
-     "q1": 2198.04,
-     "q3": 2760.0,
-     "count": 31,
-     "count_filtered": 31,
+     "max": 3391.12,
+     "q1": 2237.53,
+     "q3": 2759.72,
+     "count": 36,
+     "count_filtered": 36,
      "samples": [
       {
-       "title": "[Near MINT] LEICA SUMMICRON-M 35mm F2 ASPH E39 LENS From JAPAN",
-       "price": 2450.0,
+       "title": "🟢MINT in Box🟢 Leica Summicron M 35mm f/2 ASPH. Black E39 #11879 from Japan",
+       "price": 2500.0,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/24sAAeSwWlVpOqs2/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/397381496030?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item5c85c86cde:g:24sAAeSwWlVpOqs2"
+       "image": "https://i.ebayimg.com/images/g/jA8AAeSwtqRprVGM/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/397688782121?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item5c98193d29:g:jA8AAeSwtqRprVGM"
       },
       {
-       "title": "Leica Leitz Summicron-M 35mm F/2 ASPH. Lens for Leica M #63140 T",
-       "price": 2475.0,
+       "title": "[EXCELLENT]Leica Summicron M 35mm F/2 E39 ASPH. Lens 11673 Black w/Box #6517",
+       "price": 2510.0,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/BLYAAeSwDI1piTzp/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/137024448288?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item1fe74b2720:g:BLYAAeSwDI1piTzp"
+       "image": "https://i.ebayimg.com/images/g/5bkAAeSwbq9ppUo5/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/298080676895?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item4566fe2c1f:g:5bkAAeSwbq9ppUo5"
       },
       {
        "title": "Leica summicron-m f2 35mm ASPH. E39 Lens #0487",
@@ -998,7 +998,7 @@
       },
       {
        "title": "Leica Summicron-M 35mm f2 ASPH Wide Angle Prime Lens (11879)",
-       "price": 2625.14,
+       "price": 2621.42,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/YrMAAOSwl-tm6U8i/s-l1600.jpg",
@@ -1012,14 +1012,14 @@
      "name_en": "Leica Summilux-M 35mm f/1.4 FLE",
      "subcategory": "wide",
      "focal_length_min": 35,
-     "median": 3239.0,
-     "mean": 3205.67,
+     "median": 3189.0,
+     "mean": 3189.0,
      "min": 2849.0,
      "max": 3529.0,
      "q1": 2849.0,
      "q3": 3529.0,
-     "count": 3,
-     "count_filtered": 3,
+     "count": 2,
+     "count_filtered": 2,
      "samples": [
       {
        "title": "Leica Summilux-M 35mm F/1.4 ASPH. FLE 6Bit Lens Black 11663",
@@ -1028,14 +1028,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/Xx8AAeSwYNFpcd5B/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/306724858695?_skw=Leica+Summilux-M+35mm+f%2F1.4+FLE+-hood+-cap+-finder&hash=item476a39eb47:g:Xx8AAeSwYNFpcd5B"
-      },
-      {
-       "title": "Leica Summilux-M 35mm/F1.4 ASPH/ FLE Black Lens Germany #23795",
-       "price": 3239.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/g4MAAeSwH8ppr5Un/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/198170281253?_skw=Leica+Summilux-M+35mm+f%2F1.4+FLE+-hood+-cap+-finder&hash=item2e23de8525:g:g4MAAeSwH8ppr5Un"
       },
       {
        "title": "Leica Summilux-M 35mm/F1.4 ASPH/ FLE Silver Lens Germany #11813",
@@ -1054,14 +1046,22 @@
      "subcategory": "normal",
      "focal_length_min": 50,
      "median": 1671.64,
-     "mean": 1701.48,
+     "mean": 1702.66,
      "min": 1200.0,
      "max": 2375.0,
-     "q1": 1499.99,
-     "q3": 1869.07,
-     "count": 108,
-     "count_filtered": 107,
+     "q1": 1500.0,
+     "q3": 1873.59,
+     "count": 106,
+     "count_filtered": 105,
      "samples": [
+      {
+       "title": "Leica Nah-Summicron-M 2,0/50 Obiettivo Standard - 50mm F/2.0 - LICHTSTARK",
+       "price": 1677.15,
+       "currency": "USD",
+       "condition": "Usato",
+       "image": "https://i.ebayimg.com/images/g/iRYAAeSwtlpoY97N/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/406700184936?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5eb1385568:g:iRYAAeSwtlpoY97N"
+      },
       {
        "title": "[Top MINT] Leica Summicron-M 50mm f/2 Lens Silver 4th E39 11619 From JAPAN",
        "price": 1679.99,
@@ -1071,12 +1071,12 @@
        "url": "https://www.ebay.com/itm/406734733814?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5eb34781f6:g:~K8AAeSwFJtppvgM"
       },
       {
-       "title": "Leica Nah-Summicron-M 2,0/50 Obiettivo Standard - 50mm F/2.0 - LICHTSTARK",
-       "price": 1680.76,
+       "title": "Leica Summicron-M 50mm f/2.0 - SNr: 3435612",
+       "price": 1681.27,
        "currency": "USD",
-       "condition": "Usato",
-       "image": "https://i.ebayimg.com/images/g/iRYAAeSwtlpoY97N/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/406700184936?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5eb1385568:g:iRYAAeSwtlpoY97N"
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/yE8AAeSw2Mtppu2a/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/389694418029?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5abb98ec6d:g:yE8AAeSw2Mtppu2a"
       },
       {
        "title": "Leica Summicron-M 50mm F/2 Lens  V5",
@@ -1087,16 +1087,8 @@
        "url": "https://www.ebay.com/itm/188095098922?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item2bcb57702a:g:R0sAAeSwsKFpnytr"
       },
       {
-       "title": "Leica Summicron-M 50mm f/2.0 - SNr: 3435612",
-       "price": 1684.9,
-       "currency": "USD",
-       "condition": "Gebraucht",
-       "image": "https://i.ebayimg.com/images/g/yE8AAeSw2Mtppu2a/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/389694418029?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5abb98ec6d:g:yE8AAeSw2Mtppu2a"
-      },
-      {
        "title": "Leica NAH-SUMMICRON-M 2,0/50 Standard Lens - 50mm F/2.0 - Bright",
-       "price": 1693.86,
+       "price": 1690.23,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/iRYAAeSwtlpoY97N/s-l960.jpg",
@@ -1110,11 +1102,11 @@
      "name_en": "Leica Summilux-M 50mm f/1.4 ASPH",
      "subcategory": "normal",
      "focal_length_min": 50,
-     "median": 3647.49,
-     "mean": 3558.42,
+     "median": 3637.6,
+     "mean": 3556.68,
      "min": 2809.0,
      "max": 4467.7,
-     "q1": 3100.0,
+     "q1": 3099.0,
      "q3": 3899.0,
      "count": 22,
      "count_filtered": 22,
@@ -1136,20 +1128,20 @@
        "url": "https://www.ebay.com/itm/168141641160?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=item272605d5c8:g:CscAAeSwqxdphspY"
       },
       {
+       "title": "Leica Summilux M50mm/F1.4 ASPH. 135614",
+       "price": 3675.21,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "",
+       "url": "https://www.ebay.com/itm/306765366636?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=item476ca4056c:i:306765366636"
+      },
+      {
        "title": "[FedEx]Leica Summilux-M 50mm f/1.4 ASPH. Lens Silver 11892 Box",
        "price": 3695.0,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/2qwAAeSw0W1odggv/s-l960.jpg",
        "url": "https://www.ebay.com/itm/205616707261?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=item2fdfb5f6bd:g:2qwAAeSw0W1odggv"
-      },
-      {
-       "title": "Leica Summilux M50mm/F1.4 ASPH. 135614",
-       "price": 3698.43,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/57MAAeSwAFRpsMjR/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/306765366636?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=item476ca4056c:g:57MAAeSwAFRpsMjR"
       },
       {
        "title": "Leica 50mm f1.4 Summilux-M Asph Silver, Boxed 4789338",
@@ -1172,14 +1164,14 @@
      "rarity_sort": 20,
      "rarity_price_hint": "7,500–10,500+",
      "rarity_note": "상징성이 높아 상태와 풀세트 여부에 따라 편차가 큽니다.",
-     "median": 8229.0,
-     "mean": 8572.99,
+     "median": 8288.85,
+     "mean": 8641.67,
      "min": 7089.0,
-     "max": 10969.27,
+     "max": 10899.97,
      "q1": 7283.35,
-     "q3": 10034.64,
-     "count": 5,
-     "count_filtered": 5,
+     "q3": 9999.99,
+     "count": 4,
+     "count_filtered": 4,
      "samples": [
       {
        "title": "Leica Noctilux-M 50mm/F0.95 ASPH 11602 Black Re-paint #10779",
@@ -1198,14 +1190,6 @@
        "url": "https://www.ebay.com/itm/287072699688?_skw=Leica+Noctilux-M+50mm+f%2F0.95+ASPH+-hood+-cap&hash=item42d6ddc528:g:q2cAAeSwOIppZo90"
       },
       {
-       "title": "Leica Noctilux-M 50mm/F0.95 ASPH 11667 Silver Lens Germany #11808",
-       "price": 8229.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/CLMAAeSwIz9pnT8F/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/327016148309?_skw=Leica+Noctilux-M+50mm+f%2F0.95+ASPH+-hood+-cap&hash=item4c23ae6d55:g:CLMAAeSwIz9pnT8F"
-      },
-      {
        "title": "Leica Noctilux-M 50mm f/0.95 ASPH Silver CLA by Leica - Excellent condition",
        "price": 9100.0,
        "currency": "USD",
@@ -1215,11 +1199,11 @@
       },
       {
        "title": "Leica Noctilux M F0.95/50mm ASPH. 11602 655360",
-       "price": 10969.27,
+       "price": 10899.97,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/CroAAeSwMENpsKVe/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/306809312485?_skw=Leica+Noctilux-M+50mm+f%2F0.95+ASPH+-hood+-cap&hash=item476f4294e5:g:CroAAeSwMENpsKVe"
+       "image": "https://i.ebayimg.com/images/g/4NEAAeSwlf1psPYD/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/306809312485?_skw=Leica+Noctilux-M+50mm+f%2F0.95+ASPH+-hood+-cap&hash=item476f4294e5:g:4NEAAeSwlf1psPYD"
       }
      ]
     },
@@ -1229,10 +1213,10 @@
      "name_en": "Leica APO-Summicron-M 50mm f/2 ASPH",
      "subcategory": "normal",
      "focal_length_min": 50,
-     "median": 6884.58,
-     "mean": 7114.32,
+     "median": 6906.62,
+     "mean": 7113.21,
      "min": 6586.0,
-     "max": 8402.29,
+     "max": 8349.3,
      "q1": 6606.61,
      "q3": 7471.95,
      "count": 8,
@@ -1256,7 +1240,7 @@
       },
       {
        "title": "*MINT* Leica APO Summicron-M 50mm f/2 ASPH. E39 Lens, 11141 Black, Boxed",
-       "price": 7090.16,
+       "price": 7134.24,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/R7YAAeSwMedoum5R/s-l1600.jpg",
@@ -1286,14 +1270,14 @@
      "name_en": "Leica APO-Summicron-M 90mm f/2 ASPH",
      "subcategory": "tele",
      "focal_length_min": 90,
-     "median": 3087.0,
-     "mean": 3213.68,
-     "min": 2326.04,
-     "max": 5053.78,
-     "q1": 2512.23,
-     "q3": 3619.7,
-     "count": 15,
-     "count_filtered": 15,
+     "median": 3043.5,
+     "mean": 3161.29,
+     "min": 2321.04,
+     "max": 5046.63,
+     "q1": 2503.14,
+     "q3": 3616.45,
+     "count": 16,
+     "count_filtered": 16,
      "samples": [
       {
        "title": "LEICA 90MM F2 APO-SUMMICRON-M ASPH BLACK 11884 #5463",
@@ -1365,11 +1349,11 @@
      "subcategory": "zoom",
      "focal_length_min": 24,
      "median": 2471.0,
-     "mean": 2521.44,
+     "mean": 2515.95,
      "min": 2462.22,
-     "max": 2631.11,
+     "max": 2614.64,
      "q1": 2462.22,
-     "q3": 2631.11,
+     "q3": 2614.64,
      "count": 3,
      "count_filtered": 3,
      "samples": [
@@ -1391,7 +1375,7 @@
       },
       {
        "title": "Leica Vario Elmarit SL F2.8/24-70mm ASPH. 953871",
-       "price": 2631.11,
+       "price": 2614.64,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/IJAAAeSwgnhprn4d/s-l1200.jpg",
@@ -1454,18 +1438,18 @@
      "name_en": "Leica APO-Summicron-SL 35mm f/2 ASPH",
      "subcategory": "prime",
      "focal_length_min": 35,
-     "median": 3489.64,
-     "mean": 3489.64,
-     "min": 3489.64,
-     "max": 3489.64,
-     "q1": 3489.64,
-     "q3": 3489.64,
+     "median": 3482.14,
+     "mean": 3482.14,
+     "min": 3482.14,
+     "max": 3482.14,
+     "q1": 3482.14,
+     "q3": 3482.14,
      "count": 2,
      "count_filtered": 2,
      "samples": [
       {
        "title": "Leica 35mm F2.0 APO-Summicron-SL ASPH (11184)",
-       "price": 3489.64,
+       "price": 3482.14,
        "currency": "USD",
        "condition": "Tweedehands",
        "image": "https://i.ebayimg.com/images/g/PMEAAeSwG1JplBcw/s-l1600.jpg",
@@ -1473,7 +1457,7 @@
       },
       {
        "title": "Leica 35mm F2.0 APO-Summicron-SL ASPH (11184)",
-       "price": 3489.64,
+       "price": 3482.14,
        "currency": "USD",
        "condition": "Tweedehands",
        "image": "https://i.ebayimg.com/images/g/Wp8AAeSwk5dplBcr/s-l1600.jpg",
@@ -1487,12 +1471,12 @@
      "name_en": "Leica APO-Summicron-SL 50mm f/2 ASPH",
      "subcategory": "prime",
      "focal_length_min": 50,
-     "median": 3454.36,
-     "mean": 3454.36,
+     "median": 3450.23,
+     "mean": 3450.23,
      "min": 3070.0,
-     "max": 3838.72,
+     "max": 3830.47,
      "q1": 3070.0,
-     "q3": 3838.72,
+     "q3": 3830.47,
      "count": 2,
      "count_filtered": 2,
      "samples": [
@@ -1506,7 +1490,7 @@
       },
       {
        "title": "Leica 50mm F2.0 APO-Summicron-SL ASPH (11185)",
-       "price": 3838.72,
+       "price": 3830.47,
        "currency": "USD",
        "condition": "Tweedehands",
        "image": "https://i.ebayimg.com/images/g/Cn8AAeSwMdJplYXE/s-l1600.jpg",
@@ -1520,18 +1504,18 @@
      "name_en": "Leica APO-Summicron-SL 75mm f/2 ASPH",
      "subcategory": "prime",
      "focal_length_min": 75,
-     "median": 4139.59,
-     "mean": 4134.79,
-     "min": 4072.5,
-     "max": 4206.66,
-     "q1": 4089.27,
-     "q3": 4156.35,
+     "median": 4130.7,
+     "mean": 4125.91,
+     "min": 4063.76,
+     "max": 4197.62,
+     "q1": 4080.49,
+     "q3": 4147.43,
      "count": 8,
      "count_filtered": 7,
      "samples": [
       {
        "title": "Used Leica 75mm ASPH F2 APO-SUMMICRON-SL",
-       "price": 4106.04,
+       "price": 4097.22,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/kmcAAeSwQvtof4xk/s-l1200.jpg",
@@ -1539,7 +1523,7 @@
       },
       {
        "title": "Leica Gebraucht 75mm Asph F2 Apo-Summicron-Sl",
-       "price": 4106.04,
+       "price": 4097.22,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/kmcAAeSwQvtof4xk/s-l1200.jpg",
@@ -1547,7 +1531,7 @@
       },
       {
        "title": "Used Leica 75mm ASPH F2 APO-SUMMICRON-SL",
-       "price": 4139.59,
+       "price": 4130.7,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/kmcAAeSwQvtof4xk/s-l1200.jpg",
@@ -1555,7 +1539,7 @@
       },
       {
        "title": "Used Leica 75mm ASPH F2 APO-SUMMICRON-SL",
-       "price": 4139.59,
+       "price": 4130.7,
        "currency": "USD",
        "condition": "Usado",
        "image": "https://i.ebayimg.com/images/g/kmcAAeSwQvtof4xk/s-l1200.jpg",
@@ -1563,7 +1547,7 @@
       },
       {
        "title": "Leica used 75mm ASPH F2 APO-SUMMICRON-SL",
-       "price": 4173.12,
+       "price": 4164.16,
        "currency": "USD",
        "condition": "Usato",
        "image": "https://i.ebayimg.com/images/g/kmcAAeSwQvtof4xk/s-l1200.jpg",
