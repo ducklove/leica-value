@@ -24,7 +24,7 @@ SITE_JS_PATH = PROJECT_ROOT / 'js' / 'site.js'
 BRAND_OG_ASSET = PROJECT_ROOT / 'assets' / 'leica-hero.svg'
 EBAY_LOGO = PROJECT_ROOT / 'assets' / 'ebay-logo.svg'
 DEFAULT_OUTPUT = PROJECT_ROOT / 'dist'
-BODY_CATEGORIES = {'m-digital-bodies', 'q-series', 'sl-bodies', 'film-cameras'}
+BODY_CATEGORIES = {'digital-bodies', 'film-cameras'}
 GA_MEASUREMENT_ID = 'G-823D75RRWJ'
 ROOT_PRODUCTS_DIR = PROJECT_ROOT / 'products'
 ROOT_FILES_TO_PUBLISH = [
@@ -146,6 +146,11 @@ def merge_catalog_with_config(live_catalog: dict[str, Any], config: dict[str, An
         'samples': [],
     }
     live_categories = {category['id']: category for category in live_catalog.get('categories', [])}
+    live_products_global = {
+        product['id']: product
+        for category in live_catalog.get('categories', [])
+        for product in category.get('products', [])
+    }
     merged_categories = []
 
     for config_category in config.get('categories', []):
@@ -157,7 +162,10 @@ def merge_catalog_with_config(live_catalog: dict[str, Any], config: dict[str, An
         merged_products = []
 
         for config_product in config_category.get('products', []):
-            live_product = live_products.get(config_product['id'], {})
+            live_product = live_products.get(
+                config_product['id'],
+                live_products_global.get(config_product['id'], {}),
+            )
             merged_product = dict(metric_defaults)
             merged_product.update(live_product)
             merged_product.update(
@@ -477,7 +485,7 @@ def build_home_page(catalog: dict[str, Any], base_url: str) -> str:
             )
 
     description = (
-        f'eBay 미국 현재 매물 기준으로 라이카 카메라와 렌즈 {total_products}개 모델의 중고 시세를 추적합니다. '
+        f'eBay 미국 현재 매물 기준으로 라이카 장비 {total_products}개 모델의 중고 시세를 추적합니다. '
         f'마지막 업데이트 {updated}.'
     )
     canonical = f'{base_url}/' if base_url else ''

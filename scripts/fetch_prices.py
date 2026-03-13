@@ -73,6 +73,24 @@ COMMON_EXCLUDE_PATTERNS = [
     " as-is",
     " junk",
 ]
+ACCESSORY_EXCLUDE_PATTERNS = [
+    " for parts",
+    " parts only",
+    " not working",
+    " broken",
+    " repair",
+    " manual",
+    " instruction",
+    " empty box",
+    " box only",
+    " packaging only",
+    " issues",
+    " issue",
+    " untested",
+    " as is",
+    " as-is",
+    " junk",
+]
 LENS_HOOD_RE = re.compile(r"\b(?:hood|shade|hb-\d+|hn-\d+|hr-\d+|hs-\d+|hk-\d+|he-\d+|hf-\d+)\b")
 CAMERA_BODY_EXCLUDE_PATTERNS = [
     " lens ",
@@ -157,24 +175,41 @@ def filter_items_with_llm(
     titles = [item.get("title", "") for item in items]
     listings_text = "\n".join(f"{i}: \"{t}\"" for i, t in enumerate(titles))
 
-    prompt = (
-        "You are a camera/lens equipment expert. "
-        "I need to find listings that are selling exactly this product:\n"
-        f"Product: {product['name_en']}\n"
-        f"Search query used: {product['query']}\n\n"
-        "Below are eBay listing titles. Return a JSON array of indices "
-        "(0-based) for listings that ARE actually selling this specific product.\n\n"
-        "Exclude:\n"
-        "- Different camera/lens models\n"
-        "- IMPORTANT: Lens hoods MUST be excluded. Any title containing \"hood\", \"shade\", or hood model numbers (HB-*, HN-*, HR-*, HS-*, HK-*, HE-*, HF-*) is NOT the lens itself — exclude it even if the lens name appears in the title\n"
-        "- Accessories, grips, batteries, straps, caps, filters, adapters, cases\n"
-        "- Viewfinders, focusing screens, eyepieces, motor drives, and other camera body parts sold separately\n"
-        "- Lens-only listings when the product is a camera body\n"
-        "- Kits or bundles (unless the product itself is a kit)\n"
-        "- Parts, repairs, or \"for parts\" listings\n"
-        "- Manuals, boxes, or packaging only\n\n"
-        f"Listings:\n{listings_text}"
-    )
+    if product.get("product_type") == "accessory":
+        prompt = (
+            "You are a Leica equipment expert. "
+            "I need to find listings that are selling exactly this accessory model:\n"
+            f"Product: {product['name_en']}\n"
+            f"Search query used: {product['query']}\n\n"
+            "Below are eBay listing titles. Return a JSON array of indices "
+            "(0-based) for listings that ARE actually selling this specific accessory.\n\n"
+            "Exclude:\n"
+            "- Different accessory models or generations\n"
+            "- Camera or lens listings where this accessory is only mentioned as compatible\n"
+            "- Bundles where the accessory is not clearly the main item\n"
+            "- Parts, repairs, or \"for parts\" listings\n"
+            "- Manuals, empty boxes, packaging only, or replicas\n\n"
+            f"Listings:\n{listings_text}"
+        )
+    else:
+        prompt = (
+            "You are a camera/lens equipment expert. "
+            "I need to find listings that are selling exactly this product:\n"
+            f"Product: {product['name_en']}\n"
+            f"Search query used: {product['query']}\n\n"
+            "Below are eBay listing titles. Return a JSON array of indices "
+            "(0-based) for listings that ARE actually selling this specific product.\n\n"
+            "Exclude:\n"
+            "- Different camera/lens models\n"
+            "- IMPORTANT: Lens hoods MUST be excluded. Any title containing \"hood\", \"shade\", or hood model numbers (HB-*, HN-*, HR-*, HS-*, HK-*, HE-*, HF-*) is NOT the lens itself — exclude it even if the lens name appears in the title\n"
+            "- Accessories, grips, batteries, straps, caps, filters, adapters, cases\n"
+            "- Viewfinders, focusing screens, eyepieces, motor drives, and other camera body parts sold separately\n"
+            "- Lens-only listings when the product is a camera body\n"
+            "- Kits or bundles (unless the product itself is a kit)\n"
+            "- Parts, repairs, or \"for parts\" listings\n"
+            "- Manuals, boxes, or packaging only\n\n"
+            f"Listings:\n{listings_text}"
+        )
 
     try:
         resp = requests.post(
@@ -263,16 +298,24 @@ def is_variant_conflict(title: str, product: dict) -> bool:
 
 def is_camera_body_product(product: dict) -> bool:
     """카메라 바디 분류인지 판별합니다."""
-    return product.get("category_id") in {"31388", "3323"}
+    return product.get("category_id") in {"31388", "15230"}
+
+
+def is_accessory_product(product: dict) -> bool:
+    """액세서리 카테고리인지 판별합니다."""
+    return product.get("product_type") == "accessory"
 
 
 def is_obvious_non_match(title: str, product: dict) -> bool:
     """명백한 비매칭/액세서리 매물을 규칙 기반으로 제거합니다."""
     normalized = normalize_title(title)
 
-    if any(pattern in normalized for pattern in COMMON_EXCLUDE_PATTERNS):
+    exclude_patterns = (
+        ACCESSORY_EXCLUDE_PATTERNS if is_accessory_product(product) else COMMON_EXCLUDE_PATTERNS
+    )
+    if any(pattern in normalized for pattern in exclude_patterns):
         return True
-    if LENS_HOOD_RE.search(normalized):
+    if not is_accessory_product(product) and LENS_HOOD_RE.search(normalized):
         return True
     if is_variant_conflict(title, product):
         return True
