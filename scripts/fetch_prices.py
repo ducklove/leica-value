@@ -345,6 +345,7 @@ def search_items(token: str, browse_url: str, query: str, category_id: str | Non
     all_items = []
     offset = 0
     limit = 200
+    max_attempts = 3
 
     while True:
         params = {
@@ -365,17 +366,63 @@ def search_items(token: str, browse_url: str, query: str, category_id: str | Non
         if category_id:
             params["category_ids"] = category_id
 
-        resp = requests.get(
-            browse_url,
-            headers=headers,
-            params=params,
-            timeout=30,
-        )
+        attempt = 0
+        while True:
+            try:
+                resp = requests.get(
+                    browse_url,
+                    headers=headers,
+                    params=params,
+                    timeout=30,
+                )
+            except requests.exceptions.Timeout:
+                attempt += 1
+                if attempt >= max_attempts:
+                    raise
+                wait_seconds = 5 * attempt
+                log.warning(
+                    "Search timeout for query=%r offset=%d (attempt %d/%d), retrying in %d seconds",
+                    query,
+                    offset,
+                    attempt,
+                    max_attempts,
+                    wait_seconds,
+                )
+                time.sleep(wait_seconds)
+                continue
+            except requests.exceptions.RequestException:
+                attempt += 1
+                if attempt >= max_attempts:
+                    raise
+                wait_seconds = 5 * attempt
+                log.warning(
+                    "Search request failed for query=%r offset=%d (attempt %d/%d), retrying in %d seconds",
+                    query,
+                    offset,
+                    attempt,
+                    max_attempts,
+                    wait_seconds,
+                )
+                time.sleep(wait_seconds)
+                continue
 
-        if resp.status_code == 429:
-            log.warning("Rate limited, waiting 5 seconds...")
-            time.sleep(5)
-            continue
+            if resp.status_code == 429:
+                attempt += 1
+                if attempt >= max_attempts:
+                    resp.raise_for_status()
+                wait_seconds = 5 * attempt
+                log.warning(
+                    "Rate limited for query=%r offset=%d (attempt %d/%d), retrying in %d seconds",
+                    query,
+                    offset,
+                    attempt,
+                    max_attempts,
+                    wait_seconds,
+                )
+                time.sleep(wait_seconds)
+                continue
+
+            break
 
         resp.raise_for_status()
         data = resp.json()
@@ -739,21 +786,25 @@ def main():
                     stats["median"],
                 )
 
-            except requests.exceptions.HTTPError as e:
-                log.error("  → HTTP error for %s: %s", pid, e)
-                error_entry = build_base_product_entry(product)
-                error_entry.update({
-                    "median": None,
-                    "mean": None,
-                    "min": None,
-                    "max": None,
-                    "q1": None,
-                    "q3": None,
-                    "count": 0,
-                    "count_filtered": 0,
-                    "samples": [],
-                    "error": str(e),
-                })
+            except requests.exceptions.RequestException as e:
+                log.error("  → Request error for %s: %s", pid, e)
+                error_entry = existing_products.get(pid)
+                if error_entry:
+                    error_entry = dict(error_entry)
+                else:
+                    error_entry = build_base_product_entry(product)
+                    error_entry.update({
+                        "median": None,
+                        "mean": None,
+                        "min": None,
+                        "max": None,
+                        "q1": None,
+                        "q3": None,
+                        "count": 0,
+                        "count_filtered": 0,
+                        "samples": [],
+                    })
+                error_entry["error"] = str(e)
                 cat_entry["products"].append(error_entry)
 
             # API 부하 방지

@@ -90,6 +90,14 @@
         <p class="chart-empty" id="chart-empty" hidden>표시할 시계열 데이터가 충분하지 않습니다.</p>
       </div>
 
+      <noscript>
+        <table class="history-table">
+          <thead>
+            <tr><th>날짜</th><th>중앙값</th><th>Q1-Q3</th><th>매물 수</th></tr>
+          </thead>
+          <tbody><tr><td>2026-03-13</td><td>-</td><td>- - -</td><td>0</td></tr></tbody>
+        </table>
+      </noscript>
     </section>
 
     <section class="listings-section">
@@ -142,7 +150,7 @@
     </div>
   </footer>
 
-  <script id="history-data" type="application/json">[]</script>
+  <script id="history-data" type="application/json">[{"date": "2026-03-13", "median": null, "mean": null, "min": null, "max": null, "q1": null, "q3": null, "count": 0, "count_filtered": 0}]</script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
   <script src="../js/site.js" defer></script>
 </body>
