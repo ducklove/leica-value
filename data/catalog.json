@@ -30,7 +30,7 @@
      "id": "leica-m11-p",
      "name_ko": "라이카 M11-P",
      "name_en": "Leica M11-P",
-     "subcategory": "flagship",
+     "subcategory": "m-digital",
      "release_year": 2023,
      "median": null,
      "mean": null,
@@ -46,7 +46,7 @@
      "id": "leica-m11",
      "name_ko": "라이카 M11",
      "name_en": "Leica M11",
-     "subcategory": "flagship",
+     "subcategory": "m-digital",
      "release_year": 2022,
      "median": null,
      "mean": null,
@@ -62,7 +62,7 @@
      "id": "leica-m10-r",
      "name_ko": "라이카 M10-R",
      "name_en": "Leica M10-R",
-     "subcategory": "flagship",
+     "subcategory": "m-digital",
      "release_year": 2020,
      "median": null,
      "mean": null,
@@ -78,7 +78,7 @@
      "id": "leica-m10",
      "name_ko": "라이카 M10",
      "name_en": "Leica M10",
-     "subcategory": "midrange",
+     "subcategory": "m-digital",
      "release_year": 2017,
      "median": null,
      "mean": null,
@@ -91,10 +91,92 @@
      "samples": []
     },
     {
+     "id": "leica-m10-p",
+     "name_ko": "라이카 M10-P",
+     "name_en": "Leica M10-P",
+     "subcategory": "m-digital",
+     "release_year": 2018,
+     "median": 5985.09,
+     "mean": 5807.6,
+     "min": 5524.61,
+     "max": 6009.0,
+     "q1": 5524.61,
+     "q3": 5985.09,
+     "count": 7,
+     "count_filtered": 7,
+     "samples": [
+      {
+       "title": "Leica M10-P Silver Type 20022 Service 31.05.23 (3,662 shots) Photo-Görlitz",
+       "price": 5524.61,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/ekMAAOSwD8Fl8Wc3/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/267575326768?_skw=Leica+M10-P&hash=item3e4cbb7830:g:ekMAAOSwD8Fl8Wc3"
+      },
+      {
+       "title": "Leica M10-P Silver Type 20022 (9,985 shots) Photo-Görlitz",
+       "price": 5524.61,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/2CIAAeSwz~xo91wS/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/257377027085?_skw=Leica+M10-P&hash=item3becddc40d:g:2CIAAeSwz~xo91wS"
+      },
+      {
+       "title": "Leica M10-P Silver Type 20022 Service 24/05/22 (28,300 shots) Photo-Görlitz",
+       "price": 5639.73,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/IxoAAOSwqcFl8WXf/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/266717652186?_skw=Leica+M10-P&hash=item3e199c64da:g:IxoAAOSwqcFl8WXf"
+      },
+      {
+       "title": "Leica M10-P Silver Type 20022 from 13.09.2018 (1,771 shots) Photo-Görlitz",
+       "price": 5985.09,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/72AAAeSwvZ5ppqOX/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/267592731733?_skw=Leica+M10-P&hash=item3e4dc50c55:g:72AAAeSwvZ5ppqOX"
+      },
+      {
+       "title": "Leica M10-P Black 20021 from 23.10.2018 (14,894 shots) Photo-Görlitz",
+       "price": 5985.09,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/4WsAAeSwdnFpqXxF/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/267595035836?_skw=Leica+M10-P&hash=item3e4de834bc:g:4WsAAeSwdnFpqXxF"
+      }
+     ]
+    },
+    {
+     "id": "leica-m10-monochrom",
+     "name_ko": "라이카 M10 Monochrom",
+     "name_en": "Leica M10 Monochrom",
+     "subcategory": "m-digital",
+     "release_year": 2020,
+     "median": 6795.0,
+     "mean": 6795.0,
+     "min": 6795.0,
+     "max": 6795.0,
+     "q1": 6795.0,
+     "q3": 6795.0,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica M10 Monochrom 40.0MP Digital Rangefinder Camera With Original Box - Black",
+       "price": 6795.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/zX8AAOSwyU5oN5CP/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/405522849697?_skw=Leica+M10+Monochrom&hash=item5e6b0b9fa1:g:zX8AAOSwyU5oN5CP"
+      }
+     ]
+    },
+    {
      "id": "leica-m-typ-240",
      "name_ko": "라이카 M (Typ 240)",
      "name_en": "Leica M (Typ 240)",
-     "subcategory": "classic",
+     "subcategory": "m-digital",
      "release_year": 2012,
      "median": null,
      "mean": null,
@@ -107,10 +189,67 @@
      "samples": []
     },
     {
+     "id": "leica-m-p-typ-240",
+     "name_ko": "라이카 M-P (Typ 240)",
+     "name_en": "Leica M-P (Typ 240)",
+     "subcategory": "m-digital",
+     "release_year": 2014,
+     "median": 3831.19,
+     "mean": 3742.39,
+     "min": 3049.53,
+     "max": 4199.0,
+     "q1": 3424.77,
+     "q3": 4015.61,
+     "count": 5,
+     "count_filtered": 5,
+     "samples": [
+      {
+       "title": "[Top MINT+++] Leica M-P TYP 240 Black Paint Rangefinder Digital Camera JAPAN",
+       "price": 3800.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/j64AAOSw46tnnIgf/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/358131432686?_skw=Leica+M-P+typ+240&hash=item53624bfcee:g:j64AAOSw46tnnIgf"
+      },
+      {
+       "title": "Leica M-P Typ 240 Silver 10772 Black Box Very Good",
+       "price": 3831.19,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/RHcAAeSwJ9NprW~f/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/267597904585?_skw=Leica+M-P+typ+240&hash=item3e4e13fac9:g:RHcAAeSwJ9NprW~f"
+      },
+      {
+       "title": "Leica M-P (Typ 240) Black Digital Rangefinder Camera #4891491",
+       "price": 3832.23,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/9AgAAeSwYE9ovANX/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/326949664240?_skw=Leica+M-P+typ+240&hash=item4c1fb7f5f0:g:9AgAAeSwYE9ovANX"
+      },
+      {
+       "title": "Leica M-P Typ 240 'Thailand' Edition Camera White Paint 10952 *EX+ in Box*",
+       "price": 4199.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/CqgAAeSwQrJo~uxV/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/306569341917?_skw=Leica+M-P+typ+240&hash=item4760f4ebdd:g:CqgAAeSwQrJo~uxV"
+      },
+      {
+       "title": "Leica M-P (Typ 240) Black (10773)",
+       "price": 3049.53,
+       "currency": "USD",
+       "condition": "Tweedehands",
+       "image": "https://i.ebayimg.com/images/g/QKwAAeSwO2VprnRg/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/227248229175?_skw=Leica+M-P+typ+240&hash=item34e90ccb37:g:QKwAAeSwO2VprnRg"
+      }
+     ]
+    },
+    {
      "id": "leica-m9",
      "name_ko": "라이카 M9",
      "name_en": "Leica M9",
-     "subcategory": "classic",
+     "subcategory": "m-digital",
      "release_year": 2009,
      "median": null,
      "mean": null,
@@ -123,10 +262,126 @@
      "samples": []
     },
     {
+     "id": "leica-m8-2",
+     "name_ko": "라이카 M8.2",
+     "name_en": "Leica M8.2",
+     "subcategory": "m-digital",
+     "release_year": 2008,
+     "median": 2348.45,
+     "mean": 2348.45,
+     "min": 2348.45,
+     "max": 2348.45,
+     "q1": 2348.45,
+     "q3": 2348.45,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica M m8.2 m8 aps digital rangefinder body silver chrome 10712 3k clicks",
+       "price": 2348.45,
+       "currency": "USD",
+       "condition": "Occasion",
+       "image": "https://i.ebayimg.com/images/g/cGQAAeSwhAZpNcrN/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/236661740433?_skw=Leica+M8+2+body&hash=item371a239391:g:cGQAAeSwhAZpNcrN"
+      }
+     ]
+    },
+    {
+     "id": "leica-m8",
+     "name_ko": "라이카 M8",
+     "name_en": "Leica M8",
+     "subcategory": "m-digital",
+     "release_year": 2006,
+     "median": 2319.67,
+     "mean": 2319.67,
+     "min": 2175.77,
+     "max": 2463.57,
+     "q1": 2175.77,
+     "q3": 2463.57,
+     "count": 2,
+     "count_filtered": 2,
+     "samples": [
+      {
+       "title": "Leica M m8 aps digital rangefinder body black 10701 1000 clicks",
+       "price": 2175.77,
+       "currency": "USD",
+       "condition": "Occasion",
+       "image": "https://i.ebayimg.com/images/g/ffYAAeSwH4Rpr8DA/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/336471793819?_skw=Leica+M8+body+-M8.2&hash=item4e5748209b:g:ffYAAeSwH4Rpr8DA"
+      },
+      {
+       "title": "Leica M8 Body Body",
+       "price": 2463.57,
+       "currency": "USD",
+       "condition": "Gebraucht",
+       "image": "https://i.ebayimg.com/images/g/kCoAAeSwDWVobPaF/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/287172768190?_skw=Leica+M8+body+-M8.2&hash=item42dcd4b1be:g:kCoAAeSwDWVobPaF"
+      }
+     ]
+    },
+    {
+     "id": "leica-m-monochrom-typ-246",
+     "name_ko": "라이카 M Monochrom (Typ 246)",
+     "name_en": "Leica M Monochrom (Typ 246)",
+     "subcategory": "m-digital",
+     "release_year": 2015,
+     "median": 4898.99,
+     "mean": 4898.99,
+     "min": 4598.0,
+     "max": 5199.99,
+     "q1": 4598.0,
+     "q3": 5199.99,
+     "count": 2,
+     "count_filtered": 2,
+     "samples": [
+      {
+       "title": "Leica M Monochrom Typ 246 Digital Rangefinder Camera Body",
+       "price": 4598.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/fyYAAeSwKnlprTRE/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/236675012222?_skw=Leica+M+Monochrom+typ+246&hash=item371aee167e:g:fyYAAeSwKnlprTRE"
+      },
+      {
+       "title": "🎦Full Set【 MINT 】Leica M Monochrom ( Typ246 ) Rangefinder Digital Camera JAPAN",
+       "price": 5199.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/BakAAeSwS~5pm~YI/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/366248067580?_skw=Leica+M+Monochrom+typ+246&hash=item55461601fc:g:BakAAeSwS~5pm~YI"
+      }
+     ]
+    },
+    {
+     "id": "leica-m11-monochrom",
+     "name_ko": "라이카 M11 Monochrom",
+     "name_en": "Leica M11 Monochrom",
+     "subcategory": "m-digital",
+     "release_year": 2023,
+     "median": 8449.81,
+     "mean": 8449.81,
+     "min": 8449.81,
+     "max": 8449.81,
+     "q1": 8449.81,
+     "q3": 8449.81,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica m11 m monochrome m11-m body",
+       "price": 8449.81,
+       "currency": "USD",
+       "condition": "Occasion",
+       "image": "https://i.ebayimg.com/images/g/SHwAAeSwsaZpihGA/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/336457720912?_skw=Leica+M11+Monochrom&hash=item4e56716450:g:SHwAAeSwsaZpihGA"
+      }
+     ]
+    },
+    {
      "id": "leica-m-edition-60",
      "name_ko": "라이카 M Edition 60",
      "name_en": "Leica M Edition 60",
-     "subcategory": "flagship",
+     "subcategory": "m-digital",
      "release_year": 2014,
      "is_rare": true,
      "rarity_tier": "A",
@@ -180,7 +435,7 @@
      "id": "leica-q3-43",
      "name_ko": "라이카 Q3 43",
      "name_en": "Leica Q3 43",
-     "subcategory": "flagship",
+     "subcategory": "fixed-lens",
      "release_year": 2024,
      "median": null,
      "mean": null,
@@ -196,7 +451,7 @@
      "id": "leica-q3",
      "name_ko": "라이카 Q3",
      "name_en": "Leica Q3",
-     "subcategory": "flagship",
+     "subcategory": "fixed-lens",
      "release_year": 2023,
      "median": null,
      "mean": null,
@@ -212,7 +467,7 @@
      "id": "leica-q2",
      "name_ko": "라이카 Q2",
      "name_en": "Leica Q2",
-     "subcategory": "midrange",
+     "subcategory": "fixed-lens",
      "release_year": 2019,
      "median": null,
      "mean": null,
@@ -225,10 +480,92 @@
      "samples": []
     },
     {
+     "id": "leica-q2-monochrom",
+     "name_ko": "라이카 Q2 Monochrom",
+     "name_en": "Leica Q2 Monochrom",
+     "subcategory": "fixed-lens",
+     "release_year": 2020,
+     "median": 4905.0,
+     "mean": 5110.49,
+     "min": 3997.5,
+     "max": 6992.0,
+     "q1": 4277.49,
+     "q3": 5764.72,
+     "count": 8,
+     "count_filtered": 8,
+     "samples": [
+      {
+       "title": "Leica Q2 Monochrom 47.3MP Compact Digital Camera [Near Mint] #6943",
+       "price": 4357.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/wrAAAeSw5uhpcNMG/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/206126512045?_skw=Leica+Q2+Monochrom+camera&hash=item2ffe18f7ad:g:wrAAAeSw5uhpcNMG"
+      },
+      {
+       "title": "【MINT】Leica Q2 Monochrom Full Frame Compact Digital Camera from Japan #1582",
+       "price": 4900.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/91sAAeSw1u1pck6k/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/168102721856?_skw=Leica+Q2+Monochrom+camera&hash=item2723b3f940:g:91sAAeSw1u1pck6k"
+      },
+      {
+       "title": "【MINT】Leica Q2 Monochrom Full Frame Compact Digital Camera from Japan #F1582",
+       "price": 4910.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/ZHMAAeSwDC9pck~3/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/187978802080?_skw=Leica+Q2+Monochrom+camera&hash=item2bc468e3a0:g:ZHMAAeSwDC9pck~3"
+      },
+      {
+       "title": "【MINT】Leica Q2 Monochrom Full Frame Compact Digital Camera from Japan #P1582",
+       "price": 4910.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/AP0AAeSwGQlpckxb/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/377019827589?_skw=Leica+Q2+Monochrom+camera&hash=item57c8220585:g:AP0AAeSwGQlpckxb"
+      },
+      {
+       "title": "Leica Q2 47.3MP Monochrom Digital Camera",
+       "price": 6619.43,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/vfQAAOSwlJdlZtZR/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/256826576263?_skw=Leica+Q2+Monochrom+camera&hash=item3bcc0e8d87:g:vfQAAOSwlJdlZtZR"
+      }
+     ]
+    },
+    {
+     "id": "leica-q-p",
+     "name_ko": "라이카 Q-P",
+     "name_en": "Leica Q-P",
+     "subcategory": "fixed-lens",
+     "release_year": 2018,
+     "median": 2880.0,
+     "mean": 2880.0,
+     "min": 2880.0,
+     "max": 2880.0,
+     "q1": 2880.0,
+     "q3": 2880.0,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica Q-P 24.2MP Digital Camera - Stealth Matte Black",
+       "price": 2880.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/hOMAAeSwnbtpKZ~p/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127736638874?_skw=Leica+Q-P+digital+camera&hash=item1dbdb26d9a:g:hOMAAeSwnbtpKZ~p"
+      }
+     ]
+    },
+    {
      "id": "leica-q",
      "name_ko": "라이카 Q (Typ 116)",
      "name_en": "Leica Q (Typ 116)",
-     "subcategory": "midrange",
+     "subcategory": "fixed-lens",
      "release_year": 2015,
      "median": null,
      "mean": null,
@@ -244,7 +581,7 @@
      "id": "leica-d-lux-8",
      "name_ko": "라이카 D-Lux 8",
      "name_en": "Leica D-Lux 8",
-     "subcategory": "compact",
+     "subcategory": "fixed-lens",
      "release_year": 2024,
      "median": 1980.0,
      "mean": 1973.21,
@@ -301,25 +638,17 @@
      "id": "leica-d-lux-7",
      "name_ko": "라이카 D-Lux 7",
      "name_en": "Leica D-Lux 7",
-     "subcategory": "compact",
+     "subcategory": "fixed-lens",
      "release_year": 2018,
-     "median": 1338.74,
-     "mean": 1350.66,
+     "median": 1340.41,
+     "mean": 1357.51,
      "min": 1150.0,
      "max": 1591.97,
-     "q1": 1245.0,
+     "q1": 1261.98,
      "q3": 1449.99,
-     "count": 23,
-     "count_filtered": 23,
+     "count": 22,
+     "count_filtered": 22,
      "samples": [
-      {
-       "title": "Leica D-Lux 7 Digital Camera - Black",
-       "price": 1311.33,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/Q7oAAeSwSARpp0K9/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/376783633868?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item57ba0dfdcc:g:Q7oAAeSwSARpp0K9"
-      },
       {
        "title": "Leica D-Lux 7 Digital Camera - Black",
        "price": 1311.35,
@@ -351,6 +680,195 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ciwAAeSwkshpsCl4/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/358310017501?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item536cf0f9dd:g:ciwAAeSwkshpsCl4"
+      },
+      {
+       "title": "[Mint] Leica D-LUX 7 17.0MP Compact Digital Camera Black w/Box Tested",
+       "price": 1380.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/4kIAAeSwJnBonKYx/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/357454666507?_skw=Leica+D-Lux+7+camera+-case+-grip+-hood&hash=item5339f55b0b:g:4kIAAeSwJnBonKYx"
+      }
+     ]
+    },
+    {
+     "id": "leica-d-lux-typ-109",
+     "name_ko": "라이카 D-Lux (Typ 109)",
+     "name_en": "Leica D-Lux (Typ 109)",
+     "subcategory": "fixed-lens",
+     "release_year": 2014,
+     "median": 816.97,
+     "mean": 816.97,
+     "min": 779.99,
+     "max": 853.94,
+     "q1": 779.99,
+     "q3": 853.94,
+     "count": 2,
+     "count_filtered": 2,
+     "samples": [
+      {
+       "title": "Shot count 522[MINT in BOX] LEICA D-LUX Typ109 Compact Digital Camera From JAPAN",
+       "price": 779.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/ZxoAAeSwMA9prN-v/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/397687736114?_skw=Leica+D-Lux+typ+109+camera&hash=item5c98094732:g:ZxoAAeSwMA9prN-v"
+      },
+      {
+       "title": "Leica D-LUX (Typ 109) Compact Digital Camera (Black) 12.8MP, 3.1x Optical Zoom",
+       "price": 853.94,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/AS8AAeSwouNpTDKJ/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127582169856?_skw=Leica+D-Lux+typ+109+camera&hash=item1db47d6b00:g:AS8AAeSwouNpTDKJ"
+      }
+     ]
+    },
+    {
+     "id": "leica-c-lux",
+     "name_ko": "라이카 C-Lux",
+     "name_en": "Leica C-Lux",
+     "subcategory": "fixed-lens",
+     "release_year": 2018,
+     "median": 1089.99,
+     "mean": 1089.99,
+     "min": 1089.99,
+     "max": 1089.99,
+     "q1": 1089.99,
+     "q3": 1089.99,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica C-LUX 1 Digital Camera with Original Strap & Case – Compact Vintage 6433AK",
+       "price": 1089.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/Qy4AAOSw8-RoTtTr/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/388585407975?_skw=Leica+C-Lux+camera+-C-LUX2+-C-LUX3&hash=item5a797ec5e7:g:Qy4AAOSw8-RoTtTr"
+      }
+     ]
+    },
+    {
+     "id": "leica-v-lux-5",
+     "name_ko": "라이카 V-Lux 5",
+     "name_en": "Leica V-Lux 5",
+     "subcategory": "fixed-lens",
+     "release_year": 2019,
+     "median": 1626.29,
+     "mean": 1626.29,
+     "min": 1626.29,
+     "max": 1626.29,
+     "q1": 1626.29,
+     "q3": 1626.29,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "Leica V-Lux5 Type 7741 20.1MP Digital Camera Black (Preowned)",
+       "price": 1626.29,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/VO4AAeSwH~lohMF9/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/157199655483?_skw=Leica+V-Lux+5+camera&hash=item2499d4623b:g:VO4AAeSwH~lohMF9"
+      }
+     ]
+    },
+    {
+     "id": "leica-x-vario",
+     "name_ko": "라이카 X Vario",
+     "name_en": "Leica X Vario",
+     "subcategory": "fixed-lens",
+     "release_year": 2013,
+     "median": 1058.3,
+     "mean": 1171.02,
+     "min": 970.0,
+     "max": 1484.75,
+     "q1": 970.0,
+     "q3": 1484.75,
+     "count": 3,
+     "count_filtered": 3,
+     "samples": [
+      {
+       "title": "LEICA X Vario Typ 107 16MP Digital Camera - silver",
+       "price": 970.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/DdoAAeSwjOZpJytF/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127526716929?_skw=Leica+X+Vario+camera&hash=item1db12f4601:g:DdoAAeSwjOZpJytF"
+      },
+      {
+       "title": "Leica x Vario Typ 107 16.2MP Compact Digital Camera Black [Top Mint] #11726Y",
+       "price": 1058.3,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/ltIAAeSwVwxpRyV9/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/306818840166?_skw=Leica+X+Vario+camera&hash=item476fd3f666:g:ltIAAeSwVwxpRyV9"
+      },
+      {
+       "title": "Leica X Vario (Typ 107) Digital Camera (Preowned)",
+       "price": 1484.75,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/cdEAAOSwGpNk8A-V/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/155746654658?_skw=Leica+X+Vario+camera&hash=item24433959c2:g:cdEAAOSwGpNk8A-V"
+      }
+     ]
+    },
+    {
+     "id": "leica-x2",
+     "name_ko": "라이카 X2",
+     "name_en": "Leica X2",
+     "subcategory": "fixed-lens",
+     "release_year": 2012,
+     "median": 1053.88,
+     "mean": 1083.37,
+     "min": 942.0,
+     "max": 1460.25,
+     "q1": 949.99,
+     "q3": 1178.2,
+     "count": 17,
+     "count_filtered": 17,
+     "samples": [
+      {
+       "title": "Leica X X2 16.1MP Digital Camera - Silver",
+       "price": 950.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/9JsAAeSwWuBpJtrO/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127525932237?_skw=Leica+X2+camera&hash=item1db1234ccd:g:9JsAAeSwWuBpJtrO"
+      },
+      {
+       "title": "Leica X X2 16.1MP Digital Camera - black",
+       "price": 950.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/U38AAeSwa59pJy9t/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127526741474?_skw=Leica+X2+camera&hash=item1db12fa5e2:g:U38AAeSwa59pJy9t"
+      },
+      {
+       "title": "Leica X2 Silver Compact Digital Camera 16.1MP",
+       "price": 1053.88,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/-9IAAOSws71oPsxw/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/376303315137?_skw=Leica+X2+camera&hash=item579d6ce8c1:g:-9IAAOSws71oPsxw"
+      },
+      {
+       "title": "Leica X2 Silver Compact Digital Camera 16.1MP",
+       "price": 1054.2,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/~AYAAeSwBW5pCIXO/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/376669739148?_skw=Leica+X2+camera&hash=item57b344188c:g:~AYAAeSwBW5pCIXO"
+      },
+      {
+       "title": "Leica X X2 16.1MP Digital Camera - yellow - Limited Edition",
+       "price": 1080.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/Yj0AAeSwMCVpWp~N/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/127603824434?_skw=Leica+X2+camera&hash=item1db5c7d732:g:Yj0AAeSwMCVpWp~N"
       }
      ]
     },
@@ -358,7 +876,7 @@
      "id": "leica-sl3",
      "name_ko": "라이카 SL3",
      "name_en": "Leica SL3",
-     "subcategory": "flagship",
+     "subcategory": "l-mount",
      "release_year": 2024,
      "median": null,
      "mean": null,
@@ -374,7 +892,7 @@
      "id": "leica-sl2",
      "name_ko": "라이카 SL2",
      "name_en": "Leica SL2",
-     "subcategory": "flagship",
+     "subcategory": "l-mount",
      "release_year": 2019,
      "median": null,
      "mean": null,
@@ -390,7 +908,7 @@
      "id": "leica-sl2-s",
      "name_ko": "라이카 SL2-S",
      "name_en": "Leica SL2-S",
-     "subcategory": "midrange",
+     "subcategory": "l-mount",
      "release_year": 2020,
      "median": null,
      "mean": null,
@@ -406,7 +924,7 @@
      "id": "leica-sl-typ-601",
      "name_ko": "라이카 SL (Typ 601)",
      "name_en": "Leica SL (Typ 601)",
-     "subcategory": "entry",
+     "subcategory": "l-mount",
      "release_year": 2015,
      "median": null,
      "mean": null,
@@ -422,7 +940,7 @@
      "id": "leica-cl",
      "name_ko": "라이카 CL",
      "name_en": "Leica CL",
-     "subcategory": "entry",
+     "subcategory": "l-mount",
      "release_year": 2017,
      "median": 2450.98,
      "mean": 2547.98,
@@ -472,6 +990,88 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/-d8AAeSwdxdpJ8Kk/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/366249823267?_skw=Leica+CL+body+-TL2+-summicron+-vario&hash=item554630cc23:g:-d8AAeSwdxdpJ8Kk"
+      }
+     ]
+    },
+    {
+     "id": "leica-tl2",
+     "name_ko": "라이카 TL2",
+     "name_en": "Leica TL2",
+     "subcategory": "l-mount",
+     "release_year": 2017,
+     "median": 2404.48,
+     "mean": 2306.45,
+     "min": 2069.99,
+     "max": 2426.99,
+     "q1": 2147.36,
+     "q3": 2416.53,
+     "count": 5,
+     "count_filtered": 5,
+     "samples": [
+      {
+       "title": "Leica TL2 Mirrorless L-Mount Digital Camera Silver Body From Japan (Near Mint)",
+       "price": 2069.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/FAkAAeSwrBRpKYfr/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/366026156111?_skw=Leica+TL2+body&hash=item5538dbe84f:g:FAkAAeSwrBRpKYfr"
+      },
+      {
+       "title": "LEICA TL2 Body Black [Digital Mirrorless Camera (24.24MP)]",
+       "price": 2224.74,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/qmsAAeSwfLxpp~Xj/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/358284358057?_skw=Leica+TL2+body&hash=item536b6971a9:g:qmsAAeSwfLxpp~Xj"
+      },
+      {
+       "title": "LEICA TL2 Body Black 7709",
+       "price": 2406.07,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/37EAAeSwIO1ps6BY/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/306805953069?_skw=Leica+TL2+body&hash=item476f0f522d:g:37EAAeSwIO1ps6BY"
+      },
+      {
+       "title": "LEICA TL2 Body Black [Digital Mirrorless Camera (24.24MP)]",
+       "price": 2404.48,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/qmsAAeSwfLxpp~Xj/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/358300025157?_skw=Leica+TL2+body&hash=item536c588145:g:qmsAAeSwfLxpp~Xj"
+      },
+      {
+       "title": "LEICA TL2 Body Black [Digital Mirrorless Camera (24.24MP)]",
+       "price": 2426.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/qmsAAeSwfLxpp~Xj/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/317969679529?_skw=Leica+TL2+body&hash=item4a087844a9:g:qmsAAeSwfLxpp~Xj"
+      }
+     ]
+    },
+    {
+     "id": "leica-t-typ-701",
+     "name_ko": "라이카 T (Typ 701)",
+     "name_en": "Leica T (Typ 701)",
+     "subcategory": "l-mount",
+     "release_year": 2014,
+     "median": 1529.99,
+     "mean": 1529.99,
+     "min": 1529.99,
+     "max": 1529.99,
+     "q1": 1529.99,
+     "q3": 1529.99,
+     "count": 1,
+     "count_filtered": 1,
+     "samples": [
+      {
+       "title": "[TOP MINT] Leica LeicaT Typ 701 Silver 18181 Body Only From Japan #171",
+       "price": 1529.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/RKsAAeSwhqJpodCm/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/227234996122?_skw=Leica+T+typ+701+body&hash=item34e842df9a:g:RKsAAeSwhqJpodCm"
       }
      ]
     }

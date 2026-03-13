@@ -52,6 +52,24 @@ categories:
     category_id: '31388'
     min_price: 2800
     max_price: 5500
+  - id: leica-m10-p
+    name_ko: 라이카 M10-P
+    name_en: Leica M10-P
+    release_year: 2018
+    subcategory: m-digital
+    query: Leica M10-P
+    category_id: '31388'
+    min_price: 3200
+    max_price: 6500
+  - id: leica-m10-monochrom
+    name_ko: 라이카 M10 Monochrom
+    name_en: Leica M10 Monochrom
+    release_year: 2020
+    subcategory: m-digital
+    query: Leica M10 Monochrom
+    category_id: '31388'
+    min_price: 4500
+    max_price: 9000
   - id: leica-m-typ-240
     name_ko: 라이카 M (Typ 240)
     name_en: Leica M (Typ 240)
@@ -61,6 +79,15 @@ categories:
     category_id: '31388'
     min_price: 1800
     max_price: 4000
+  - id: leica-m-p-typ-240
+    name_ko: 라이카 M-P (Typ 240)
+    name_en: Leica M-P (Typ 240)
+    release_year: 2014
+    subcategory: m-digital
+    query: Leica M-P typ 240
+    category_id: '31388'
+    min_price: 2200
+    max_price: 4500
   - id: leica-m9
     name_ko: 라이카 M9
     name_en: Leica M9
@@ -70,6 +97,42 @@ categories:
     category_id: '31388'
     min_price: 1500
     max_price: 3500
+  - id: leica-m8-2
+    name_ko: 라이카 M8.2
+    name_en: Leica M8.2
+    release_year: 2008
+    subcategory: m-digital
+    query: Leica M8 2 body
+    category_id: '31388'
+    min_price: 900
+    max_price: 2600
+  - id: leica-m8
+    name_ko: 라이카 M8
+    name_en: Leica M8
+    release_year: 2006
+    subcategory: m-digital
+    query: Leica M8 body -M8.2
+    category_id: '31388'
+    min_price: 700
+    max_price: 2200
+  - id: leica-m-monochrom-typ-246
+    name_ko: 라이카 M Monochrom (Typ 246)
+    name_en: Leica M Monochrom (Typ 246)
+    release_year: 2015
+    subcategory: m-digital
+    query: Leica M Monochrom typ 246
+    category_id: '31388'
+    min_price: 2500
+    max_price: 6000
+  - id: leica-m11-monochrom
+    name_ko: 라이카 M11 Monochrom
+    name_en: Leica M11 Monochrom
+    release_year: 2023
+    subcategory: m-digital
+    query: Leica M11 Monochrom
+    category_id: '31388'
+    min_price: 6500
+    max_price: 12000
   - id: leica-m-edition-60
     name_ko: 라이카 M Edition 60
     name_en: Leica M Edition 60
@@ -111,6 +174,24 @@ categories:
     category_id: '31388'
     min_price: 2800
     max_price: 5500
+  - id: leica-q2-monochrom
+    name_ko: 라이카 Q2 Monochrom
+    name_en: Leica Q2 Monochrom
+    release_year: 2020
+    subcategory: fixed-lens
+    query: Leica Q2 Monochrom camera
+    category_id: '31388'
+    min_price: 3800
+    max_price: 7000
+  - id: leica-q-p
+    name_ko: 라이카 Q-P
+    name_en: Leica Q-P
+    release_year: 2018
+    subcategory: fixed-lens
+    query: Leica Q-P digital camera
+    category_id: '31388'
+    min_price: 2600
+    max_price: 5000
   - id: leica-q
     name_ko: 라이카 Q (Typ 116)
     name_en: Leica Q (Typ 116)
@@ -138,6 +219,51 @@ categories:
     category_id: '31388'
     min_price: 800
     max_price: 1600
+  - id: leica-d-lux-typ-109
+    name_ko: 라이카 D-Lux (Typ 109)
+    name_en: Leica D-Lux (Typ 109)
+    release_year: 2014
+    subcategory: fixed-lens
+    query: Leica D-Lux typ 109 camera
+    category_id: '31388'
+    min_price: 450
+    max_price: 1000
+  - id: leica-c-lux
+    name_ko: 라이카 C-Lux
+    name_en: Leica C-Lux
+    release_year: 2018
+    subcategory: fixed-lens
+    query: Leica C-Lux camera -C-LUX2 -C-LUX3
+    category_id: '31388'
+    min_price: 500
+    max_price: 1200
+  - id: leica-v-lux-5
+    name_ko: 라이카 V-Lux 5
+    name_en: Leica V-Lux 5
+    release_year: 2019
+    subcategory: fixed-lens
+    query: Leica V-Lux 5 camera
+    category_id: '31388'
+    min_price: 900
+    max_price: 1800
+  - id: leica-x-vario
+    name_ko: 라이카 X Vario
+    name_en: Leica X Vario
+    release_year: 2013
+    subcategory: fixed-lens
+    query: Leica X Vario camera
+    category_id: '31388'
+    min_price: 900
+    max_price: 2200
+  - id: leica-x2
+    name_ko: 라이카 X2
+    name_en: Leica X2
+    release_year: 2012
+    subcategory: fixed-lens
+    query: Leica X2 camera
+    category_id: '31388'
+    min_price: 500
+    max_price: 1400
   - id: leica-sl3
     name_ko: 라이카 SL3
     name_en: Leica SL3
@@ -183,6 +309,24 @@ categories:
     category_id: '31388'
     min_price: 1500
     max_price: 3000
+  - id: leica-tl2
+    name_ko: 라이카 TL2
+    name_en: Leica TL2
+    release_year: 2017
+    subcategory: l-mount
+    query: Leica TL2 body
+    category_id: '31388'
+    min_price: 1500
+    max_price: 3000
+  - id: leica-t-typ-701
+    name_ko: 라이카 T (Typ 701)
+    name_en: Leica T (Typ 701)
+    release_year: 2014
+    subcategory: l-mount
+    query: Leica T typ 701 body
+    category_id: '31388'
+    min_price: 500
+    max_price: 1600
 - id: film-cameras
   name_ko: 필름 카메라
   name_en: Film Cameras
