@@ -1,0 +1,1135 @@
+{
+ "date": "2026-06-05",
+ "products": {
+  "leica-m11-p": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m11": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m10-r": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m10": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m10-p": {
+   "median": 5819.99,
+   "mean": 5794.17,
+   "min": 5565.4,
+   "max": 5971.3,
+   "q1": 5681.37,
+   "q3": 5906.97,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leica-m10-monochrom": {
+   "median": 9219.62,
+   "mean": 9219.62,
+   "min": 9219.62,
+   "max": 9219.62,
+   "q1": 9219.62,
+   "q3": 9219.62,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-m-typ-240": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m-p-typ-240": {
+   "median": 4229.5,
+   "mean": 4128.68,
+   "min": 3780.71,
+   "max": 4275.0,
+   "q1": 3989.86,
+   "q3": 4267.5,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leica-m9": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m8-2": {
+   "median": 2365.79,
+   "mean": 2365.79,
+   "min": 2365.79,
+   "max": 2365.79,
+   "q1": 2365.79,
+   "q3": 2365.79,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-m8": {
+   "median": 2481.76,
+   "mean": 2481.76,
+   "min": 2481.76,
+   "max": 2481.76,
+   "q1": 2481.76,
+   "q3": 2481.76,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-m-monochrom-typ-246": {
+   "median": 4310.0,
+   "mean": 4310.0,
+   "min": 4310.0,
+   "max": 4310.0,
+   "q1": 4310.0,
+   "q3": 4310.0,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-m11-monochrom": {
+   "median": 9950.0,
+   "mean": 10322.8,
+   "min": 9499.99,
+   "max": 11518.4,
+   "q1": 9499.99,
+   "q3": 11518.4,
+   "count": 3,
+   "count_filtered": 3
+  },
+  "leica-m-edition-60": {
+   "median": 16061.27,
+   "mean": 16144.72,
+   "min": 14206.33,
+   "max": 18250.0,
+   "q1": 14321.72,
+   "q3": 17967.72,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leica-q3-43": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-q3": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-q2": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-q2-monochrom": {
+   "median": 4416.4,
+   "mean": 4459.4,
+   "min": 3979.07,
+   "max": 5069.31,
+   "q1": 3992.0,
+   "q3": 4905.0,
+   "count": 8,
+   "count_filtered": 8
+  },
+  "leica-q-p": {
+   "median": 3506.42,
+   "mean": 3414.14,
+   "min": 2880.0,
+   "max": 3856.0,
+   "q1": 2880.0,
+   "q3": 3856.0,
+   "count": 3,
+   "count_filtered": 3
+  },
+  "leica-q": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-d-lux-8": {
+   "median": 1849.99,
+   "mean": 1907.85,
+   "min": 1750.0,
+   "max": 2159.0,
+   "q1": 1815.84,
+   "q3": 2039.99,
+   "count": 9,
+   "count_filtered": 9
+  },
+  "leica-d-lux-7": {
+   "median": 1444.98,
+   "mean": 1400.98,
+   "min": 1099.0,
+   "max": 1688.94,
+   "q1": 1214.0,
+   "q3": 1540.0,
+   "count": 23,
+   "count_filtered": 23
+  },
+  "leica-d-lux-typ-109": {
+   "median": 999.99,
+   "mean": 905.03,
+   "min": 633.99,
+   "max": 1092.69,
+   "q1": 678.12,
+   "q3": 1040.07,
+   "count": 9,
+   "count_filtered": 9
+  },
+  "leica-c-lux": {
+   "median": 1050.0,
+   "mean": 1056.7,
+   "min": 999.0,
+   "max": 1100.0,
+   "q1": 1024.5,
+   "q3": 1092.24,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "leica-v-lux-5": {
+   "median": 1577.92,
+   "mean": 1461.21,
+   "min": 989.0,
+   "max": 1700.0,
+   "q1": 1235.24,
+   "q3": 1687.18,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leica-x-vario": {
+   "median": 1087.88,
+   "mean": 1102.56,
+   "min": 961.4,
+   "max": 1353.16,
+   "q1": 970.0,
+   "q3": 1155.0,
+   "count": 6,
+   "count_filtered": 6
+  },
+  "leica-x2": {
+   "median": 989.49,
+   "mean": 1022.76,
+   "min": 893.97,
+   "max": 1311.93,
+   "q1": 951.89,
+   "q3": 1100.97,
+   "count": 25,
+   "count_filtered": 23
+  },
+  "leica-sl3": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-sl2": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-sl2-s": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-sl-typ-601": {
+   "median": 2338.18,
+   "mean": 2338.18,
+   "min": 2338.18,
+   "max": 2338.18,
+   "q1": 2338.18,
+   "q3": 2338.18,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-cl": {
+   "median": 2586.37,
+   "mean": 2586.49,
+   "min": 2350.0,
+   "max": 2999.07,
+   "q1": 2374.5,
+   "q3": 2798.53,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "leica-tl2": {
+   "median": 1824.99,
+   "mean": 1847.85,
+   "min": 1526.69,
+   "max": 2214.71,
+   "q1": 1553.35,
+   "q3": 2142.35,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leica-t-typ-701": {
+   "median": 1319.99,
+   "mean": 1319.99,
+   "min": 1319.99,
+   "max": 1319.99,
+   "q1": 1319.99,
+   "q3": 1319.99,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-i-model-a": {
+   "median": 2299.04,
+   "mean": 2261.97,
+   "min": 1846.77,
+   "max": 2948.46,
+   "q1": 1848.22,
+   "q3": 2342.53,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "leica-ii": {
+   "median": 779.99,
+   "mean": 1027.47,
+   "min": 571.82,
+   "max": 1462.79,
+   "q1": 777.34,
+   "q3": 1461.26,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "leica-standard": {
+   "median": 889.61,
+   "mean": 920.79,
+   "min": 514.98,
+   "max": 1356.6,
+   "q1": 561.91,
+   "q3": 1295.26,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "leica-iii": {
+   "median": 741.41,
+   "mean": 916.94,
+   "min": 603.77,
+   "max": 1689.39,
+   "q1": 648.92,
+   "q3": 1210.24,
+   "count": 11,
+   "count_filtered": 11
+  },
+  "leica-iiia": {
+   "median": 767.94,
+   "mean": 1258.62,
+   "min": 710.49,
+   "max": 2297.44,
+   "q1": 710.49,
+   "q3": 2297.44,
+   "count": 3,
+   "count_filtered": 3
+  },
+  "leica-iiib": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-iiic": {
+   "median": 1369.72,
+   "mean": 1643.99,
+   "min": 999.99,
+   "max": 2380.2,
+   "q1": 1219.99,
+   "q3": 2296.14,
+   "count": 8,
+   "count_filtered": 8
+  },
+  "leica-iiif": {
+   "median": 915.89,
+   "mean": 956.02,
+   "min": 803.25,
+   "max": 1365.89,
+   "q1": 855.88,
+   "q3": 1162.99,
+   "count": 26,
+   "count_filtered": 21
+  },
+  "leica-iiig": {
+   "median": 1895.0,
+   "mean": 1895.0,
+   "min": 1890.0,
+   "max": 1900.0,
+   "q1": 1890.0,
+   "q3": 1900.0,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "leica-m3": {
+   "median": 1996.53,
+   "mean": 1962.52,
+   "min": 1243.97,
+   "max": 2674.0,
+   "q1": 1655.5,
+   "q3": 2300.49,
+   "count": 73,
+   "count_filtered": 73
+  },
+  "leica-m2": {
+   "median": 2010.57,
+   "mean": 2042.26,
+   "min": 1399.99,
+   "max": 2564.0,
+   "q1": 1812.88,
+   "q3": 2286.24,
+   "count": 21,
+   "count_filtered": 21
+  },
+  "leica-m4": {
+   "median": 2394.49,
+   "mean": 2429.82,
+   "min": 1834.99,
+   "max": 3034.99,
+   "q1": 2260.99,
+   "q3": 2636.03,
+   "count": 35,
+   "count_filtered": 34
+  },
+  "leica-m5": {
+   "median": 1634.76,
+   "mean": 1763.29,
+   "min": 1239.98,
+   "max": 2659.99,
+   "q1": 1369.99,
+   "q3": 2131.0,
+   "count": 22,
+   "count_filtered": 22
+  },
+  "leica-cl-film": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m4-2": {
+   "median": 1899.99,
+   "mean": 2006.7,
+   "min": 1789.99,
+   "max": 2540.0,
+   "q1": 1799.99,
+   "q3": 2126.95,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "leica-m4-p": {
+   "median": 2399.0,
+   "mean": 2386.33,
+   "min": 2249.99,
+   "max": 2509.99,
+   "q1": 2249.99,
+   "q3": 2509.99,
+   "count": 3,
+   "count_filtered": 3
+  },
+  "leica-m6": {
+   "median": 3467.77,
+   "mean": 3479.91,
+   "min": 2910.37,
+   "max": 4100.0,
+   "q1": 3200.0,
+   "q3": 3980.0,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "leica-m6-ttl": {
+   "median": 3539.98,
+   "mean": 3709.05,
+   "min": 2739.98,
+   "max": 5029.0,
+   "q1": 3149.99,
+   "q3": 4249.98,
+   "count": 19,
+   "count_filtered": 19
+  },
+  "leica-m7": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-mp": {
+   "median": 3974.99,
+   "mean": 3974.99,
+   "min": 3549.99,
+   "max": 4400.0,
+   "q1": 3549.99,
+   "q3": 4400.0,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "leica-mp-hammertone": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-m-a": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leicaflex": {
+   "median": 401.84,
+   "mean": 441.96,
+   "min": 398.5,
+   "max": 565.68,
+   "q1": 398.59,
+   "q3": 485.34,
+   "count": 4,
+   "count_filtered": 4
+  },
+  "leicaflex-sl": {
+   "median": 448.45,
+   "mean": 456.05,
+   "min": 384.96,
+   "max": 565.1,
+   "q1": 419.69,
+   "q3": 532.05,
+   "count": 9,
+   "count_filtered": 8
+  },
+  "leicaflex-sl2": {
+   "median": 974.46,
+   "mean": 974.46,
+   "min": 799.99,
+   "max": 1148.93,
+   "q1": 799.99,
+   "q3": 1148.93,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "leica-r3": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-r4": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-r5": {
+   "median": 474.49,
+   "mean": 488.22,
+   "min": 395.0,
+   "max": 559.82,
+   "q1": 438.19,
+   "q3": 555.92,
+   "count": 17,
+   "count_filtered": 16
+  },
+  "leica-r6": {
+   "median": 734.7,
+   "mean": 733.39,
+   "min": 619.99,
+   "max": 949.99,
+   "q1": 647.0,
+   "q3": 807.31,
+   "count": 13,
+   "count_filtered": 12
+  },
+  "leica-r6-2": {
+   "median": 901.65,
+   "mean": 1020.8,
+   "min": 745.9,
+   "max": 1489.09,
+   "q1": 790.0,
+   "q3": 1489.09,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "leica-r7": {
+   "median": 648.16,
+   "mean": 680.1,
+   "min": 378.99,
+   "max": 1090.12,
+   "q1": 539.94,
+   "q3": 762.35,
+   "count": 25,
+   "count_filtered": 25
+  },
+  "leica-r8": {
+   "median": 904.76,
+   "mean": 938.41,
+   "min": 749.99,
+   "max": 1206.09,
+   "q1": 852.5,
+   "q3": 1041.99,
+   "count": 20,
+   "count_filtered": 20
+  },
+  "leica-r9": {
+   "median": 1439.98,
+   "mean": 1492.64,
+   "min": 1280.06,
+   "max": 1773.05,
+   "q1": 1354.53,
+   "q3": 1657.08,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "leica-minilux": {
+   "median": 1701.33,
+   "mean": 1750.23,
+   "min": 1211.13,
+   "max": 2614.49,
+   "q1": 1394.99,
+   "q3": 1924.99,
+   "count": 32,
+   "count_filtered": 32
+  },
+  "leica-minilux-zoom": {
+   "median": 1099.0,
+   "mean": 1114.99,
+   "min": 739.99,
+   "max": 1610.85,
+   "q1": 999.0,
+   "q3": 1258.82,
+   "count": 30,
+   "count_filtered": 29
+  },
+  "leica-cm": {
+   "median": 1464.32,
+   "mean": 1537.97,
+   "min": 979.0,
+   "max": 2179.0,
+   "q1": 1233.92,
+   "q3": 1813.77,
+   "count": 30,
+   "count_filtered": 30
+  },
+  "elmarit-m-28-f28-asph": {
+   "median": 2364.67,
+   "mean": 2365.47,
+   "min": 2242.7,
+   "max": 2500.0,
+   "q1": 2296.34,
+   "q3": 2434.99,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "summaron-m-28-f56": {
+   "median": 2499.99,
+   "mean": 2527.98,
+   "min": 2449.99,
+   "max": 2650.0,
+   "q1": 2449.99,
+   "q3": 2650.0,
+   "count": 7,
+   "count_filtered": 5
+  },
+  "summicron-m-28-f2-asph": {
+   "median": 2950.0,
+   "mean": 3017.59,
+   "min": 2491.04,
+   "max": 3649.0,
+   "q1": 2539.68,
+   "q3": 3529.3,
+   "count": 5,
+   "count_filtered": 5
+  },
+  "summicron-m-35-f2-asph": {
+   "median": 2510.0,
+   "mean": 2538.21,
+   "min": 1934.99,
+   "max": 3025.66,
+   "q1": 2320.14,
+   "q3": 2754.99,
+   "count": 37,
+   "count_filtered": 37
+  },
+  "summaron-m-35-f28": {
+   "median": 1529.0,
+   "mean": 1608.2,
+   "min": 1500.0,
+   "max": 1819.0,
+   "q1": 1500.0,
+   "q3": 1664.0,
+   "count": 6,
+   "count_filtered": 5
+  },
+  "summicron-m-35-f2-pre-asph": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "summilux-m-35-f14-fle": {
+   "median": 3529.0,
+   "mean": 3620.22,
+   "min": 2950.0,
+   "max": 4649.0,
+   "q1": 3309.0,
+   "q3": 3964.0,
+   "count": 9,
+   "count_filtered": 9
+  },
+  "summilux-m-35-f14-pre-asph": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "elmar-m-50-f28": {
+   "median": 904.19,
+   "mean": 944.44,
+   "min": 598.83,
+   "max": 1274.0,
+   "q1": 837.35,
+   "q3": 1039.99,
+   "count": 28,
+   "count_filtered": 28
+  },
+  "summicron-m-50-f2": {
+   "median": 1772.02,
+   "mean": 1780.16,
+   "min": 1217.69,
+   "max": 2375.0,
+   "q1": 1516.34,
+   "q3": 2081.4,
+   "count": 153,
+   "count_filtered": 153
+  },
+  "summicron-m-50-f2-rigid": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "summicron-m-50-f2-dual-range": {
+   "median": 1842.42,
+   "mean": 1842.42,
+   "min": 1842.42,
+   "max": 1842.42,
+   "q1": 1842.42,
+   "q3": 1842.42,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "summilux-m-50-f14-asph": {
+   "median": 3519.69,
+   "mean": 3517.6,
+   "min": 2809.0,
+   "max": 4399.99,
+   "q1": 3004.49,
+   "q3": 3899.0,
+   "count": 28,
+   "count_filtered": 28
+  },
+  "summilux-m-50-f14-pre-asph": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "noctilux-m-50-f1": {
+   "median": 6743.89,
+   "mean": 6973.42,
+   "min": 5400.0,
+   "max": 8929.69,
+   "q1": 5433.08,
+   "q3": 8590.0,
+   "count": 6,
+   "count_filtered": 6
+  },
+  "noctilux-m-50-f095-asph": {
+   "median": 8366.85,
+   "mean": 8461.61,
+   "min": 7089.0,
+   "max": 10068.99,
+   "q1": 7799.0,
+   "q3": 9079.0,
+   "count": 6,
+   "count_filtered": 6
+  },
+  "apo-summicron-m-50-f2-asph": {
+   "median": 6601.41,
+   "mean": 6669.58,
+   "min": 5349.0,
+   "max": 8706.21,
+   "q1": 5924.24,
+   "q3": 7221.06,
+   "count": 9,
+   "count_filtered": 9
+  },
+  "apo-summicron-m-90-f2-asph": {
+   "median": 3518.35,
+   "mean": 3389.31,
+   "min": 2399.0,
+   "max": 4464.85,
+   "q1": 3093.5,
+   "q3": 3738.82,
+   "count": 24,
+   "count_filtered": 23
+  },
+  "elmarit-m-90-f28": {
+   "median": 829.99,
+   "mean": 880.59,
+   "min": 514.98,
+   "max": 1270.0,
+   "q1": 762.47,
+   "q3": 1093.26,
+   "count": 31,
+   "count_filtered": 31
+  },
+  "tele-elmarit-m-90-f28": {
+   "median": 760.74,
+   "mean": 731.36,
+   "min": 550.0,
+   "max": 870.17,
+   "q1": 709.28,
+   "q3": 832.45,
+   "count": 16,
+   "count_filtered": 12
+  },
+  "elmarit-r-28-f28": {
+   "median": 659.99,
+   "mean": 697.43,
+   "min": 519.99,
+   "max": 850.18,
+   "q1": 616.21,
+   "q3": 819.0,
+   "count": 15,
+   "count_filtered": 15
+  },
+  "summicron-r-35-f2": {
+   "median": 1339.99,
+   "mean": 1346.41,
+   "min": 775.84,
+   "max": 1933.84,
+   "q1": 1094.2,
+   "q3": 1606.74,
+   "count": 33,
+   "count_filtered": 33
+  },
+  "summicron-r-50-f2": {
+   "median": 579.43,
+   "mean": 606.58,
+   "min": 358.9,
+   "max": 966.16,
+   "q1": 507.95,
+   "q3": 692.79,
+   "count": 158,
+   "count_filtered": 156
+  },
+  "summilux-r-50-f14": {
+   "median": 1203.76,
+   "mean": 1206.06,
+   "min": 866.35,
+   "max": 1686.71,
+   "q1": 1023.0,
+   "q3": 1383.2,
+   "count": 26,
+   "count_filtered": 26
+  },
+  "macro-elmarit-r-60-f28": {
+   "median": 679.22,
+   "mean": 692.06,
+   "min": 439.0,
+   "max": 1083.72,
+   "q1": 489.13,
+   "q3": 901.18,
+   "count": 25,
+   "count_filtered": 25
+  },
+  "elmarit-r-90-f28": {
+   "median": 409.52,
+   "mean": 434.31,
+   "min": 279.99,
+   "max": 725.0,
+   "q1": 349.99,
+   "q3": 506.78,
+   "count": 30,
+   "count_filtered": 28
+  },
+  "apo-summicron-r-90-f2": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "elmarit-r-135-f28": {
+   "median": 380.01,
+   "mean": 401.95,
+   "min": 269.99,
+   "max": 653.51,
+   "q1": 350.24,
+   "q3": 475.0,
+   "count": 36,
+   "count_filtered": 34
+  },
+  "vario-elmarit-sl-24-70-f28-asph": {
+   "median": 3012.83,
+   "mean": 2838.14,
+   "min": 2301.21,
+   "max": 3385.6,
+   "q1": 2374.0,
+   "q3": 3189.0,
+   "count": 7,
+   "count_filtered": 7
+  },
+  "vario-elmarit-sl-24-90-f28-4-asph": {
+   "median": 3044.0,
+   "mean": 3044.0,
+   "min": 3044.0,
+   "max": 3044.0,
+   "q1": 3044.0,
+   "q3": 3044.0,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "vario-elmarit-sl-90-280-f28-4": {
+   "median": 4597.45,
+   "mean": 4597.45,
+   "min": 4592.4,
+   "max": 4602.5,
+   "q1": 4592.4,
+   "q3": 4602.5,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "apo-summicron-sl-35-f2-asph": {
+   "median": 3849.99,
+   "mean": 3849.99,
+   "min": 3849.99,
+   "max": 3849.99,
+   "q1": 3849.99,
+   "q3": 3849.99,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "apo-summicron-sl-50-f2-asph": {
+   "median": 3674.99,
+   "mean": 3674.99,
+   "min": 3499.99,
+   "max": 3849.99,
+   "q1": 3499.99,
+   "q3": 3849.99,
+   "count": 2,
+   "count_filtered": 2
+  },
+  "apo-summicron-sl-75-f2-asph": {
+   "median": 4092.28,
+   "mean": 3903.95,
+   "min": 3049.0,
+   "max": 4192.56,
+   "q1": 3649.43,
+   "q3": 4142.43,
+   "count": 9,
+   "count_filtered": 9
+  },
+  "apo-summicron-sl-90-f2-asph": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-visoflex-2": {
+   "median": 864.0,
+   "mean": 870.85,
+   "min": 824.99,
+   "max": 915.25,
+   "q1": 824.99,
+   "q3": 899.99,
+   "count": 6,
+   "count_filtered": 5
+  },
+  "leica-evf-2": {
+   "median": 348.96,
+   "mean": 356.76,
+   "min": 230.78,
+   "max": 507.1,
+   "q1": 292.49,
+   "q3": 426.91,
+   "count": 20,
+   "count_filtered": 20
+  },
+  "leica-universal-wide-angle-viewfinder": {
+   "median": 1121.8,
+   "mean": 1121.8,
+   "min": 1121.8,
+   "max": 1121.8,
+   "q1": 1121.8,
+   "q3": 1121.8,
+   "count": 1,
+   "count_filtered": 1
+  },
+  "leica-winder-m": {
+   "median": 255.99,
+   "mean": 299.62,
+   "min": 152.6,
+   "max": 564.04,
+   "q1": 200.41,
+   "q3": 415.04,
+   "count": 24,
+   "count_filtered": 24
+  },
+  "leica-leicavit-m": {
+   "median": 1559.04,
+   "mean": 1560.53,
+   "min": 1384.98,
+   "max": 1783.23,
+   "q1": 1417.31,
+   "q3": 1584.5,
+   "count": 17,
+   "count_filtered": 13
+  },
+  "leica-m11-handgrip": {
+   "median": 345.0,
+   "mean": 355.18,
+   "min": 227.22,
+   "max": 481.42,
+   "q1": 310.25,
+   "q3": 391.38,
+   "count": 12,
+   "count_filtered": 12
+  },
+  "leica-sf-40": {
+   "median": null,
+   "mean": null,
+   "min": null,
+   "max": null,
+   "q1": null,
+   "q3": null,
+   "count": 0,
+   "count_filtered": 0
+  },
+  "leica-sf-60": {
+   "median": 563.45,
+   "mean": 562.29,
+   "min": 510.5,
+   "max": 611.74,
+   "q1": 518.71,
+   "q3": 605.87,
+   "count": 4,
+   "count_filtered": 4
+  }
+ }
+}
