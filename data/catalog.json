@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "categories": [
   {
    "id": "digital-bodies",
@@ -145,12 +145,12 @@
      "name_en": "Leica M10 Monochrom",
      "subcategory": "m-digital",
      "release_year": 2020,
-     "median": 7148.83,
-     "mean": 7139.72,
+     "median": 7147.88,
+     "mean": 7125.88,
      "min": 5729.0,
-     "max": 8532.22,
+     "max": 8478.74,
      "q1": 6079.0,
-     "q3": 8200.44,
+     "q3": 8172.75,
      "count": 4,
      "count_filtered": 4,
      "samples": [
@@ -172,7 +172,7 @@
       },
       {
        "title": "Leica M10 MONOCHROM Monochrome Excellent Condition",
-       "price": 7868.66,
+       "price": 7866.76,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/fgAAAeSwoxhqi~1q/s-l1200.jpg",
@@ -180,11 +180,11 @@
       },
       {
        "title": "Leica M10 MONOCHROM 633012",
-       "price": 8532.22,
+       "price": 8478.74,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/0CgAAeSwJm5rCNmG/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/307039473614?_skw=Leica+M10+Monochrom&hash=item477cfa8fce:g:0CgAAeSwJm5rCNmG"
+       "image": "https://i.ebayimg.com/images/g/XkkAAeSwS8prCbh7/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/307039473614?_skw=Leica+M10+Monochrom&hash=item477cfa8fce:g:XkkAAeSwS8prCbh7"
       }
      ]
     },
@@ -210,18 +210,18 @@
      "name_en": "Leica M-P (Typ 240)",
      "subcategory": "m-digital",
      "release_year": 2014,
-     "median": 4347.0,
-     "mean": 4347.0,
-     "min": 4347.0,
-     "max": 4347.0,
-     "q1": 4347.0,
-     "q3": 4347.0,
+     "median": 4345.96,
+     "mean": 4345.96,
+     "min": 4345.96,
+     "max": 4345.96,
+     "q1": 4345.96,
+     "q3": 4345.96,
      "count": 1,
      "count_filtered": 1,
      "samples": [
       {
        "title": "Leica M-P Typ 240 Silver Chrome",
-       "price": 4347.0,
+       "price": 4345.96,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/VtcAAeSw-X1q4tan/s-l1200.jpg",
@@ -267,23 +267,15 @@
      "name_en": "Leica M8",
      "subcategory": "m-digital",
      "release_year": 2006,
-     "median": 1955.5,
-     "mean": 1964.83,
+     "median": 1956.0,
+     "mean": 1974.28,
      "min": 1954.0,
-     "max": 2003.99,
+     "max": 2030.96,
      "q1": 1955.0,
-     "q3": 2003.99,
-     "count": 7,
-     "count_filtered": 6,
+     "q3": 2017.47,
+     "count": 8,
+     "count_filtered": 7,
      "samples": [
-      {
-       "title": "Leica M8 10mp Digital Rangefinder Camera Body Black English",
-       "price": 1955.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/BeUAAeSwWQxqszIj/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/158326291130?_skw=Leica+M8+body+-M8.2&hash=item24dcfb7aba:g:BeUAAeSwWQxqszIj"
-      },
       {
        "title": "Leica M8 10mp Digital Rangefinder Camera Body English",
        "price": 1955.0,
@@ -315,6 +307,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/t0MAAeSwK6FqmrNf/s-l225.jpg",
        "url": "https://www.ebay.com/itm/198756688639?_skw=Leica+M8+body+-M8.2&hash=item2e46d262ff:g:t0MAAeSwK6FqmrNf"
+      },
+      {
+       "title": "Leica M8 Silver Chrome Digital Rangefinder Camera (body only)",
+       "price": 2030.96,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/sCIAAeSwODBrCgP7/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/117546199508?_skw=Leica+M8+body+-M8.2&hash=item1b5e4ca9d4:g:sCIAAeSwODBrCgP7"
       }
      ]
     },
@@ -324,18 +324,26 @@
      "name_en": "Leica M Monochrom (Typ 246)",
      "subcategory": "m-digital",
      "release_year": 2015,
-     "median": 4813.98,
-     "mean": 4843.8,
+     "median": 4623.78,
+     "mean": 4702.54,
      "min": 3937.75,
      "max": 5688.07,
-     "q1": 4347.0,
-     "q3": 5159.3,
-     "count": 10,
-     "count_filtered": 10,
+     "q1": 4327.98,
+     "q3": 5045.48,
+     "count": 8,
+     "count_filtered": 8,
      "samples": [
       {
+       "title": "Final Price Leica M Monochrom Typ 246",
+       "price": 4345.96,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/9zAAAeSwe9dqt9~l/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/188833799114?_skw=Leica+M+Monochrom+typ+246&hash=item2bf75f1bca:g:9zAAAeSwe9dqt9~l"
+      },
+      {
        "title": "Leica M Monochrom Typ 246 Camera Body",
-       "price": 4581.78,
+       "price": 4580.67,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/dbkAAeSwpfhqi~yf/s-l1200.jpg",
@@ -343,7 +351,7 @@
       },
       {
        "title": "Leica M Monochrom Typ 246 Digital Rangefinder Camera 10930, M Mount",
-       "price": 4657.77,
+       "price": 4666.9,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/hGQAAeSwf1FqPf72/s-l1600.jpg",
@@ -351,27 +359,19 @@
       },
       {
        "title": "Leica M Monochrom typ 246 443277",
-       "price": 4970.19,
+       "price": 4939.12,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/5koAAeSwGelrCNl3/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/307021253042?_skw=Leica+M+Monochrom+typ+246&hash=item477be489b2:g:5koAAeSwGelrCNl3"
+       "image": "https://i.ebayimg.com/images/g/YyYAAeSwZY9rCbhx/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/307021253042?_skw=Leica+M+Monochrom+typ+246&hash=item477be489b2:g:YyYAAeSwZY9rCbhx"
       },
       {
        "title": "M Monochrom Typ246 Black Chrome Complete Accessories",
-       "price": 5153.07,
+       "price": 5151.83,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/xxcAAeSw0sNq2wR7/s-l960.jpg",
        "url": "https://www.ebay.com/itm/840050731372?_skw=Leica+M+Monochrom+typ+246&hash=itemc396ece96c:g:xxcAAeSw0sNq2wR7"
-      },
-      {
-       "title": "Leica M Monochrom Typ 246 Body",
-       "price": 5159.3,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/QpcAAeSwmWxq94ws/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/800913396773?_skw=Leica+M+Monochrom+typ+246&hash=itemba7a289425:g:QpcAAeSwmWxq94ws"
       }
      ]
     },
@@ -382,7 +382,7 @@
      "subcategory": "m-digital",
      "release_year": 2023,
      "median": 9950.0,
-     "mean": 9813.47,
+     "mean": 9813.12,
      "min": 8449.1,
      "max": 11889.5,
      "q1": 8999.99,
@@ -408,7 +408,7 @@
       },
       {
        "title": "LEICA M11 Monochrom Version JP with Box",
-       "price": 10083.39,
+       "price": 10080.95,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/U3gAAeSws-pq2wSH/s-l960.jpg",
@@ -443,18 +443,18 @@
      "rarity_sort": 30,
      "rarity_price_hint": "12,000–20,000+",
      "rarity_note": "렌즈 세트와 풀박스 여부에 크게 좌우됩니다.",
-     "median": 15356.6,
-     "mean": 15531.5,
-     "min": 13162.8,
+     "median": 15310.4,
+     "mean": 15498.5,
+     "min": 13123.2,
      "max": 18250.0,
-     "q1": 13299.92,
-     "q3": 17763.09,
+     "q1": 13259.9,
+     "q3": 17737.1,
      "count": 4,
      "count_filtered": 4,
      "samples": [
       {
        "title": "LEICA M EDITION \"LEICA 60\" ZERO SERIES + BOX 10779 #5512",
-       "price": 17276.18,
+       "price": 17224.2,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/Ex4AAeSwJD9q-Dbs/s-l1600.jpg",
@@ -470,7 +470,7 @@
       },
       {
        "title": "Leica M60 Edition + M 35 mm 1.4 137/600 10779 Photo-Görlitz purchase + sale",
-       "price": 13162.8,
+       "price": 13123.2,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/GN0AAOSwk1Bn2Alj/s-l1600.jpg",
@@ -478,7 +478,7 @@
       },
       {
        "title": "Leica M60 Edition + M 35 mm 1.4 51/600 10779 MINT PHOTO-GÖRLITZ PURCHASE",
-       "price": 13437.03,
+       "price": 13396.6,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/rJIAAOSwxVNnikdX/s-l1600.jpg",
@@ -540,18 +540,18 @@
      "name_en": "Leica Q2 Monochrom",
      "subcategory": "fixed-lens",
      "release_year": 2020,
-     "median": 5158.25,
-     "mean": 5119.29,
-     "min": 3887.15,
+     "median": 5157.65,
+     "mean": 5119.41,
+     "min": 3894.76,
      "max": 5931.71,
-     "q1": 4873.94,
-     "q3": 5535.53,
+     "q1": 4871.89,
+     "q3": 5534.86,
      "count": 8,
      "count_filtered": 8,
      "samples": [
       {
        "title": "Leica Q2 47.3MP Monochrom Digital Camera",
-       "price": 4916.43,
+       "price": 4912.31,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/vfQAAOSwlJdlZtZR/s-l1600.jpg",
@@ -559,7 +559,7 @@
       },
       {
        "title": "Leica Q2 Monochrome Camera Used",
-       "price": 4950.15,
+       "price": 4948.95,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/c6AAAeSww9VquCMD/s-l1200.jpg",
@@ -575,7 +575,7 @@
       },
       {
        "title": "Leica Compact Digital Camera Q2 Monochrome Black 216 with Box",
-       "price": 5497.41,
+       "price": 5496.08,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/aSwAAeSw06Jqyd6O/s-l1200.jpg",
@@ -597,18 +597,18 @@
      "name_en": "Leica Q-P",
      "subcategory": "fixed-lens",
      "release_year": 2018,
-     "median": 3409.83,
-     "mean": 3513.87,
+     "median": 3404.35,
+     "mean": 3508.79,
      "min": 2781.0,
-     "max": 4782.18,
-     "q1": 2916.31,
-     "q3": 3947.77,
+     "max": 4774.86,
+     "q1": 2913.86,
+     "q3": 3939.03,
      "count": 8,
      "count_filtered": 8,
      "samples": [
       {
        "title": "Leica Q-P 24.2MP Digital Camera - Stealth Matte Black",
-       "price": 2949.08,
+       "price": 2946.6,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/28sAAeSwhN5qS7qy/s-l1600.jpg",
@@ -616,7 +616,7 @@
       },
       {
        "title": " Leica Q-P (Typ116) Mint! 19045 Photo Jeschner buying & selling Kassel",
-       "price": 3366.37,
+       "price": 3356.25,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/uCQAAeSwu~1q08E3/s-l1600.jpg",
@@ -624,7 +624,7 @@
       },
       {
        "title": "Leica Q-P (Typ116) Used 1 Year Warranty",
-       "price": 3453.29,
+       "price": 3452.45,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/xGYAAeSwevJq31i3/s-l960.jpg",
@@ -632,7 +632,7 @@
       },
       {
        "title": "Leica Q-P 28MM f1 - Special Edition",
-       "price": 3647.19,
+       "price": 3636.22,
        "currency": "USD",
        "condition": "Usato",
        "image": "https://i.ebayimg.com/images/g/6ooAAOSwuipnI8yj/s-l1600.jpg",
@@ -640,7 +640,7 @@
       },
       {
        "title": "Leica Q-P",
-       "price": 4248.34,
+       "price": 4241.84,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/auQAAeSwh~Bq-N8y/s-l1200.jpg",
@@ -670,15 +670,23 @@
      "name_en": "Leica D-Lux 8",
      "subcategory": "fixed-lens",
      "release_year": 2024,
-     "median": 1988.76,
-     "mean": 1952.87,
+     "median": 1988.51,
+     "mean": 1961.02,
      "min": 1569.0,
-     "max": 2184.74,
-     "q1": 1834.99,
-     "q3": 2103.99,
-     "count": 24,
-     "count_filtered": 24,
+     "max": 2179.0,
+     "q1": 1839.99,
+     "q3": 2099.99,
+     "count": 22,
+     "count_filtered": 22,
      "samples": [
+      {
+       "title": "LEICA D-LUX8 Black Premium Compact Digital Camera",
+       "price": 1932.24,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/Kv4AAeSwHuRq2wIH/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/198738510861?_skw=Leica+D-Lux+8+camera+-case+-grip+-hood&hash=item2e45bd040d:g:Kv4AAeSwHuRq2wIH"
+      },
       {
        "title": "[Mint] Leica D-Lux 8 Compact Digital Camera 17MP 4/3 CMOS DNG RAW w/Box",
        "price": 1980.0,
@@ -689,7 +697,7 @@
       },
       {
        "title": "Leica D-LUX8 19191 Digital Camera",
-       "price": 1997.51,
+       "price": 1997.02,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/7YgAAeSweRpq4s1Q/s-l1200.jpg",
@@ -697,7 +705,7 @@
       },
       {
        "title": "Leica D-LUX8 Black Premium Compact Digital Camera",
-       "price": 2038.36,
+       "price": 2037.87,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/d2AAAeSwIEBq2wSO/s-l1600.jpg",
@@ -705,19 +713,11 @@
       },
       {
        "title": "Leica D-LUX 8 Black Compact Digital Camera with Original Box Accessories Auto",
-       "price": 2057.87,
+       "price": 2057.38,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/j9EAAeSwy6ZrBgxH/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/198822335726?_skw=Leica+D-Lux+8+camera+-case+-grip+-hood&hash=item2e4abc14ee:g:j9EAAeSwy6ZrBgxH"
-      },
-      {
-       "title": "Leica D-LUX8 Compact Digital Camera Power Tested Basic Function Tested",
-       "price": 2072.95,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/uNoAAeSw3YprAMZp/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/198811425000?_skw=Leica+D-Lux+8+camera+-case+-grip+-hood&hash=item2e4a1598e8:g:uNoAAeSw3YprAMZp"
       }
      ]
     },
@@ -727,9 +727,9 @@
      "name_en": "Leica D-Lux 7",
      "subcategory": "fixed-lens",
      "release_year": 2018,
-     "median": 1407.01,
-     "mean": 1354.49,
-     "min": 990.89,
+     "median": 1406.24,
+     "mean": 1354.25,
+     "min": 990.06,
      "max": 1569.99,
      "q1": 1214.0,
      "q3": 1498.99,
@@ -746,7 +746,7 @@
       },
       {
        "title": "Leica D-LUX 7 19116 Silver Compact Digital Camera with Box",
-       "price": 1399.77,
+       "price": 1399.43,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/hzkAAeSwmg5quDGo/s-l1600.jpg",
@@ -754,7 +754,7 @@
       },
       {
        "title": "leica d-lux 7 BAPE x STASH Limited Edition 17MP digital camera-camouflage",
-       "price": 1414.25,
+       "price": 1413.06,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/0cgAAeSwqcpqprE2/s-l1600.jpg",
@@ -762,7 +762,7 @@
       },
       {
        "title": "LEICA Digital Camera D-LUX7",
-       "price": 1420.12,
+       "price": 1419.78,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/cycAAeSwskFqjAxa/s-l1600.jpg",
@@ -784,14 +784,14 @@
      "name_en": "Leica D-Lux (Typ 109)",
      "subcategory": "fixed-lens",
      "release_year": 2014,
-     "median": 633.99,
-     "mean": 658.56,
+     "median": 629.45,
+     "mean": 626.49,
      "min": 488.0,
-     "max": 933.02,
+     "max": 861.3,
      "q1": 578.19,
-     "q3": 723.0,
-     "count": 27,
-     "count_filtered": 25,
+     "q3": 692.83,
+     "count": 26,
+     "count_filtered": 22,
      "samples": [
       {
        "title": "Leica D-LUX (Typ 109) 12.8MP Digital Camera 3.1x Optical Zoom English Excellent",
@@ -842,10 +842,10 @@
      "subcategory": "fixed-lens",
      "release_year": 2018,
      "median": 1143.06,
-     "mean": 1092.04,
+     "mean": 1091.84,
      "min": 900.0,
      "max": 1180.0,
-     "q1": 1019.27,
+     "q1": 1019.03,
      "q3": 1159.0,
      "count": 15,
      "count_filtered": 14,
@@ -860,7 +860,7 @@
       },
       {
        "title": "Leica C-lux type 1546 20.1MP digital camera - gold",
-       "price": 1077.4,
+       "price": 1076.49,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/6QIAAeSwbodqR7GG/s-l1600.jpg",
@@ -884,7 +884,7 @@
       },
       {
        "title": "Leica C-LUX Light Gold 19126 Camera",
-       "price": 1158.73,
+       "price": 1158.45,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/vVYAAeSwxipqt8Fd/s-l1200.jpg",
@@ -898,12 +898,12 @@
      "name_en": "Leica V-Lux 5",
      "subcategory": "fixed-lens",
      "release_year": 2019,
-     "median": 1192.38,
-     "mean": 1137.12,
+     "median": 1192.1,
+     "mean": 1136.84,
      "min": 909.5,
-     "max": 1373.16,
-     "q1": 1043.81,
-     "q3": 1230.81,
+     "max": 1372.83,
+     "q1": 1042.22,
+     "q3": 1230.51,
      "count": 10,
      "count_filtered": 9,
      "samples": [
@@ -917,7 +917,7 @@
       },
       {
        "title": "Leica V-LUX5 Camera #4207",
-       "price": 1192.38,
+       "price": 1192.1,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/wXEAAeSwe-pqi~0J/s-l640.jpg",
@@ -941,7 +941,7 @@
       },
       {
        "title": "Leica V-LUX 5 Camera Body #1412",
-       "price": 1230.81,
+       "price": 1230.51,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/BW0AAeSwundqt~Af/s-l1200.jpg",
@@ -955,8 +955,8 @@
      "name_en": "Leica X Vario",
      "subcategory": "fixed-lens",
      "release_year": 2013,
-     "median": 1351.74,
-     "mean": 1354.42,
+     "median": 1345.45,
+     "mean": 1350.77,
      "min": 1049.99,
      "max": 1599.62,
      "q1": 1260.82,
@@ -973,8 +973,16 @@
        "url": "https://www.ebay.com/itm/287708506066?_skw=Leica+X+Vario+camera&hash=item42fcc367d2:g:1nUAAeSwAZlq7V1Z"
       },
       {
+       "title": "LEICA X Vario Typ107 Silver Compact Digital Camera Used",
+       "price": 1344.3,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/Qd0AAeSwzitq8UAG/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/198782420965?_skw=Leica+X+Vario+camera&hash=item2e485b07e5:g:Qd0AAeSwzitq8UAG"
+      },
+      {
        "title": "Leica X Vario Typ 107 Silver Compact Digital Camera",
-       "price": 1345.77,
+       "price": 1345.45,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/c0MAAeSwp4tqylQ5/s-l1600.jpg",
@@ -990,19 +998,11 @@
       },
       {
        "title": "Leica X VARIO Black (TYP107) Camera",
-       "price": 1357.51,
+       "price": 1357.18,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ztYAAeSwBN5quJZm/s-l960.jpg",
        "url": "https://www.ebay.com/itm/198591269961?_skw=Leica+X+Vario+camera&hash=item2e3cf64c49:g:ztYAAeSwBN5quJZm"
-      },
-      {
-       "title": "Leica X Vario (Typ 107) Digital Camera (Preowned)",
-       "price": 1392.03,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/cdEAAOSwGpNk8A-V/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/155746654658?_skw=Leica+X+Vario+camera&hash=item24433959c2:g:cdEAAOSwGpNk8A-V"
       }
      ]
     },
@@ -1013,8 +1013,8 @@
      "subcategory": "fixed-lens",
      "release_year": 2012,
      "median": 979.99,
-     "mean": 1020.47,
-     "min": 738.8,
+     "mean": 1020.33,
+     "min": 737.67,
      "max": 1302.36,
      "q1": 948.25,
      "q3": 1100.0,
@@ -1117,18 +1117,18 @@
      "name_en": "Leica SL (Typ 601)",
      "subcategory": "l-mount",
      "release_year": 2015,
-     "median": 2177.1,
-     "mean": 2008.11,
-     "min": 1337.12,
-     "max": 2341.1,
-     "q1": 1707.3,
-     "q3": 2308.9,
+     "median": 2119.93,
+     "mean": 1978.38,
+     "min": 1333.1,
+     "max": 2340.54,
+     "q1": 1705.04,
+     "q3": 2251.7,
      "count": 4,
      "count_filtered": 4,
      "samples": [
       {
        "title": "Leica SL Typ 601 24MP Full Frame Camera Body",
-       "price": 1337.12,
+       "price": 1333.1,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/eWwAAeSwHLRq8rR1/s-l1600.jpg",
@@ -1136,7 +1136,7 @@
       },
       {
        "title": "LEICA SL Typ601 Body",
-       "price": 2077.49,
+       "price": 2076.99,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/1f8AAeSwQGtquIXF/s-l1600.jpg",
@@ -1144,7 +1144,7 @@
       },
       {
        "title": "Leica SL Typ 601 Body Leica L Mount Mirrorless Camera Used",
-       "price": 2276.71,
+       "price": 2162.87,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/txYAAeSwc15q8T-t/s-l960.jpg",
@@ -1152,7 +1152,7 @@
       },
       {
        "title": "Leica Leica SL Typ 601 Body Used",
-       "price": 2341.1,
+       "price": 2340.54,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/Y04AAeSwumxq8T~A/s-l960.jpg",
@@ -1199,18 +1199,18 @@
      "name_en": "Leica TL2",
      "subcategory": "l-mount",
      "release_year": 2017,
-     "median": 2076.06,
-     "mean": 2040.42,
-     "min": 1802.02,
-     "max": 2243.17,
-     "q1": 1802.02,
-     "q3": 2243.17,
+     "median": 2063.04,
+     "mean": 2031.24,
+     "min": 1801.58,
+     "max": 2229.11,
+     "q1": 1801.58,
+     "q3": 2229.11,
      "count": 3,
      "count_filtered": 3,
      "samples": [
       {
        "title": "Leica TL2 Body Silver Excellent Condition #9303",
-       "price": 1802.02,
+       "price": 1801.58,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ytAAAeSwEU1qi~zC/s-l640.jpg",
@@ -1218,19 +1218,19 @@
       },
       {
        "title": "Leica TL2 Body 247213",
-       "price": 2076.06,
+       "price": 2063.04,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/tagAAeSwhdprCPDU/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/307248511217?_skw=Leica+TL2+body&hash=item47897038f1:g:tagAAeSwhdprCPDU"
+       "image": "https://i.ebayimg.com/images/g/Ss4AAeSwR7drCbSi/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/307248511217?_skw=Leica+TL2+body&hash=item47897038f1:g:Ss4AAeSwR7drCbSi"
       },
       {
        "title": "LEICA TL2 BODY SILVER 445617",
-       "price": 2243.17,
+       "price": 2229.11,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/9ZwAAeSw2qdrCNl9/s-l640.jpg",
-       "url": "https://www.ebay.com/itm/307265509692?_skw=Leica+TL2+body&hash=item478a73993c:g:9ZwAAeSw2qdrCNl9"
+       "image": "https://i.ebayimg.com/images/g/ciwAAeSwuNdrCbh1/s-l640.jpg",
+       "url": "https://www.ebay.com/itm/307265509692?_skw=Leica+TL2+body&hash=item478a73993c:g:ciwAAeSwuNdrCbh1"
       }
      ]
     },
@@ -1298,11 +1298,11 @@
      "name_en": "Leica I (Model A)",
      "subcategory": "barnack",
      "release_year": 1925,
-     "median": 2609.78,
-     "mean": 2621.57,
+     "median": 2594.78,
+     "mean": 2614.07,
      "min": 2239.98,
      "max": 3026.74,
-     "q1": 2389.99,
+     "q1": 2374.99,
      "q3": 2853.15,
      "count": 4,
      "count_filtered": 4,
@@ -1317,11 +1317,11 @@
       },
       {
        "title": "Leica I Model C Rangefinder Film Camera \"Full CLAd by a Leica Pro - Read\" C931",
-       "price": 2540.0,
+       "price": 2510.0,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/XOsAAeSw8iBp9Sa6/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/800883680246?_skw=Leica+I+Model+A+camera+-replica+-miniature+-book+-manual+-guide+-lens+-filter+-panasonic+-voigtlander+-canon&hash=itemba786323f6:g:XOsAAeSw8iBp9Sa6"
+       "url": "https://www.ebay.com/itm/800975566670?_skw=Leica+I+Model+A+camera+-replica+-miniature+-book+-manual+-guide+-lens+-filter+-panasonic+-voigtlander+-canon&hash=itemba7ddd374e:g:XOsAAeSw8iBp9Sa6"
       },
       {
        "title": "Leica I Model A w/ New Elmar 50mm F3.5 Rangefinder Camera from Japan E0511",
@@ -1348,17 +1348,17 @@
      "subcategory": "barnack",
      "release_year": 1932,
      "median": 699.99,
-     "mean": 714.71,
-     "min": 662.2,
+     "mean": 714.6,
+     "min": 661.63,
      "max": 799.0,
-     "q1": 662.79,
+     "q1": 662.5,
      "q3": 774.0,
      "count": 5,
      "count_filtered": 5,
      "samples": [
       {
        "title": "Leica II Ernst Leitz Wetzlar Black Paint Rangefinder Camera Body #147974 1934",
-       "price": 662.2,
+       "price": 661.63,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/LUMAAeSwzHBq8xEy/s-l1600.jpg",
@@ -1404,14 +1404,14 @@
      "name_en": "Leica Standard",
      "subcategory": "barnack",
      "release_year": 1932,
-     "median": 892.62,
-     "mean": 942.91,
-     "min": 575.87,
+     "median": 891.12,
+     "mean": 893.85,
+     "min": 499.99,
      "max": 1281.81,
-     "q1": 846.83,
+     "q1": 804.49,
      "q3": 1061.52,
      "count": 10,
-     "count_filtered": 9,
+     "count_filtered": 10,
      "samples": [
       {
        "title": "Rare Black Yr.1936 Leica Leitz E Standard  35mm Camera Body Chrom #212656",
@@ -1447,7 +1447,7 @@
       },
       {
        "title": "Leica Standard Film Camera of 1938. w. 2/5cm Summar incl. Rangefinder",
-       "price": 1139.68,
+       "price": 1136.25,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/wFAAAeSwQX1q5122/s-l1600.jpg",
@@ -1462,8 +1462,8 @@
      "subcategory": "barnack",
      "release_year": 1933,
      "median": 986.44,
-     "mean": 1058.94,
-     "min": 690.04,
+     "mean": 1059.01,
+     "min": 691.4,
      "max": 1636.22,
      "q1": 981.01,
      "q3": 1249.18,
@@ -1496,7 +1496,7 @@
       },
       {
        "title": "LEICA Rangefinder Camera III C ELMAR 5CM/3.5",
-       "price": 1032.74,
+       "price": 1032.48,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/JzsAAeSwhPJqjAvS/s-l1600.jpg",
@@ -1518,15 +1518,23 @@
      "name_en": "Leica IIIa",
      "subcategory": "barnack",
      "release_year": 1935,
-     "median": 2103.6,
-     "mean": 2103.6,
-     "min": 2103.6,
+     "median": 1445.61,
+     "mean": 1445.61,
+     "min": 787.61,
      "max": 2103.6,
-     "q1": 2103.6,
+     "q1": 787.61,
      "q3": 2103.6,
-     "count": 1,
-     "count_filtered": 1,
+     "count": 2,
+     "count_filtered": 2,
      "samples": [
+      {
+       "title": "Leica IIIa 1936 Rangefinder Film Camera Serviced Oct 2026 from Japan",
+       "price": 787.61,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/GvYAAeSwSjVrClWN/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/920193242591?_skw=Leica+IIIa+rangefinder+camera+-replica+-miniature+-book+-manual+-guide+-lens+-filter+-panasonic+-voigtlander+-canon&hash=itemd63fca95df:g:GvYAAeSwSjVrClWN"
+      },
       {
        "title": ":[V. RARE] Leica IIIa Asterisk (1936) 35mm Film Rangefinder Camera Body w/ Case",
        "price": 2103.6,
@@ -1560,17 +1568,17 @@
      "subcategory": "barnack",
      "release_year": 1940,
      "median": 1294.14,
-     "mean": 1319.13,
-     "min": 801.71,
+     "mean": 1319.09,
+     "min": 801.51,
      "max": 2120.81,
-     "q1": 890.86,
+     "q1": 890.75,
      "q3": 1759.9,
      "count": 5,
      "count_filtered": 5,
      "samples": [
       {
        "title": "Leica IIIC Gray Rangefinder Wartime 35mm Film Camera",
-       "price": 801.71,
+       "price": 801.51,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/qKkAAeSwJmhqhd-E/s-l1600.jpg",
@@ -1714,26 +1722,18 @@
      "name_en": "Leica M3",
      "subcategory": "rangefinder",
      "release_year": 1954,
-     "median": 1914.31,
-     "mean": 1929.56,
+     "median": 1931.28,
+     "mean": 1929.07,
      "min": 1082.31,
      "max": 2674.0,
-     "q1": 1673.38,
-     "q3": 2242.61,
-     "count": 89,
-     "count_filtered": 89,
+     "q1": 1682.35,
+     "q3": 2230.94,
+     "count": 90,
+     "count_filtered": 90,
      "samples": [
       {
-       "title": "Leica M3 camera body full working DS Rangefinder",
-       "price": 1895.83,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/SScAAeSwoMFq52Fi/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/267831248553?_skw=Leica+M3+camera+body&hash=item3e5bfc86a9:g:SScAAeSwoMFq52Fi"
-      },
-      {
        "title": "Leitz Leica M3 camera body SS chrome 35mm rangefinder original boxed",
-       "price": 1907.51,
+       "price": 1901.77,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/WDYAAeSwvjpq52A-/s-l1600.jpg",
@@ -1762,6 +1762,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/WEkAAeSwrBNqQrT1/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/307035692524?_skw=Leica+M3+camera+body&hash=item477cc0ddec:g:WEkAAeSwrBNqQrT1"
+      },
+      {
+       "title": "Leica M3 SS Single Stroke 35mm Film Rangefinder Camera Body Silver Chrome M1005",
+       "price": 1964.19,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/eh8AAeSwmE1qw6i0/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/287628246605?_skw=Leica+M3+camera+body&hash=item42f7fabe4d:g:eh8AAeSwmE1qw6i0"
       }
      ]
     },
@@ -1772,7 +1780,7 @@
      "subcategory": "rangefinder",
      "release_year": 1957,
      "median": 2083.73,
-     "mean": 2042.91,
+     "mean": 2042.22,
      "min": 1483.99,
      "max": 2564.0,
      "q1": 1778.0,
@@ -1782,7 +1790,7 @@
      "samples": [
       {
        "title": "Leica M2 Body Chrome",
-       "price": 1945.7,
+       "price": 1945.23,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/2-4AAeSwODFq314A/s-l960.jpg",
@@ -1790,7 +1798,7 @@
       },
       {
        "title": "Leica M2 Body Chrome Used",
-       "price": 1945.7,
+       "price": 1945.23,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/7GQAAeSwHDZquFOF/s-l1200.jpg",
@@ -1814,7 +1822,7 @@
       },
       {
        "title": "Leitz Leica M2 camera body version 3 with matching number on box",
-       "price": 2126.89,
+       "price": 2120.49,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/yiUAAeSw-5tq9Okp/s-l1600.jpg",
@@ -1828,9 +1836,9 @@
      "name_en": "Leica M4",
      "subcategory": "rangefinder",
      "release_year": 1967,
-     "median": 2656.04,
-     "mean": 2759.44,
-     "min": 2137.86,
+     "median": 2586.72,
+     "mean": 2747.35,
+     "min": 2131.43,
      "max": 3637.5,
      "q1": 2310.04,
      "q3": 3262.42,
@@ -1842,8 +1850,8 @@
        "price": 2536.0,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/RA0AAeSwuF9rB3s7/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/227617080486?_skw=Leica+M4+camera+body+-M4-2+-M4-P&hash=item34ff0904a6:g:RA0AAeSwuF9rB3s7"
+       "image": "https://i.ebayimg.com/images/g/~ikAAeSwux5rCgIb/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/227617080486?_skw=Leica+M4+camera+body+-M4-2+-M4-P&hash=item34ff0904a6:g:~ikAAeSwux5rCgIb"
       },
       {
        "title": "Leica M4 Film Rangefinder Camera Body",
@@ -1855,7 +1863,7 @@
       },
       {
        "title": "Leica M4 Rangefinder Camera Body",
-       "price": 2773.09,
+       "price": 2634.44,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/aksAAeSwwpVq7lQB/s-l1200.jpg",
@@ -1886,7 +1894,7 @@
      "subcategory": "rangefinder",
      "release_year": 1971,
      "median": 1739.99,
-     "mean": 1790.06,
+     "mean": 1789.85,
      "min": 1099.99,
      "max": 2500.0,
      "q1": 1379.99,
@@ -1928,11 +1936,11 @@
       },
       {
        "title": "Leica M5 Rangefinder Film Camera Body Black",
-       "price": 1918.48,
+       "price": 1912.71,
        "currency": "USD",
        "condition": "Gebraucht",
-       "image": "https://i.ebayimg.com/images/g/wLMAAeSwJoNrB4lR/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/287733693198?_skw=Leica+M5+camera+body&hash=item42fe43bb0e:g:wLMAAeSwJoNrB4lR"
+       "image": "https://i.ebayimg.com/images/g/8dMAAeSwdGVrChAr/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/287733693198?_skw=Leica+M5+camera+body&hash=item42fe43bb0e:g:8dMAAeSwdGVrChAr"
       }
      ]
     },
@@ -2081,15 +2089,23 @@
      "name_en": "Leica M6 TTL",
      "subcategory": "rangefinder",
      "release_year": 1998,
-     "median": 4199.98,
-     "mean": 4101.46,
+     "median": 4059.99,
+     "mean": 4081.75,
      "min": 2639.99,
-     "max": 5363.12,
-     "q1": 3539.44,
+     "max": 5358.62,
+     "q1": 3493.95,
      "q3": 4748.99,
-     "count": 32,
-     "count_filtered": 32,
+     "count": 33,
+     "count_filtered": 33,
      "samples": [
+      {
+       "title": "⏯ 0.85 Black [Unused]  Leica M6 Non TTL Rangefinder Film Camera Body From JAPAN",
+       "price": 4034.98,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/qRQAAeSwWixq00rU/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/880024644614?_skw=Leica+M6+TTL+camera+body&hash=itemcce58e6c06:g:qRQAAeSwWixq00rU"
+      },
       {
        "title": "0.72 TTL Model [Top Mint w/ Case] Leica M6 Silver Rangefinder Camera Body Japan",
        "price": 4039.98,
@@ -2121,14 +2137,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/fi8AAeSw3sprAUvw/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/960244572173?_skw=Leica+M6+TTL+camera+body&hash=itemdf9309600d:g:fi8AAeSw3sprAUvw"
-      },
-      {
-       "title": "Leica M6 TTL 0.72 Silver Chrome Camera Body",
-       "price": 4372.81,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/k9EAAeSw1FBrAMbk/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/198811427515?_skw=Leica+M6+TTL+camera+body&hash=item2e4a15a2bb:g:k9EAAeSw1FBrAMbk"
       }
      ]
     },
@@ -2138,18 +2146,18 @@
      "name_en": "Leica M7",
      "subcategory": "rangefinder",
      "release_year": 2002,
-     "median": 4067.43,
-     "mean": 4067.43,
-     "min": 4037.76,
-     "max": 4097.11,
-     "q1": 4037.76,
-     "q3": 4097.11,
+     "median": 4075.41,
+     "mean": 4075.41,
+     "min": 4045.67,
+     "max": 4105.14,
+     "q1": 4045.67,
+     "q3": 4105.14,
      "count": 2,
      "count_filtered": 2,
      "samples": [
       {
        "title": "Leica M7 0.72 Black 35mm Film Rangefinder Camera Body, Excellent Working Order",
-       "price": 4037.76,
+       "price": 4045.67,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/UZgAAeSwN1hqwJjf/s-l1600.jpg",
@@ -2157,7 +2165,7 @@
       },
       {
        "title": "Leica M7 0.85 Black Chrome 35mm Film Rangefinder Camera Body",
-       "price": 4097.11,
+       "price": 4105.14,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/CqsAAeSwhrlq8-LL/s-l1600.jpg",
@@ -2267,11 +2275,11 @@
      "subcategory": "slr",
      "release_year": 1968,
      "median": 495.41,
-     "mean": 490.7,
+     "mean": 485.75,
      "min": 369.99,
-     "max": 593.4,
+     "max": 563.73,
      "q1": 429.99,
-     "q3": 593.4,
+     "q3": 563.73,
      "count": 7,
      "count_filtered": 6,
      "samples": [
@@ -2309,7 +2317,7 @@
       },
       {
        "title": "Leica LEICAFLEX SL Silver Tested Working with Box Case Cap SLR Film Camera Body",
-       "price": 593.4,
+       "price": 563.73,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/s28AAeSweTtq9j7Z/s-l1200.jpg",
@@ -2323,14 +2331,14 @@
      "name_en": "Leicaflex SL2",
      "subcategory": "slr",
      "release_year": 1974,
-     "median": 790.0,
-     "mean": 917.91,
+     "median": 750.0,
+     "mean": 787.8,
      "min": 689.98,
-     "max": 1588.82,
+     "max": 1038.93,
      "q1": 692.9,
-     "q3": 1148.71,
+     "q3": 1038.93,
      "count": 7,
-     "count_filtered": 7,
+     "count_filtered": 6,
      "samples": [
       {
        "title": "Leica Leicaflex SL2 Black 35mm SLR Film Camera Vintage Body from Japan M1119",
@@ -2366,7 +2374,7 @@
       },
       {
        "title": "Vintage Leica Leicaflex SL2 50 Jahre Film Camera Body w/Instructions",
-       "price": 1148.71,
+       "price": 1038.93,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/12oAAeSwvlJpohzE/s-l1200.jpg",
@@ -2412,12 +2420,12 @@
      "name_en": "Leica R5",
      "subcategory": "slr",
      "release_year": 1986,
-     "median": 419.73,
-     "mean": 452.87,
+     "median": 419.09,
+     "mean": 452.64,
      "min": 361.99,
-     "max": 569.29,
-     "q1": 395.51,
-     "q3": 521.18,
+     "max": 567.58,
+     "q1": 395.35,
+     "q3": 520.43,
      "count": 16,
      "count_filtered": 15,
      "samples": [
@@ -2431,7 +2439,7 @@
       },
       {
        "title": "LEICA R5 SLR Film Camera Body",
-       "price": 419.73,
+       "price": 419.09,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ne0AAeSwQzlq-4KL/s-l1200.jpg",
@@ -2470,17 +2478,17 @@
      "subcategory": "slr",
      "release_year": 1988,
      "median": 729.99,
-     "mean": 724.13,
+     "mean": 723.2,
      "min": 669.9,
-     "max": 784.29,
-     "q1": 690.94,
-     "q3": 784.29,
+     "max": 781.92,
+     "q1": 688.86,
+     "q3": 781.92,
      "count": 6,
      "count_filtered": 5,
      "samples": [
       {
        "title": "Leica R6 SLR Camera Body",
-       "price": 690.94,
+       "price": 688.86,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/0nAAAeSwO2lqvf5m/s-l1600.jpg",
@@ -2496,7 +2504,7 @@
       },
       {
        "title": "Leica R6 Film SLR Camera Body #A1512",
-       "price": 745.52,
+       "price": 745.34,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/b5gAAeSwC7lquCR7/s-l1600.jpg",
@@ -2504,7 +2512,7 @@
       },
       {
        "title": "Leica R 6.2 r6.2 - Reflex film body black 10074",
-       "price": 784.29,
+       "price": 781.92,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/cfgAAeSw82Rq8CJ3/s-l1600.jpg",
@@ -2583,26 +2591,18 @@
      "name_en": "Leica R7",
      "subcategory": "slr",
      "release_year": 1992,
-     "median": 638.79,
-     "mean": 644.79,
+     "median": 641.75,
+     "mean": 657.41,
      "min": 359.99,
-     "max": 1031.66,
-     "q1": 470.74,
-     "q3": 728.24,
+     "max": 1028.56,
+     "q1": 504.96,
+     "q3": 727.15,
      "count": 21,
      "count_filtered": 21,
      "samples": [
       {
-       "title": "[Top MINT] Leica R7 Silver SLR 35mm Film Camera Body R Mount from JAPAN",
-       "price": 634.98,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/hIwAAeSwnY1q3BUy/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/407312491658?_skw=Leica+R7+body+-summicron+-summilux+-elmarit+-motor&hash=item5ed5b7648a:g:hIwAAeSwnY1q3BUy"
-      },
-      {
        "title": "Leica Leitz Leica R7 Chrome Body 10067 #1999329 Analog Camera",
-       "price": 638.79,
+       "price": 640.04,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ZX8AAeSwBQtq~UO0/s-l1200.jpg",
@@ -2618,7 +2618,7 @@
       },
       {
        "title": "Leitz Leica R7 Chrome Body 10067 #1999329 Analog Camera",
-       "price": 643.79,
+       "price": 641.86,
        "currency": "USD",
        "condition": "Usato",
        "image": "https://i.ebayimg.com/images/g/ZX8AAeSwBQtq~UO0/s-l1200.jpg",
@@ -2626,11 +2626,19 @@
       },
       {
        "title": "Leica Leitz Leica R7 Chrome Body 10067 #1999329 Analog Camera",
-       "price": 645.76,
+       "price": 645.21,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ZX8AAeSwBQtq~UO0/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/147691937522?_skw=Leica+R7+body+-summicron+-summilux+-elmarit+-motor&hash=item2263201ef2:g:ZX8AAeSwBQtq~UO0"
+      },
+      {
+       "title": "Leica R7 SLR Film Camera Body Black",
+       "price": 665.35,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/efgAAeSw8k1rCewY/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/287763592603?_skw=Leica+R7+body+-summicron+-summilux+-elmarit+-motor&hash=item43000bf59b:g:efgAAeSw8k1rCewY"
       }
      ]
     },
@@ -2640,10 +2648,10 @@
      "name_en": "Leica R8",
      "subcategory": "slr",
      "release_year": 1996,
-     "median": 903.85,
-     "mean": 900.05,
+     "median": 901.12,
+     "mean": 898.85,
      "min": 749.99,
-     "max": 1140.78,
+     "max": 1137.34,
      "q1": 809.98,
      "q3": 960.84,
      "count": 15,
@@ -2667,7 +2675,7 @@
       },
       {
        "title": "LEITZ LEICA R8 R-8 SILVER BODY MADE IN GERMANY CLA SERVICED TESTED R SYSTEM 1996",
-       "price": 903.85,
+       "price": 901.12,
        "currency": "USD",
        "condition": "Usado",
        "image": "https://i.ebayimg.com/images/g/sFsAAOSwiQlbh8M9/s-l1600.jpg",
@@ -2683,7 +2691,7 @@
       },
       {
        "title": "Leica R8 + Original BOX & CASE Leitz Excellent Condition Excellent Condition Body Condition",
-       "price": 920.3,
+       "price": 917.53,
        "currency": "USD",
        "condition": "Usato",
        "image": "https://i.ebayimg.com/images/g/V84AAeSwVaZpq8v7/s-l960.jpg",
@@ -2697,18 +2705,18 @@
      "name_en": "Leica R9",
      "subcategory": "slr",
      "release_year": 2002,
-     "median": 1457.66,
-     "mean": 1457.66,
-     "min": 1457.66,
-     "max": 1457.66,
-     "q1": 1457.66,
-     "q3": 1457.66,
-     "count": 2,
-     "count_filtered": 2,
+     "median": 1453.28,
+     "mean": 1482.18,
+     "min": 1453.28,
+     "max": 1539.98,
+     "q1": 1453.28,
+     "q3": 1539.98,
+     "count": 3,
+     "count_filtered": 3,
      "samples": [
       {
        "title": "Leica 10090 - Leica R9 Body Kit Charcoal \"Excellent Condition/Tested\" - RARE!",
-       "price": 1457.66,
+       "price": 1453.28,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/2TEAAeSwbUVq9HPk/s-l1200.jpg",
@@ -2716,11 +2724,19 @@
       },
       {
        "title": "Leica 10090 - Leica R9 Body Kit Anthracite \"1a Condition/Tested\" - Excellent!",
-       "price": 1457.66,
+       "price": 1453.28,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/-pkAAeSwu-ZpwrXr/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/178322498522?_skw=Leica+R9+body+-summicron+-summilux+-elmarit+-motor&hash=item2984d963da:g:-pkAAeSwu-ZpwrXr"
+      },
+      {
+       "title": "[ TOP MINT+++ w/ Cap ] Leica R9 Anthracite 35mm SLR Film Camera Body from JAPAN",
+       "price": 1539.98,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/vZgAAeSwyFxrA395/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/800953584622?_skw=Leica+R9+body+-summicron+-summilux+-elmarit+-motor&hash=itemba7c8dcbee:g:vZgAAeSwyFxrA395"
       }
      ]
     },
@@ -2730,23 +2746,15 @@
      "name_en": "Leica Minilux",
      "subcategory": "compact",
      "release_year": 1995,
-     "median": 1668.48,
-     "mean": 1679.14,
+     "median": 1690.74,
+     "mean": 1702.32,
      "min": 1279.99,
-     "max": 2299.99,
-     "q1": 1410.0,
-     "q3": 1923.45,
-     "count": 33,
-     "count_filtered": 33,
+     "max": 2544.99,
+     "q1": 1430.0,
+     "q3": 1926.89,
+     "count": 34,
+     "count_filtered": 34,
      "samples": [
-      {
-       "title": "Leica Minilux Summarit 40mm f2.4 35mm Film Camera CLA’d",
-       "price": 1614.62,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/J8gAAeSw0MhojqNM/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/157215365993?_skw=Leica+Minilux+camera+-case+-manual+-battery&hash=item249ac41b69:g:J8gAAeSw0MhojqNM"
-      },
       {
        "title": "Leica Minilux 35mm Point & Shoot Film Camera Summarit 40mm F2.4 From Japan E0511",
        "price": 1627.16,
@@ -2778,6 +2786,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/s~8AAeSwYVZq~-YF/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/900106224908?_skw=Leica+Minilux+camera+-case+-manual+-battery&hash=itemd19283050c:g:s~8AAeSwYVZq~-YF"
+      },
+      {
+       "title": "Titanium Black [ Almost Unused ] Leica Minilux Zoom Titan Film Camera From JAPAN",
+       "price": 1734.98,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/XYEAAeSwKV9q2qbX/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/880042116227?_skw=Leica+Minilux+camera+-case+-manual+-battery&hash=itemcce6990483:g:XYEAAeSwKV9q2qbX"
       }
      ]
     },
@@ -2788,13 +2804,13 @@
      "subcategory": "compact",
      "release_year": 1998,
      "median": 1024.66,
-     "mean": 1045.49,
-     "min": 763.54,
+     "mean": 1047.77,
+     "min": 762.89,
      "max": 1438.99,
-     "q1": 932.34,
-     "q3": 1158.93,
-     "count": 49,
-     "count_filtered": 48,
+     "q1": 929.99,
+     "q3": 1164.37,
+     "count": 47,
+     "count_filtered": 46,
      "samples": [
       {
        "title": "Leica Minilux Zoom Champagne Point & Shoot 35mm Film Camera From Japan #G129",
@@ -2821,20 +2837,20 @@
        "url": "https://www.ebay.com/itm/820394536552?_skw=Leica+Minilux+Zoom+camera+-case+-manual+-battery&hash=itembf03532e68:g:A9UAAeSwIOlrBjPG"
       },
       {
-       "title": "Film Camera Leica Minilux Zoom Vintage Gold Travel 35mm Vario Elmar 35-70mm VGC",
-       "price": 1027.11,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/og4AAeSw1vZqYLc9/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/800950877509?_skw=Leica+Minilux+Zoom+camera+-case+-manual+-battery&hash=itemba7c647d45:g:og4AAeSw1vZqYLc9"
-      },
-      {
        "title": "Leica Minilux Zoom Compact 35mm Film Camera Point & Shoot from Japan E0530",
        "price": 1031.56,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/WZUAAeSwlWlqGuTm/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/287363211612?_skw=Leica+Minilux+Zoom+camera+-case+-manual+-battery&hash=item42e82ea15c:g:WZUAAeSwlWlqGuTm"
+      },
+      {
+       "title": "**ALL WORKS** LEICA MINILUX ZOOM TITAN SILVER POINT & SHOOT 35MM FILM CAMERA",
+       "price": 1039.89,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/xLIAAeSwq0dqR21w/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/940061749548?_skw=Leica+Minilux+Zoom+camera+-case+-manual+-battery&hash=itemdae00bf12c:g:xLIAAeSwq0dqR21w"
       }
      ]
     },
@@ -2844,18 +2860,18 @@
      "name_en": "Leica CM",
      "subcategory": "compact",
      "release_year": 2003,
-     "median": 1488.07,
-     "mean": 1482.01,
-     "min": 946.55,
-     "max": 2155.75,
-     "q1": 1139.68,
-     "q3": 1886.43,
-     "count": 32,
-     "count_filtered": 32,
+     "median": 1480.0,
+     "mean": 1480.78,
+     "min": 945.1,
+     "max": 2155.23,
+     "q1": 1136.25,
+     "q3": 1888.28,
+     "count": 33,
+     "count_filtered": 33,
      "samples": [
       {
        "title": "Vintage Leitz Leica IIIf camera M39 Screw Mount w. Leitz Elmar 3.5/5cm RED Scal",
-       "price": 1359.06,
+       "price": 1354.97,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/POUAAeSwfP1q52C~/s-l1600.jpg",
@@ -2868,6 +2884,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/5K8AAeSw9AZqPDMC/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/366501410753?_skw=Leica+CM+camera+-case+-manual+-battery&hash=item55552fb7c1:g:5K8AAeSw9AZqPDMC"
+      },
+      {
+       "title": "Leica DII black paint camera with 5cm f:3.5 Nickel Elmar, cap, US SELLER \"LQQK\"",
+       "price": 1480.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/gK0AAeSwZZBp~T8L/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/137564160197?_skw=Leica+CM+camera+-case+-manual+-battery&hash=item20077680c5:g:gK0AAeSwZZBp~T8L"
       },
       {
        "title": "Vintage Leitz Leica IIIf camera M39 Screw Mount w. Leitz Elmar 3.5/5cm RED Scal",
@@ -2884,14 +2908,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/pKsAAeSwprhn3rL9/s-l225.jpg",
        "url": "https://www.ebay.com/itm/205370711969?_skw=Leica+CM+camera+-case+-manual+-battery&hash=item2fd10c5fa1:g:pKsAAeSwprhn3rL9"
-      },
-      {
-       "title": "[ EXC+5 ] Leica CM Zoom 35mm Point & Shoot Film Camera Vario Elmar 35-70mm JAPAN",
-       "price": 1564.99,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/EtcAAeSwpU9qTrhF/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/800963111858?_skw=Leica+CM+camera+-case+-manual+-battery&hash=itemba7d1f2bb2:g:EtcAAeSwpU9qTrhF"
       }
      ]
     }
@@ -2928,14 +2944,14 @@
      "name_en": "Leica Elmarit-M 28mm f/2.8 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 28,
-     "median": 2228.99,
-     "mean": 2202.86,
-     "min": 1830.0,
+     "median": 2180.95,
+     "mean": 2174.01,
+     "min": 1799.0,
      "max": 2649.66,
-     "q1": 1885.92,
-     "q3": 2476.05,
-     "count": 13,
-     "count_filtered": 13,
+     "q1": 1849.99,
+     "q3": 2452.11,
+     "count": 14,
+     "count_filtered": 14,
      "samples": [
       {
        "title": "[Top MINT]  Leica Elmarit-M 28mm f/2.8 ASPH E39 Lens 6Bit #11606 From JAPAN",
@@ -2986,11 +3002,11 @@
      "subcategory": "m-mount",
      "focal_length_min": 28,
      "median": 2344.59,
-     "mean": 2336.75,
+     "mean": 2330.02,
      "min": 1769.99,
-     "max": 2672.09,
+     "max": 2640.0,
      "q1": 2184.49,
-     "q3": 2584.5,
+     "q3": 2570.54,
      "count": 9,
      "count_filtered": 9,
      "samples": [
@@ -3004,7 +3020,7 @@
       },
       {
        "title": "LEICA Summaron M 28mm f5.6 Lens 11695 Maintained",
-       "price": 2280.96,
+       "price": 2280.42,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/IkkAAeSwXeFqhbPZ/s-l960.jpg",
@@ -3042,18 +3058,18 @@
      "name_en": "Leica Summicron-M 28mm f/2 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 28,
-     "median": 2871.35,
-     "mean": 2818.81,
+     "median": 2875.69,
+     "mean": 2864.91,
      "min": 2630.0,
-     "max": 2899.99,
-     "q1": 2741.15,
+     "max": 3144.87,
+     "q1": 2732.91,
      "q3": 2899.99,
      "count": 7,
-     "count_filtered": 6,
+     "count_filtered": 7,
      "samples": [
       {
        "title": "Leica Summicron-M 28mm f2 ASPH. Lens, Black (11604) For M Mount, 6 Bit, Boxed",
-       "price": 2866.32,
+       "price": 2871.94,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/XjQAAeSwbc1qIlMe/s-l1600.jpg",
@@ -3061,7 +3077,7 @@
       },
       {
        "title": "Leica Summicron-M 28mm F2 ASPH 11604 Used",
-       "price": 2876.38,
+       "price": 2875.69,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/tVwAAeSwT6hq9OlI/s-l960.jpg",
@@ -3099,38 +3115,46 @@
      "name_en": "Leica Summicron-M 35mm f/2 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 35,
-     "median": 2668.8,
-     "mean": 2676.85,
-     "min": 2006.12,
+     "median": 2649.99,
+     "mean": 2665.73,
+     "min": 2000.09,
      "max": 3359.1,
-     "q1": 2444.88,
-     "q3": 2964.94,
+     "q1": 2449.99,
+     "q3": 2937.63,
      "count": 51,
      "count_filtered": 51,
      "samples": [
       {
-       "title": "Leica Summicron-M 35mm F2 ASPH Chrome Used",
-       "price": 2667.05,
+       "title": "Leica Summicron-M 35mm F2 ASPH Black M-Mount Wide Angle Lens Version M0926",
+       "price": 2623.75,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/zOYAAeSwJEdq9j7Y/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/840122440259?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=itemc39b331a43:g:zOYAAeSwJEdq9j7Y"
+       "image": "https://i.ebayimg.com/images/g/zjoAAeSwGTZqt3ti/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/278410659829?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item40d29187f5:g:zjoAAeSwGTZqt3ti"
+      },
+      {
+       "title": "[Unused] Leica Summicron-M 35mm F2 ASPH. Black 6Bit MF Lens 11879 E39 From JAPAN",
+       "price": 2649.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/mxsAAeSwF5dq9eva/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/840121665394?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=itemc39b274772:g:mxsAAeSwF5dq9eva"
       },
       {
        "title": "Leica Leitz Summicron-M 35mm F/2 ASPH. Lens for Leica M #66831 T",
-       "price": 2668.8,
+       "price": 2664.71,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/DvwAAeSw2DhrCLZI/s-l960.jpg",
        "url": "https://www.ebay.com/itm/198827364939?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item2e4b08d24b:g:DvwAAeSw2DhrCLZI"
       },
       {
-       "title": "Leica SUMMICRON-M 35mm f2 ASPH Lens",
-       "price": 2670.87,
+       "title": "Leica Summicron-M 35mm f/2 ASPH. E39 Lens, Silver 11882 w/ Leather Case",
+       "price": 2672.5,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/FQ0AAeSwRSJq8UBJ/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/198782422367?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item2e485b0d5f:g:FQ0AAeSwRSJq8UBJ"
+       "image": "https://i.ebayimg.com/images/g/jUIAAeSwma5pXGj1/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/177882633289?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item296aa19449:g:jUIAAeSwma5pXGj1"
       },
       {
        "title": "Leica SUMMICRON-M 35mm f/2 ASPH. Lens Black M Mount Excellent Japan k0711",
@@ -3139,14 +3163,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/VcAAAeSwYmxqUj5R/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/287454346977?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=item42ed9d3ee1:g:VcAAAeSwYmxqUj5R"
-      },
-      {
-       "title": "Leica Summicron-M 35mm F2 ASPH Chrome Used",
-       "price": 2714.6,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/DGQAAeSwd2Zq9jqv/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/800909749520?_skw=Leica+Summicron-M+35mm+f%2F2+ASPH+-hood+-cap+-finder&hash=itemba79f0ed10:g:DGQAAeSwd2Zq9jqv"
       }
      ]
     },
@@ -3157,9 +3173,9 @@
      "subcategory": "m-mount",
      "focal_length_min": 35,
      "median": 1500.0,
-     "mean": 1406.7,
-     "min": 932.41,
-     "max": 1877.86,
+     "mean": 1405.31,
+     "min": 922.79,
+     "max": 1874.99,
      "q1": 1189.5,
      "q3": 1596.5,
      "count": 9,
@@ -3190,20 +3206,20 @@
        "url": "https://www.ebay.com/itm/206142803477?_skw=Leica+Summaron-M+35mm+f%2F2.8+-goggles+-hood+-cap+-finder&hash=item2fff118e15:g:2xMAAeSw3FNpt8d0"
       },
       {
-       "title": "LEITZ Leica Summaron M 35mm/F2.8 Lens Yr.1960 Germany #12082",
-       "price": 1529.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/6e4AAeSwydZqaCOz/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/206446994617?_skw=Leica+Summaron-M+35mm+f%2F2.8+-goggles+-hood+-cap+-finder&hash=item30113324b9:g:6e4AAeSwydZqaCOz"
-      },
-      {
        "title": "LEITZ Leica Summaron M 35mm/F2.8 Goggle Lens Yr.1964 Germany #11236",
        "price": 1529.0,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/b68AAOSw2BdoJXC1/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/205487473870?_skw=Leica+Summaron-M+35mm+f%2F2.8+-goggles+-hood+-cap+-finder&hash=item2fd80204ce:g:b68AAOSw2BdoJXC1"
+      },
+      {
+       "title": "LEITZ Leica Summaron M 35mm/F2.8 Lens Yr.1960 Germany #12082",
+       "price": 1529.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/6e4AAeSwydZqaCOz/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/206446994617?_skw=Leica+Summaron-M+35mm+f%2F2.8+-goggles+-hood+-cap+-finder&hash=item30113324b9:g:6e4AAeSwydZqaCOz"
       }
      ]
     },
@@ -3303,13 +3319,13 @@
      "subcategory": "m-mount",
      "focal_length_min": 50,
      "median": 879.99,
-     "mean": 873.28,
-     "min": 511.38,
+     "mean": 865.64,
+     "min": 506.55,
      "max": 1249.99,
      "q1": 700.96,
-     "q3": 1082.22,
-     "count": 37,
-     "count_filtered": 37,
+     "q3": 1046.96,
+     "count": 41,
+     "count_filtered": 41,
      "samples": [
       {
        "title": "LEITZ Leica Elmar M 50mm/F2.8 Ver.I Silver Lens Yr.1966 Germany #11287",
@@ -3359,15 +3375,39 @@
      "name_en": "Leica Summicron-M 50mm f/2",
      "subcategory": "m-mount",
      "focal_length_min": 50,
-     "median": 1690.1,
-     "mean": 1734.68,
-     "min": 1234.65,
+     "median": 1668.71,
+     "mean": 1726.62,
+     "min": 1234.35,
      "max": 2399.79,
-     "q1": 1457.34,
-     "q3": 1962.05,
+     "q1": 1461.05,
+     "q3": 1932.65,
      "count": 161,
      "count_filtered": 161,
      "samples": [
+      {
+       "title": "[MINT]Leica Summicron M 50mm F/2 E39 Black Lens #6633",
+       "price": 1660.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/RW0AAeSwAY9qcce2/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/298558543536?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item458379d6b0:g:RW0AAeSwAY9qcce2"
+      },
+      {
+       "title": "Leica Summicron-M 50mm F2 Black 2nd Generation Used",
+       "price": 1668.71,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/NVAAAeSwNm9q8UAB/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/800894959717?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=itemba790f4065:g:NVAAAeSwNm9q8UAB"
+      },
+      {
+       "title": "Leica Summicron-M 50mm F2 Collapsible Leica M Mount Lens from Japan D1122",
+       "price": 1669.2,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/uXwAAeSwX9BrAwLn/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/287749519800?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item42ff3539b8:g:uXwAAeSwX9BrAwLn"
+      },
       {
        "title": "386xxxx [MINT] Leica Summicron M 50mm f/2 E39 5th Ver Black MF Lens From JAPAN",
        "price": 1684.99,
@@ -3383,30 +3423,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/nrYAAeSwyuNrA3Qs/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/960231509910?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=itemdf92420f96:g:nrYAAeSwyuNrA3Qs"
-      },
-      {
-       "title": "[Almost Unused] Leica Summicron M 50mm f/2 4th lens E39 Silver From JAPAN",
-       "price": 1699.99,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/SzAAAeSwgEpq4Eno/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/407319178399?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item5ed61d6c9f:g:SzAAAeSwgEpq4Eno"
-      },
-      {
-       "title": "AB Grade LEICA Summicron M 50mm F2 Collapsible 11210",
-       "price": 1700.25,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/l~UAAeSw7mRq76kd/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/960168005610?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=itemdf8e790fea:g:l~UAAeSw7mRq76kd"
-      },
-      {
-       "title": "[MINT]Leica SUMMICRON-M 50mm F/2 E39 Silver Lens #6499",
-       "price": 1720.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/2tYAAeSwIyhpjaL-/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/298025182633?_skw=Leica+Summicron-M+50mm+f%2F2+-hood+-cap&hash=item4563af65a9:g:2tYAAeSwIyhpjaL-"
       }
      ]
     },
@@ -3432,24 +3448,15 @@
      "name_en": "Leica Summicron-M 50mm f/2 Dual Range",
      "subcategory": "m-mount",
      "focal_length_min": 50,
-     "median": 1049.0,
-     "mean": 1049.0,
-     "min": 1049.0,
-     "max": 1049.0,
-     "q1": 1049.0,
-     "q3": 1049.0,
-     "count": 1,
-     "count_filtered": 1,
-     "samples": [
-      {
-       "title": "[Almost MINT] Leica Dual Range Summicron-M 50mm F2 w/Goggles M Mount Lens JAPAN",
-       "price": 1049.0,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/1nMAAeSwqStq9b9q/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/920134970959?_skw=Leica+Summicron-M+50mm+f%2F2+dual+range+-DR+goggles+-hood+-cap&hash=itemd63c516e4f:g:1nMAAeSwqStq9b9q"
-      }
-     ]
+     "median": null,
+     "mean": null,
+     "min": null,
+     "max": null,
+     "q1": null,
+     "q3": null,
+     "count": 0,
+     "count_filtered": 0,
+     "samples": []
     },
     {
      "id": "summilux-m-50-f14-asph",
@@ -3457,10 +3464,10 @@
      "name_en": "Leica Summilux-M 50mm f/1.4 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 50,
-     "median": 3307.53,
-     "mean": 3443.31,
+     "median": 3306.73,
+     "mean": 3439.9,
      "min": 2680.0,
-     "max": 4347.0,
+     "max": 4345.96,
      "q1": 3107.18,
      "q3": 3889.96,
      "count": 51,
@@ -3480,11 +3487,11 @@
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/TdcAAeSw6QhqWkVJ/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/860113858743?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=itemc842c7f0b7:g:TdcAAeSw6QhqWkVJ"
+       "url": "https://www.ebay.com/itm/860182103409?_skw=Leica+Summilux-M+50mm+f%2F1.4+ASPH+-hood+-cap&hash=itemc846d94571:g:TdcAAeSw6QhqWkVJ"
       },
       {
        "title": "Leica Summilux-M 50mm F1.4 ASPH 6-Bit Silver",
-       "price": 3307.53,
+       "price": 3306.73,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/uEIAAeSwX3Fq8UDI/s-l960.jpg",
@@ -3530,11 +3537,11 @@
      "name_en": "Leica Noctilux-M 50mm f/1",
      "subcategory": "m-mount",
      "focal_length_min": 50,
-     "median": 5852.07,
-     "mean": 6222.51,
-     "min": 4606.98,
-     "max": 8665.51,
-     "q1": 5602.42,
+     "median": 5863.54,
+     "mean": 6215.61,
+     "min": 4593.12,
+     "max": 8639.44,
+     "q1": 5585.56,
      "q3": 6849.99,
      "count": 9,
      "count_filtered": 9,
@@ -3549,7 +3556,7 @@
       },
       {
        "title": "Leica Leitz Noctilux-M 50mm f/1.0 E60 Lens, Ver. 4 IV Canada, Black F1 M",
-       "price": 5852.07,
+       "price": 5863.54,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/Sf0AAOSwZ-lkJOls/s-l1200.jpg",
@@ -3592,14 +3599,14 @@
      "rarity_sort": 20,
      "rarity_price_hint": "7,500–10,500+",
      "rarity_note": "상징성이 높아 상태와 풀세트 여부에 따라 편차가 큽니다.",
-     "median": 9219.0,
-     "mean": 9212.89,
+     "median": 8936.85,
+     "mean": 9052.48,
      "min": 7089.0,
      "max": 11793.82,
      "q1": 7734.5,
-     "q3": 10487.75,
-     "count": 13,
-     "count_filtered": 13,
+     "q3": 10029.88,
+     "count": 12,
+     "count_filtered": 12,
      "samples": [
       {
        "title": "Leica Noctilux-M 50mm f/0.95 ASPH. Lens Black MFR #11602 in MINT condition",
@@ -3627,7 +3634,7 @@
       },
       {
        "title": "Leica Noctilux-M F0.95/50mm ASPH Used",
-       "price": 9735.21,
+       "price": 9248.45,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/RqEAAeSwFCJq8UAg/s-l960.jpg",
@@ -3635,7 +3642,7 @@
       },
       {
        "title": "Leica Noctilux M F0.95 50mm ASPH Used",
-       "price": 9735.21,
+       "price": 9248.45,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/opAAAeSwtIRq8UBX/s-l960.jpg",
@@ -3649,8 +3656,8 @@
      "name_en": "Leica APO-Summicron-M 50mm f/2 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 50,
-     "median": 6513.22,
-     "mean": 6372.33,
+     "median": 6555.41,
+     "mean": 6405.03,
      "min": 5349.0,
      "max": 7906.03,
      "q1": 5761.21,
@@ -3658,14 +3665,6 @@
      "count": 26,
      "count_filtered": 24,
      "samples": [
-      {
-       "title": "Leica APO-SUMMICRON-M 50mm f/2 ASPH 11141",
-       "price": 6494.61,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/vhcAAeSwJG5q8UCB/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/840109237871?_skw=Leica+APO-Summicron-M+50mm+f%2F2+ASPH+-hood+-cap&hash=itemc39a69a66f:g:vhcAAeSwJG5q8UCB"
-      },
       {
        "title": "Leica APO Summicron M 50mm F/2 ASPH. Black Anodized Lens 11141 from Japan N1028",
        "price": 6531.83,
@@ -3692,11 +3691,19 @@
       },
       {
        "title": "*MINT* Leica APO Summicron-M 50mm f/2 ASPH. E39 Lens, 11141 Black, Boxed",
-       "price": 6648.27,
+       "price": 6661.3,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/R7YAAeSwMedoum5R/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/177882633347?_skw=Leica+APO-Summicron-M+50mm+f%2F2+ASPH+-hood+-cap&hash=item296aa19483:g:R7YAAeSwMedoum5R"
+      },
+      {
+       "title": "Leica APO-Summicron-M 50mm F/2 ASPH Black 6-Bit E39 11141 from Japan H1107",
+       "price": 6689.83,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/P~4AAeSwgrpq7x9x/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/287711626812?_skw=Leica+APO-Summicron-M+50mm+f%2F2+ASPH+-hood+-cap&hash=item42fcf3063c:g:P~4AAeSwgrpq7x9x"
       }
      ]
     },
@@ -3706,10 +3713,10 @@
      "name_en": "Leica APO-Summicron-M 90mm f/2 ASPH",
      "subcategory": "m-mount",
      "focal_length_min": 90,
-     "median": 3135.6,
-     "mean": 3143.09,
+     "median": 3112.35,
+     "mean": 3136.21,
      "min": 2249.99,
-     "max": 4332.76,
+     "max": 4319.72,
      "q1": 2556.0,
      "q3": 3510.1,
      "count": 34,
@@ -3725,7 +3732,7 @@
       },
       {
        "title": "Leica APO Summicron-M 90mm f/2 F2 ASPH E55 Black Lens 11884 M Mount",
-       "price": 3198.07,
+       "price": 3204.34,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/r7AAAeSwOgVqPicu/s-l1600.jpg",
@@ -3763,15 +3770,23 @@
      "name_en": "Leica Elmarit-M 90mm f/2.8",
      "subcategory": "m-mount",
      "focal_length_min": 90,
-     "median": 844.08,
-     "mean": 861.78,
+     "median": 824.88,
+     "mean": 858.09,
      "min": 500.0,
      "max": 1270.0,
-     "q1": 688.58,
-     "q3": 1000.0,
-     "count": 62,
-     "count_filtered": 62,
+     "q1": 688.0,
+     "q3": 997.27,
+     "count": 64,
+     "count_filtered": 64,
      "samples": [
+      {
+       "title": "Leica Leitz Canada Tele-Elmarit-M 90mm f/2.8 Rangefinder Lens",
+       "price": 822.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/uBgAAeSwXuJrCXMS/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/940126790730?_skw=Leica+Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=itemdae3ec644a:g:uBgAAeSwXuJrCXMS"
+      },
       {
        "title": "Leica Leitz Elmarit M 90mm f/2.8 L0157",
        "price": 824.4,
@@ -3803,14 +3818,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/NKYAAeSwx7JrADz1/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/117532240154?_skw=Leica+Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=item1b5d77a91a:g:NKYAAeSwx7JrADz1"
-      },
-      {
-       "title": "[MINT in Box] Leica Elmarit M 90mm f/2.8 E46 11807 Camera Lens From JAPAN",
-       "price": 899.99,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/gtIAAeSwtMVq~hQ7/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/800935578717?_skw=Leica+Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=itemba7b7b0c5d:g:gtIAAeSwtMVq~hQ7"
       }
      ]
     },
@@ -3820,23 +3827,15 @@
      "name_en": "Leica Tele-Elmarit-M 90mm f/2.8",
      "subcategory": "m-mount",
      "focal_length_min": 90,
-     "median": 759.0,
-     "mean": 754.47,
-     "min": 454.99,
+     "median": 763.07,
+     "mean": 769.01,
+     "min": 479.99,
      "max": 1099.0,
-     "q1": 622.49,
+     "q1": 645.05,
      "q3": 887.84,
      "count": 25,
      "count_filtered": 25,
      "samples": [
-      {
-       "title": "Leica TELE-ELMARIT-M 90mm F2.8 Early FAT M Mount Black 485580",
-       "price": 688.58,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/0o4AAeSwI2xrB8PF/s-l1200.jpg",
-       "url": "https://www.ebay.com/itm/307302377326?_skw=Leica+Tele-Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=item478ca6276e:g:0o4AAeSwI2xrB8PF"
-      },
       {
        "title": "Leica Tele-Elmarit-M 90mm F2.8 Late Version Telephoto Lens M from Japan D1023",
        "price": 749.8,
@@ -3868,6 +3867,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/XKIAAeSwgEdoYped/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/396805279719?_skw=Leica+Tele-Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=item5c63700fe7:g:XKIAAeSwgEdoYped"
+      },
+      {
+       "title": "Leica Tele-elmarit M 90mm f/2.8 Lens Black Fat Canada - Clean Glass !",
+       "price": 774.15,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/ym0AAOSwtaRmKa~z/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/335364820069?_skw=Leica+Tele-Elmarit-M+90mm+f%2F2.8+-hood+-cap&hash=item4e154d0c65:g:ym0AAOSwtaRmKa~z"
       }
      ]
     },
@@ -3877,14 +3884,14 @@
      "name_en": "Leica Elmarit-R 28mm f/2.8",
      "subcategory": "r-system",
      "focal_length_min": 28,
-     "median": 759.98,
-     "mean": 710.6,
+     "median": 749.49,
+     "mean": 703.61,
      "min": 454.51,
      "max": 868.2,
-     "q1": 555.47,
-     "q3": 835.3,
-     "count": 21,
-     "count_filtered": 21,
+     "q1": 555.02,
+     "q3": 830.3,
+     "count": 20,
+     "count_filtered": 20,
      "samples": [
       {
        "title": "Leica Leitz ELMARIT-R 28mm f/2.8 Lens",
@@ -3934,26 +3941,26 @@
      "name_en": "Leica Summicron-R 35mm f/2",
      "subcategory": "r-system",
      "focal_length_min": 35,
-     "median": 1329.0,
-     "mean": 1297.28,
-     "min": 733.83,
-     "max": 1931.1,
-     "q1": 999.99,
-     "q3": 1615.2,
-     "count": 35,
-     "count_filtered": 35,
+     "median": 1326.13,
+     "mean": 1293.92,
+     "min": 731.61,
+     "max": 1925.28,
+     "q1": 1029.84,
+     "q3": 1598.09,
+     "count": 36,
+     "count_filtered": 36,
      "samples": [
       {
-       "title": "Leica Summicron-R 35mm F/2 E55 11115",
-       "price": 1217.56,
+       "title": "Leica Leitz Summicron R 35mm F2 MF Prime Lens 3-Cam with Case",
+       "price": 1268.53,
        "currency": "USD",
-       "condition": "Gebraucht",
-       "image": "https://i.ebayimg.com/images/g/OEQAAeSwVy9pFhQ~/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/167926422754?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=item271931dce2:g:OEQAAeSwVy9pFhQ~"
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/YdsAAeSwBT9rCgLE/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/800975036276?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=itemba7dd51f74:g:YdsAAeSwBT9rCgLE"
       },
       {
        "title": "Leica Summicron-R 35mm F2 E55 11115",
-       "price": 1327.25,
+       "price": 1323.26,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/EtQAAOSwrJlg6BTl/s-l1600.jpg",
@@ -3968,20 +3975,20 @@
        "url": "https://www.ebay.com/itm/127977430997?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=item1dcc0c9fd5:g:i4kAAeSwYrtqWIDw"
       },
       {
-       "title": "Leica Leitz Summicron-R 35mm f/2 F2 Lens 3 Cam for Leica R SLR Camera",
-       "price": 1340.27,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/jAsAAOSwT7VkZxMy/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/177882633389?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=item296aa194ad:g:jAsAAOSwT7VkZxMy"
-      },
-      {
        "title": "[Top Mint] Leitz Wetzlar Leica Summicron R 35mm f/2 3cam Wide Lens from Japan",
        "price": 1339.99,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/Jf0AAeSwfUJptrtj/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/178180450096?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=item297c61e730:g:Jf0AAeSwfUJptrtj"
+      },
+      {
+       "title": "Leica Leitz Summicron-R 35mm f/2 F2 Lens 3 Cam for Leica R SLR Camera",
+       "price": 1342.9,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/jAsAAOSwT7VkZxMy/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/177882633389?_skw=Leica+Summicron-R+35mm+f%2F2+-hood+-cap&hash=item296aa194ad:g:jAsAAOSwT7VkZxMy"
       }
      ]
     },
@@ -3991,14 +3998,14 @@
      "name_en": "Leica Summicron-R 50mm f/2",
      "subcategory": "r-system",
      "focal_length_min": 50,
-     "median": 539.99,
-     "mean": 570.42,
+     "median": 537.92,
+     "mean": 566.27,
      "min": 319.99,
      "max": 898.0,
-     "q1": 456.85,
-     "q3": 666.87,
-     "count": 117,
-     "count_filtered": 115,
+     "q1": 454.7,
+     "q3": 665.72,
+     "count": 118,
+     "count_filtered": 116,
      "samples": [
       {
        "title": "[Near MINT] Leica Leitz Summicron R 50mm f/2 R-Only Lens For R Mount From JAPAN",
@@ -4010,7 +4017,7 @@
       },
       {
        "title": "Leitz 11216 / Leica Summicron-R 2.0/50 Standard Lens - 50mm F/2.0",
-       "price": 548.06,
+       "price": 546.42,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/h4wAAOSwj7xitVUv/s-l960.jpg",
@@ -4018,7 +4025,7 @@
       },
       {
        "title": "Leica Summicron -R 50mm f2 near mint, boxed, serviced",
-       "price": 550.49,
+       "price": 550.03,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/VUkAAeSwhCJq~u7I/s-l1600.jpg",
@@ -4026,7 +4033,7 @@
       },
       {
        "title": "Leica Leitz Wetzlar Summicron R 50mm f2 Lens Lens",
-       "price": 550.65,
+       "price": 548.99,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/VOIAAeSwyUNouaN~/s-l1600.jpg",
@@ -4049,11 +4056,11 @@
      "subcategory": "r-system",
      "focal_length_min": 50,
      "median": 1247.25,
-     "mean": 1237.93,
+     "mean": 1231.29,
      "min": 780.0,
      "max": 1559.0,
      "q1": 1019.9,
-     "q3": 1419.8,
+     "q3": 1405.69,
      "count": 27,
      "count_filtered": 27,
      "samples": [
@@ -4083,7 +4090,7 @@
       },
       {
        "title": "Leica Summilux-R 50mm F1.4 N 3-CAM Lens Used Fair Condition",
-       "price": 1324.4,
+       "price": 1324.08,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/fUcAAeSw-zVqylOr/s-l1200.jpg",
@@ -4105,15 +4112,31 @@
      "name_en": "Leica Macro-Elmarit-R 60mm f/2.8",
      "subcategory": "r-system",
      "focal_length_min": 60,
-     "median": 561.64,
-     "mean": 653.42,
+     "median": 549.0,
+     "mean": 637.27,
      "min": 439.99,
-     "max": 978.1,
-     "q1": 509.99,
-     "q3": 825.53,
-     "count": 28,
-     "count_filtered": 28,
+     "max": 969.0,
+     "q1": 499.99,
+     "q3": 780.02,
+     "count": 27,
+     "count_filtered": 27,
      "samples": [
+      {
+       "title": "Leica Macro-Elmarit-R 60mm f2.8 3-Cam Lens 272",
+       "price": 538.99,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/lHoAAOSwCRdhhcwv/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/175668150650?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=item28e6a3417a:g:lHoAAOSwCRdhhcwv"
+      },
+      {
+       "title": "Leica LEITZ Macro-Elmarit-R 60mm F2.8 3-CAM Lens",
+       "price": 543.49,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/FTUAAeSwWYFquBsp/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/800554876695?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=itemba64c9ff17:g:FTUAAeSwWYFquBsp"
+      },
       {
        "title": "LEICA Leitz Wetzlar Macro-Elmarit-R 60mm F2.8 Lens Fungus Haze Dust Scuffs",
        "price": 549.0,
@@ -4121,14 +4144,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/TYcAAeSwDypq6RRx/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/168833529349?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=item274f433605:g:TYcAAeSwDypq6RRx"
-      },
-      {
-       "title": "Leica Macro-Elmarit-R 60mm F2.8 3-CAM Used",
-       "price": 554.23,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/vTUAAeSwQrZq8T~~/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/800894959715?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=itemba790f4063:g:vTUAAeSwQrZq8T~~"
       },
       {
        "title": "Leica Macro-Elmarit-R 60mm f/2.8 Macro Leica R Mount Caps From Japan 3178291",
@@ -4145,14 +4160,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/l8QAAeSwiVBq8lNM/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/168851128399?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=item27504fc04f:g:l8QAAeSwiVBq8lNM"
-      },
-      {
-       "title": "Leica Leitz Macro-Elmarit-R 60mm F2.8  Lens Optically Mint, Internal Dust",
-       "price": 613.01,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/msYAAeSwfdlo6A3D/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/136670761276?_skw=Leica+Macro-Elmarit-R+60mm+f%2F2.8+-hood+-cap&hash=item1fd236513c:g:msYAAeSwfdlo6A3D"
       }
      ]
     },
@@ -4162,23 +4169,15 @@
      "name_en": "Leica Elmarit-R 90mm f/2.8",
      "subcategory": "r-system",
      "focal_length_min": 90,
-     "median": 412.62,
-     "mean": 436.75,
+     "median": 426.62,
+     "mean": 442.92,
      "min": 299.99,
      "max": 672.92,
-     "q1": 364.99,
-     "q3": 519.99,
-     "count": 24,
-     "count_filtered": 24,
+     "q1": 369.99,
+     "q3": 523.99,
+     "count": 26,
+     "count_filtered": 26,
      "samples": [
-      {
-       "title": "Leica Leitz Wetzlar Elmarit-R 90mm f/2.8 Lens. Serial Number 22688. Made in 1968",
-       "price": 403.31,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/1FEAAOSwmwdnlmel/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/226566530093?_skw=Leica+Elmarit-R+90mm+f%2F2.8+-hood+-cap&hash=item34c06ae42d:g:1FEAAOSwmwdnlmel"
-      },
       {
        "title": "Leica ELMARIT-R 90mm f/2.8 MF Lens",
        "price": 405.8,
@@ -4197,7 +4196,7 @@
       },
       {
        "title": "Leica Leitz Wetzlar Elmarit-R 90mm F2.8 MF 3-Cam Prime Lens Made in Germany",
-       "price": 433.89,
+       "price": 433.79,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/no0AAeSwZERqhjkx/s-l1200.jpg",
@@ -4210,6 +4209,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/8rMAAeSwPzBq8LbH/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/168848386887?_skw=Leica+Elmarit-R+90mm+f%2F2.8+-hood+-cap&hash=item275025eb47:g:8rMAAeSwPzBq8LbH"
+      },
+      {
+       "title": "Leica ELMARIT-R 90mm f2.8 Made in Germany, Excellent Optics",
+       "price": 447.26,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/HnAAAeSwkW1q~NLa/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/840139476342?_skw=Leica+Elmarit-R+90mm+f%2F2.8+-hood+-cap&hash=itemc39c370d76:g:HnAAAeSwkW1q~NLa"
       }
      ]
     },
@@ -4235,14 +4242,14 @@
      "name_en": "Leica Elmarit-R 135mm f/2.8",
      "subcategory": "r-system",
      "focal_length_min": 135,
-     "median": 381.02,
-     "mean": 408.02,
-     "min": 261.72,
-     "max": 672.92,
-     "q1": 326.88,
-     "q3": 499.99,
-     "count": 43,
-     "count_filtered": 41,
+     "median": 407.75,
+     "mean": 419.96,
+     "min": 261.66,
+     "max": 677.39,
+     "q1": 330.73,
+     "q3": 501.99,
+     "count": 45,
+     "count_filtered": 44,
      "samples": [
       {
        "title": "\"NEAR MINT\"Leica Elmarit R 135mm f/2.8 3Cam E55 \"LATE MODEL\"Leica R-Mount #6219",
@@ -4251,14 +4258,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/bh8AAeSwmKhqnM1R/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/198621639979?_skw=Leica+Elmarit-R+135mm+f%2F2.8+-hood+-cap&hash=item2e3ec5b52b:g:bh8AAeSwmKhqnM1R"
-      },
-      {
-       "title": "Leica Elmarit R 135mm f/2.8 3 Cam Used",
-       "price": 381.02,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/11oAAeSwY-Fq4tcU/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/800850667087?_skw=Leica+Elmarit-R+135mm+f%2F2.8+-hood+-cap&hash=itemba766b664f:g:11oAAeSwY-Fq4tcU"
       },
       {
        "title": "Leica Elmarit R 135mm f/2.8 3-Cam Leitz MF Lens USA Shipper",
@@ -4283,6 +4282,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/qzMAAOSwXGFnFy5m/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/175667946310?_skw=Leica+Elmarit-R+135mm+f%2F2.8+-hood+-cap&hash=item28e6a02346:g:qzMAAOSwXGFnFy5m"
+      },
+      {
+       "title": "[N MINT] Leica Leitz Elmarit-R 135mm f/2.8 2-Cam Telephoto Lens Germany #YK10-2",
+       "price": 425.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/DIEAAeSwDJdq2uzk/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/227579581636?_skw=Leica+Elmarit-R+135mm+f%2F2.8+-hood+-cap&hash=item34fcccd4c4:g:DIEAAeSwDJdq2uzk"
       }
      ]
     },
@@ -4292,18 +4299,18 @@
      "name_en": "Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH",
      "subcategory": "sl-system",
      "focal_length_min": 24,
-     "median": 2717.13,
-     "mean": 2833.82,
-     "min": 2547.04,
+     "median": 2716.8,
+     "mean": 2833.51,
+     "min": 2546.43,
      "max": 3354.0,
-     "q1": 2600.52,
-     "q3": 3067.13,
+     "q1": 2600.22,
+     "q3": 3066.8,
      "count": 4,
      "count_filtered": 4,
      "samples": [
       {
        "title": "Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH. Lens",
-       "price": 2547.04,
+       "price": 2546.43,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/4hcAAeSw-Fxqt9Tj/s-l1200.jpg",
@@ -4319,7 +4326,7 @@
       },
       {
        "title": "Leica Vario-Elmarit-SL 24-70mm f/2.8 ASPH Lens",
-       "price": 2780.26,
+       "price": 2779.59,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/TXUAAeSwD~1qharF/s-l1600.jpg",
@@ -4415,8 +4422,8 @@
      "name_en": "Leica APO-Summicron-SL 50mm f/2 ASPH",
      "subcategory": "sl-system",
      "focal_length_min": 50,
-     "median": 3349.55,
-     "mean": 3442.98,
+     "median": 3344.28,
+     "mean": 3441.23,
      "min": 2959.0,
      "max": 4049.41,
      "q1": 2999.99,
@@ -4458,7 +4465,7 @@
       },
       {
        "title": "Leica Apo-Summicron-SL 50mm f2 ASPH. 11185 in Very Good Condition With Box",
-       "price": 3499.11,
+       "price": 3488.58,
        "currency": "USD",
        "condition": "Usato",
        "image": "https://i.ebayimg.com/images/g/W2wAAeSwf55qpRmA/s-l1600.jpg",
@@ -4547,14 +4554,14 @@
      "name_ko": "Leica Visoflex 2",
      "name_en": "Leica Visoflex 2",
      "subcategory": "finders",
-     "median": 784.57,
-     "mean": 791.76,
+     "median": 794.0,
+     "mean": 799.87,
      "min": 709.0,
      "max": 899.99,
      "q1": 739.54,
-     "q3": 850.98,
-     "count": 12,
-     "count_filtered": 12,
+     "q3": 857.62,
+     "count": 13,
+     "count_filtered": 13,
      "samples": [
       {
        "title": "LEICA VISOFLEX 2 Electronic Viewfinder for M10 M10R M10P  M11 M11P  T  TL  TL2",
@@ -4566,7 +4573,7 @@
       },
       {
        "title": "Leica 24028 Visoflex 2 Electronic Viewfinder",
-       "price": 775.13,
+       "price": 773.94,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/K30AAeSwNWBrA2ki/s-l640.jpg",
@@ -4603,26 +4610,26 @@
      "name_ko": "Leica EVF 2",
      "name_en": "Leica EVF 2",
      "subcategory": "finders",
-     "median": 334.67,
-     "mean": 332.54,
-     "min": 259.0,
+     "median": 334.58,
+     "mean": 326.21,
+     "min": 220.0,
      "max": 435.0,
-     "q1": 302.89,
-     "q3": 358.0,
-     "count": 24,
+     "q1": 299.37,
+     "q3": 360.0,
+     "count": 23,
      "count_filtered": 23,
      "samples": [
       {
-       "title": "Leica EVF2 Electronic Viewfinder 18753 Leica For X2 [Near Mint] w/ Case Japan",
-       "price": 322.99,
+       "title": "Leica EVF-2 Visoflex electronic viewfinder [18753] for M240",
+       "price": 320.0,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/tPcAAeSwkf9q3atB/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/880049053081?_skw=Leica+EVF+2+electronic+viewfinder&hash=itemcce702dd99:g:tPcAAeSwkf9q3atB"
+       "image": "https://i.ebayimg.com/images/g/n1QAAeSwIMRqmoBL/s-l1600.jpg",
+       "url": "https://www.ebay.com/itm/158256340021?_skw=Leica+EVF+2+electronic+viewfinder&hash=item24d8d01c35:g:n1QAAeSwIMRqmoBL"
       },
       {
        "title": "Electronic Viewfinder Leica EVF2",
-       "price": 329.08,
+       "price": 328.08,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/ipAAAeSwL75pP~6-/s-l1600.jpg",
@@ -4630,7 +4637,7 @@
       },
       {
        "title": "Leica EVF2 Viewfinder for X2 18753 with Original Box",
-       "price": 334.67,
+       "price": 334.58,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/ZfwAAeSwjO1qylP~/s-l1200.jpg",
@@ -4645,12 +4652,12 @@
        "url": "https://www.ebay.com/itm/820345490994?_skw=Leica+EVF+2+electronic+viewfinder&hash=itembf0066ce32:g:LqwAAeSwaVVq9Ukr"
       },
       {
-       "title": "Leica EVF2 Electronic Viewfinder 18753 for X2/X Vario/M-series Cameras#141",
-       "price": 337.0,
+       "title": "Leica EVF2 Viewfinder for X2 18753 with Box Good Condition",
+       "price": 336.85,
        "currency": "USD",
        "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/NcUAAeSw~Dxq3~rM/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/377599965701?_skw=Leica+EVF+2+electronic+viewfinder&hash=item57eab63a05:g:NcUAAeSw~Dxq3~rM"
+       "image": "https://i.ebayimg.com/images/g/V88AAeSwrQBqyd59/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/840005746165?_skw=Leica+EVF+2+electronic+viewfinder&hash=itemc3943e7df5:g:V88AAeSwrQBqyd59"
       }
      ]
     },
@@ -4683,26 +4690,18 @@
      "name_ko": "Leica Winder M",
      "name_en": "Leica Winder M",
      "subcategory": "grips-winders",
-     "median": 279.99,
-     "mean": 335.6,
-     "min": 158.65,
+     "median": 314.99,
+     "mean": 339.89,
+     "min": 158.41,
      "max": 555.37,
-     "q1": 217.63,
-     "q3": 481.54,
-     "count": 23,
-     "count_filtered": 23,
+     "q1": 217.31,
+     "q3": 463.6,
+     "count": 24,
+     "count_filtered": 24,
      "samples": [
       {
-       "title": "Leica Winder M for Leica MD-2 / M4-2 / M4-P / M6 boxed 14403",
-       "price": 250.26,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/BPoAAeSwLipq52Kh/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/267831243475?_skw=Leica+Winder+M&hash=item3e5bfc72d3:g:BPoAAeSwLipq52Kh"
-      },
-      {
        "title": "Leica Leitz 14400 Accessory. Leica Winder M4-2. With original box.",
-       "price": 252.29,
+       "price": 251.52,
        "currency": "USD",
        "condition": "Occasion",
        "image": "https://i.ebayimg.com/images/g/1uQAAOSwVI1hcYDW/s-l1600.jpg",
@@ -4731,6 +4730,14 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/WeoAAeSwk8Fq6NhV/s-l1200.jpg",
        "url": "https://www.ebay.com/itm/168833142496?_skw=Leica+Winder+M&hash=item274f3d4ee0:g:WeoAAeSwk8Fq6NhV"
+      },
+      {
+       "title": "LEICA Winder M Camera Winder Operation Checked Light Wear Collectible",
+       "price": 399.0,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/7hcAAeSwXx5q6Wi2/s-l1200.jpg",
+       "url": "https://www.ebay.com/itm/168834091100?_skw=Leica+Winder+M&hash=item274f4bc85c:g:7hcAAeSwXx5q6Wi2"
       }
      ]
     },
@@ -4739,12 +4746,12 @@
      "name_ko": "Leica Leicavit M",
      "name_en": "Leica Leicavit M",
      "subcategory": "grips-winders",
-     "median": 1405.43,
-     "mean": 1363.78,
+     "median": 1403.29,
+     "mean": 1363.14,
      "min": 965.0,
      "max": 1775.0,
-     "q1": 1207.57,
-     "q3": 1489.3,
+     "q1": 1209.94,
+     "q3": 1487.09,
      "count": 20,
      "count_filtered": 20,
      "samples": [
@@ -4758,7 +4765,7 @@
       },
       {
        "title": "LEICA LEICAVIT-M SILVER 14008 #5053",
-       "price": 1425.97,
+       "price": 1421.68,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/b6UAAeSwYkpq-ESB/s-l1600.jpg",
@@ -4774,7 +4781,7 @@
       },
       {
        "title": "Leica 14009 - Leica Leicavit-M Black Paint Winder \"Fullset/Boxed\" - Original Box!",
-       "price": 1457.66,
+       "price": 1453.28,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/CcQAAeSwYmBq32Xf/s-l1200.jpg",
@@ -4796,8 +4803,8 @@
      "name_en": "Leica M11 Handgrip",
      "subcategory": "grips-winders",
      "median": 309.98,
-     "mean": 296.17,
-     "min": 185.12,
+     "mean": 296.19,
+     "min": 184.83,
      "max": 439.1,
      "q1": 249.49,
      "q3": 336.05,
@@ -4806,7 +4813,7 @@
      "samples": [
       {
        "title": "Original Leica Thumb Support Grip Rest 24015 Silver Fr M10 M10‑P M10‑R M11 M11‑P",
-       "price": 278.67,
+       "price": 279.22,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/WFUAAeSwV71quyR9/s-l1600.jpg",
@@ -4834,7 +4841,7 @@
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/YjUAAeSwunVqPRrI/s-l1600.jpg",
-       "url": "https://www.ebay.com/itm/960223683744?_skw=Leica+M11+handgrip&hash=itemdf91caa4a0:g:YjUAAeSwunVqPRrI"
+       "url": "https://www.ebay.com/itm/960248041071?_skw=Leica+M11+handgrip&hash=itemdf933e4e6f:g:YjUAAeSwunVqPRrI"
       },
       {
        "title": "Leica M11 Series Exclusive Carbon Fiber Hand Grip Case",
@@ -4866,18 +4873,18 @@
      "name_ko": "Leica SF 60",
      "name_en": "Leica SF 60",
      "subcategory": "flash",
-     "median": 609.79,
-     "mean": 576.24,
-     "min": 358.29,
+     "median": 609.83,
+     "mean": 558.68,
+     "min": 351.33,
      "max": 752.47,
-     "q1": 493.69,
-     "q3": 662.35,
+     "q1": 396.3,
+     "q3": 639.99,
      "count": 10,
      "count_filtered": 10,
      "samples": [
       {
        "title": "Leica SF 60 Flash Unit (14625) TTL Mount Flash Excellent Condition incl. Original Packaging & Accessories",
-       "price": 523.33,
+       "price": 521.75,
        "currency": "USD",
        "condition": "Gebraucht",
        "image": "https://i.ebayimg.com/images/g/RYMAAeSwJCtq~u7m/s-l1600.jpg",
@@ -4885,7 +4892,7 @@
       },
       {
        "title": "Leica SF 60 Flash Unit",
-       "price": 590.57,
+       "price": 590.43,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/v8YAAeSwX0NquEW8/s-l1200.jpg",
@@ -4893,11 +4900,19 @@
       },
       {
        "title": "Leica SF 60 Camera Flash (Preowned)",
-       "price": 629.0,
+       "price": 630.24,
        "currency": "USD",
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/GsYAAeSw2q9opXah/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/157257508128?_skw=Leica+SF+60+flash&hash=item249d472520:g:GsYAAeSw2q9opXah"
+      },
+      {
+       "title": "LEICA SF60 14625 Flash Black",
+       "price": 629.23,
+       "currency": "USD",
+       "condition": "Used",
+       "image": "https://i.ebayimg.com/images/g/u2MAAeSwHD5q8UBk/s-l960.jpg",
+       "url": "https://www.ebay.com/itm/840109237078?_skw=Leica+SF+60+flash&hash=itemc39a69a356:g:u2MAAeSwHD5q8UBk"
       },
       {
        "title": "[Top MINT in Box] Leica Camera Flash SF60 SF 60 Shoe Mount 14625 From JAPAN",
@@ -4906,14 +4921,6 @@
        "condition": "Used",
        "image": "https://i.ebayimg.com/images/g/4JsAAeSwEMxrB3q6/s-l1600.jpg",
        "url": "https://www.ebay.com/itm/920185191096?_skw=Leica+SF+60+flash&hash=itemd63f4fbab8:g:4JsAAeSwEMxrB3q6"
-      },
-      {
-       "title": "LEICA SF60 14625 Flash Black",
-       "price": 662.35,
-       "currency": "USD",
-       "condition": "Used",
-       "image": "https://i.ebayimg.com/images/g/u2MAAeSwHD5q8UBk/s-l960.jpg",
-       "url": "https://www.ebay.com/itm/840109237078?_skw=Leica+SF+60+flash&hash=itemc39a69a356:g:u2MAAeSwHD5q8UBk"
       }
      ]
     }
